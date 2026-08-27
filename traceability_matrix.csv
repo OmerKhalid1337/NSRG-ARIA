@@ -1,0 +1,297 @@
+requirement_id,requirement,statement_id,speaker,timestamp,source_text
+REQ-001,The system shall enable the user to report via the portal.,S011,spk_0,2026-08-27 00:00:00,"For example, you need a proper budget, budgetting portal, reporting portal, scheduling portal and a fan portal for your consumers, fans, users."
+REQ-001,The system shall enable the user to report via the portal.,S012,spk_0,2026-08-27 00:00:00,"So we'll go one by one, uh and we'll ask you some questions regarding each of these key categories and then um maybe you can add whatever we have missed and we'll just round it up nicely."
+REQ-002,The system shall provide budget functionality.,S013,spk_0,2026-08-27 00:00:00,"So uh regarding the budget, uh We want to know the basics first."
+REQ-002,The system shall provide budget functionality.,S014,spk_0,2026-08-27 00:00:00,So uh how is the IFA Financed and what are your main expense categories?
+REQ-003,The system shall permit management actions only by the ifa.,S030,spk_1,2026-08-27 00:02:25,The IFA only controls the ballance and monitor it to see that everything is managed properly.
+REQ-003,The system shall permit management actions only by the ifa.,S031,spk_1,2026-08-27 00:02:25,"The responsibility for managing the budget is on the team, not only IFA."
+REQ-003,The system shall permit management actions only by the ifa.,S025,spk_2,2026-08-27 00:02:15,"Okay, so the IFA is like an association of different teams and then the budget is consolidated uh through the IFA and then it's distributed to the teams?"
+REQ-003,The system shall permit management actions only by the ifa.,S026,spk_2,2026-08-27 00:02:15,They're just trying to understand how.
+REQ-003,The system shall permit management actions only by the ifa.,S027,spk_1,2026-08-27 00:02:25,No no no no no no.
+REQ-003,The system shall permit management actions only by the ifa.,S028,spk_1,2026-08-27 00:02:25,Okay.
+REQ-003,The system shall permit management actions only by the ifa.,S029,spk_1,2026-08-27 00:02:25,So the idea is that each team manage its own budget.
+REQ-004,The system shall allow only the team to access the budget.,S031,spk_1,2026-08-27 00:02:25,"The responsibility for managing the budget is on the team, not only IFA."
+REQ-004,The system shall allow only the team to access the budget.,S032,spk_0,2026-08-27 00:02:43,"Sorry, sorry to interrupt."
+REQ-004,The system shall allow only the team to access the budget.,S026,spk_2,2026-08-27 00:02:15,They're just trying to understand how.
+REQ-004,The system shall allow only the team to access the budget.,S027,spk_1,2026-08-27 00:02:25,No no no no no no.
+REQ-004,The system shall allow only the team to access the budget.,S028,spk_1,2026-08-27 00:02:25,Okay.
+REQ-004,The system shall allow only the team to access the budget.,S029,spk_1,2026-08-27 00:02:25,So the idea is that each team manage its own budget.
+REQ-004,The system shall allow only the team to access the budget.,S030,spk_1,2026-08-27 00:02:25,The IFA only controls the ballance and monitor it to see that everything is managed properly.
+REQ-005,The system shall allow only the ifa to perform audits.,S033,spk_1,2026-08-27 00:02:44,The IFA is only is making audits maybe set some regulation rules to what is the policies.
+REQ-005,The system shall allow only the ifa to perform audits.,S034,spk_1,2026-08-27 00:02:44,"So it it should have the ability to specify policy, budget policy in the system."
+REQ-005,The system shall allow only the ifa to perform audits.,S028,spk_1,2026-08-27 00:02:25,Okay.
+REQ-005,The system shall allow only the ifa to perform audits.,S029,spk_1,2026-08-27 00:02:25,So the idea is that each team manage its own budget.
+REQ-005,The system shall allow only the ifa to perform audits.,S030,spk_1,2026-08-27 00:02:25,The IFA only controls the ballance and monitor it to see that everything is managed properly.
+REQ-005,The system shall allow only the ifa to perform audits.,S031,spk_1,2026-08-27 00:02:25,"The responsibility for managing the budget is on the team, not only IFA."
+REQ-005,The system shall allow only the ifa to perform audits.,S032,spk_0,2026-08-27 00:02:43,"Sorry, sorry to interrupt."
+REQ-006,The system should include a budget feature.,S034,spk_1,2026-08-27 00:02:44,"So it it should have the ability to specify policy, budget policy in the system."
+REQ-006,The system should include a budget feature.,S035,spk_1,2026-08-27 00:02:44,So the system can alert of certain violation.
+REQ-007,The system shall allow the referee to insert.,S076,spk_1,2026-08-27 00:05:04,"The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game."
+REQ-007,The system shall allow the referee to insert.,S077,spk_1,2026-08-27 00:05:04,Real time.
+REQ-008,The system shall permit insertion only by the referee.,S079,spk_1,2026-08-27 00:05:04,It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.
+REQ-008,The system shall permit insertion only by the referee.,S080,spk_1,2026-08-27 00:05:04,Since we would like to have the other information as reliable as possible.
+REQ-008,The system shall permit insertion only by the referee.,S074,spk_1,2026-08-27 00:05:04,Okay.
+REQ-008,The system shall permit insertion only by the referee.,S075,spk_1,2026-08-27 00:05:04,So what are currently what is being done in the er in the end the games that the referee probably is writing some kind of report and then you set it over to the IFA.
+REQ-008,The system shall permit insertion only by the referee.,S076,spk_1,2026-08-27 00:05:04,"The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game."
+REQ-008,The system shall permit insertion only by the referee.,S077,spk_1,2026-08-27 00:05:04,Real time.
+REQ-008,The system shall permit insertion only by the referee.,S078,spk_1,2026-08-27 00:05:04,So I would expect him to use his mobile phone to record the event in real time.
+REQ-009,The system shall be reliable.,S080,spk_1,2026-08-27 00:05:04,Since we would like to have the other information as reliable as possible.
+REQ-009,The system shall be reliable.,S081,spk_1,2026-08-27 00:05:04,So only the referee can update the event that the country during the game.
+REQ-010,The system shall permit updates only by the referee.,S081,spk_1,2026-08-27 00:05:04,So only the referee can update the event that the country during the game.
+REQ-010,The system shall permit updates only by the referee.,S082,spk_1,2026-08-27 00:05:04,This can be for example scoring a goal and offside uh red card uh player replacement and things like that.
+REQ-010,The system shall permit updates only by the referee.,S076,spk_1,2026-08-27 00:05:04,"The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game."
+REQ-010,The system shall permit updates only by the referee.,S077,spk_1,2026-08-27 00:05:04,Real time.
+REQ-010,The system shall permit updates only by the referee.,S078,spk_1,2026-08-27 00:05:04,So I would expect him to use his mobile phone to record the event in real time.
+REQ-010,The system shall permit updates only by the referee.,S079,spk_1,2026-08-27 00:05:04,It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.
+REQ-010,The system shall permit updates only by the referee.,S080,spk_1,2026-08-27 00:05:04,Since we would like to have the other information as reliable as possible.
+REQ-011,The system shall ensure transparency.,S094,spk_1,2026-08-27 00:06:35,"one of the the goal of the system is to increase, sorry, transparency."
+REQ-011,The system shall ensure transparency.,S095,spk_1,2026-08-27 00:06:35,So the idea is that this kind of data is revealed to everyone.
+REQ-011,The system shall ensure transparency.,S089,spk_2,2026-08-27 00:06:22,How many goals each team scored.
+REQ-011,The system shall ensure transparency.,S090,spk_2,2026-08-27 00:06:22,Do the teams have access to this kind of data through you now?
+REQ-011,The system shall ensure transparency.,S091,spk_1,2026-08-27 00:06:35,So everyone is able to see the entire data.
+REQ-011,The system shall ensure transparency.,S092,spk_1,2026-08-27 00:06:35,"Even a guest to the system is able to see the final grain data, which is okay."
+REQ-011,The system shall ensure transparency.,S093,spk_1,2026-08-27 00:06:35,Everyone can do analysis of what did that whatever it like.
+REQ-012,The system should register the budget.,S096,spk_1,2026-08-27 00:06:35,"Even if you are not registered to the system you should be able to look into such data, not the budget but the data that refer to the game, the results"
+REQ-012,The system should register the budget.,S097,spk_2,2026-08-27 00:07:12,"and you can, you can export or you want to be able to export this data to like journalists or press or whatever."
+REQ-012,The system should register the budget.,S091,spk_1,2026-08-27 00:06:35,So everyone is able to see the entire data.
+REQ-012,The system should register the budget.,S092,spk_1,2026-08-27 00:06:35,"Even a guest to the system is able to see the final grain data, which is okay."
+REQ-012,The system should register the budget.,S093,spk_1,2026-08-27 00:06:35,Everyone can do analysis of what did that whatever it like.
+REQ-012,The system should register the budget.,S094,spk_1,2026-08-27 00:06:35,"one of the the goal of the system is to increase, sorry, transparency."
+REQ-012,The system should register the budget.,S095,spk_1,2026-08-27 00:06:35,So the idea is that this kind of data is revealed to everyone.
+REQ-013,The system shall export.,S097,spk_2,2026-08-27 00:07:12,"and you can, you can export or you want to be able to export this data to like journalists or press or whatever."
+REQ-013,The system shall export.,S098,spk_2,2026-08-27 00:07:12,Okay.
+REQ-014,The system shall report.,S103,spk_0,2026-08-27 00:07:23,So um is there any kind of reports that you receive or want to receive regarding?
+REQ-014,The system shall report.,S104,spk_0,2026-08-27 00:07:23,Say say I am a team manager.
+REQ-015,The system shall enable the team to report.,S105,spk_0,2026-08-27 00:07:23,And do you want to report from me saying that I have a new player in my team or this player will be leaving my team?
+REQ-015,The system shall enable the team to report.,S106,spk_0,2026-08-27 00:07:23,"So if we played some tournaments, we had these many events and these many losses, something like that."
+REQ-015,The system shall enable the team to report.,S107,spk_1,2026-08-27 00:07:55,"Again, for the team, the entire resources of that."
+REQ-016,The system shall allow the team to manage.,S111,spk_1,2026-08-27 00:07:55,"But the system will allow the team manager, the team administration to uh look into this data and then reform its analysis offline."
+REQ-016,The system shall allow the team to manage.,S112,spk_2,2026-08-27 00:08:31,Okay.
+REQ-017,The system shall be accessible only to the team.,S120,spk_1,2026-08-27 00:08:44,It's done only by the teams.
+REQ-017,The system shall be accessible only to the team.,S121,spk_1,2026-08-27 00:08:44,Okay.
+REQ-017,The system shall be accessible only to the team.,S115,spk_1,2026-08-27 00:08:39,Just the team.
+REQ-017,The system shall be accessible only to the team.,S116,spk_1,2026-08-27 00:08:39,Each team separately.
+REQ-017,The system shall be accessible only to the team.,S117,spk_2,2026-08-27 00:08:41,Okay.
+REQ-017,The system shall be accessible only to the team.,S118,spk_1,2026-08-27 00:08:44,There are two issues.
+REQ-017,The system shall be accessible only to the team.,S119,spk_1,2026-08-27 00:08:44,The insertion of budget transaction and items.
+REQ-018,The system shall only access.,S122,spk_1,2026-08-27 00:08:44,They can only access their own data.
+REQ-018,The system shall only access.,S123,spk_1,2026-08-27 00:08:44,Okay.
+REQ-018,The system shall only access.,S117,spk_2,2026-08-27 00:08:41,Okay.
+REQ-018,The system shall only access.,S118,spk_1,2026-08-27 00:08:44,There are two issues.
+REQ-018,The system shall only access.,S119,spk_1,2026-08-27 00:08:44,The insertion of budget transaction and items.
+REQ-018,The system shall only access.,S120,spk_1,2026-08-27 00:08:44,It's done only by the teams.
+REQ-018,The system shall only access.,S121,spk_1,2026-08-27 00:08:44,Okay.
+REQ-019,The system shall allow the ifa to view only.,S124,spk_1,2026-08-27 00:08:44,The IFA then only view the entire monetary information.
+REQ-019,The system shall allow the ifa to view only.,S125,spk_1,2026-08-27 00:08:44,Okay.
+REQ-019,The system shall allow the ifa to view only.,S119,spk_1,2026-08-27 00:08:44,The insertion of budget transaction and items.
+REQ-019,The system shall allow the ifa to view only.,S120,spk_1,2026-08-27 00:08:44,It's done only by the teams.
+REQ-019,The system shall allow the ifa to view only.,S121,spk_1,2026-08-27 00:08:44,Okay.
+REQ-019,The system shall allow the ifa to view only.,S122,spk_1,2026-08-27 00:08:44,They can only access their own data.
+REQ-019,The system shall allow the ifa to view only.,S123,spk_1,2026-08-27 00:08:44,Okay.
+REQ-020,The system shall schedule.,S140,spk_1,2026-08-27 00:09:39,"Uh, so what I would like the system to have, is to have the ability to define policy of how to schedule games."
+REQ-020,The system shall schedule.,S141,spk_1,2026-08-27 00:09:39,"For example, a common policy is that each game, it's uh, a pair of teams they too can sale, once in the in team A stadium and once in team B stadium, this is a common practice."
+REQ-021,The system should provide scheduling functionality.,S145,spk_1,2026-08-27 00:09:39,So this kind of constraints should be taken into account when executing the the scheduling algorithm.
+REQ-021,The system should provide scheduling functionality.,S146,spk_2,2026-08-27 00:11:13,Okay.
+REQ-022,The system should provide functionality for the referee.,S156,spk_1,2026-08-27 00:11:24,"So for uh for the referee as well, the system should be uh should have some kind of uh guidance of how to allocate referees to games."
+REQ-022,The system should provide functionality for the referee.,S157,spk_1,2026-08-27 00:11:24,"For example, we wouldn't like the same refereee to participate in the game and two games of the same teams."
+REQ-023,The system shall allow the referee to assign.,S162,spk_1,2026-08-27 00:12:29,"So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences."
+REQ-023,The system shall allow the referee to assign.,S163,spk_1,2026-08-27 00:12:29,Okay.
+REQ-024,The system shall provide scheduling functionality.,S165,spk_1,2026-08-27 00:12:29,So when scheduling it will take these constraints as well.
+REQ-024,The system shall provide scheduling functionality.,S166,spk_2,2026-08-27 00:13:07,Okay.
+REQ-025,The system shall not.,S167,spk_2,2026-08-27 00:13:07,"And of course now, because it's done manually, we cannot accommodate such requests."
+REQ-025,The system shall not.,S168,spk_1,2026-08-27 00:13:11,Indeed.
+REQ-025,The system shall not.,S162,spk_1,2026-08-27 00:12:29,"So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences."
+REQ-025,The system shall not.,S163,spk_1,2026-08-27 00:12:29,Okay.
+REQ-025,The system shall not.,S164,spk_1,2026-08-27 00:12:29,"For example, since I planned already my vacation for the next year, I cannot participate in these days."
+REQ-025,The system shall not.,S165,spk_1,2026-08-27 00:12:29,So when scheduling it will take these constraints as well.
+REQ-025,The system shall not.,S166,spk_2,2026-08-27 00:13:07,Okay.
+REQ-026,The system shall provide scheduling capabilities.,S172,spk_2,2026-08-27 00:13:23,And would you like them to have a say in the algorithm of the scheduling later on the system to be
+REQ-026,The system shall provide scheduling capabilities.,S173,spk_1,2026-08-27 00:13:27,No no no.
+REQ-027,The system shall not.,S176,spk_1,2026-08-27 00:13:27,"It cannot be changed unless there's one um, it might be reduced to certain circumstances."
+REQ-027,The system shall not.,S177,spk_1,2026-08-27 00:13:27,The game is canceled.
+REQ-027,The system shall not.,S171,spk_1,2026-08-27 00:13:20,The team doesn't have any say regarding the schedule.
+REQ-027,The system shall not.,S172,spk_2,2026-08-27 00:13:23,And would you like them to have a say in the algorithm of the scheduling later on the system to be
+REQ-027,The system shall not.,S173,spk_1,2026-08-27 00:13:27,No no no.
+REQ-027,The system shall not.,S174,spk_1,2026-08-27 00:13:27,"Once you are scheduled for a season, it's done."
+REQ-027,The system shall not.,S175,spk_1,2026-08-27 00:13:27,Okay.
+REQ-028,The system shall schedule.,S179,spk_1,2026-08-27 00:13:27,"So in that sense, we need to reschedule the game."
+REQ-028,The system shall schedule.,S180,spk_1,2026-08-27 00:13:27,"So in that sense, in that case we need to allow manual adjustment of the schedule."
+REQ-029,The system shall schedule.,S180,spk_1,2026-08-27 00:13:27,"So in that sense, in that case we need to allow manual adjustment of the schedule."
+REQ-029,The system shall schedule.,S181,spk_2,2026-08-27 00:14:02,Okay.
+REQ-030,The system shall view scheduling.,S186,spk_1,2026-08-27 00:14:07,"When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems."
+REQ-030,The system shall view scheduling.,S187,spk_1,2026-08-27 00:14:07,So we might override the results yet you need to explicate.
+REQ-030,The system shall view scheduling.,S181,spk_2,2026-08-27 00:14:02,Okay.
+REQ-030,The system shall view scheduling.,S182,spk_2,2026-08-27 00:14:02,Okay.
+REQ-030,The system shall view scheduling.,S183,spk_2,2026-08-27 00:14:02,And the system to be there would be a manual adjustment.
+REQ-030,The system shall view scheduling.,S184,spk_2,2026-08-27 00:14:02,"Okay, sure."
+REQ-030,The system shall view scheduling.,S185,spk_1,2026-08-27 00:14:07,"Another case that could be, it might be that the yeah."
+REQ-031,The system shall override.,S187,spk_1,2026-08-27 00:14:07,So we might override the results yet you need to explicate.
+REQ-031,The system shall override.,S188,spk_1,2026-08-27 00:14:07,You need to explain the rationale for the change.
+REQ-032,The system should support the actor ifa.,S190,spk_1,2026-08-27 00:14:07,And then another IFA representative should confirm that change.
+REQ-032,The system should support the actor ifa.,S191,spk_2,2026-08-27 00:14:47,"All right, okay."
+REQ-032,The system should support the actor ifa.,S185,spk_1,2026-08-27 00:14:07,"Another case that could be, it might be that the yeah."
+REQ-032,The system should support the actor ifa.,S186,spk_1,2026-08-27 00:14:07,"When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems."
+REQ-032,The system should support the actor ifa.,S187,spk_1,2026-08-27 00:14:07,So we might override the results yet you need to explicate.
+REQ-032,The system should support the actor ifa.,S188,spk_1,2026-08-27 00:14:07,You need to explain the rationale for the change.
+REQ-032,The system should support the actor ifa.,S189,spk_1,2026-08-27 00:14:07,"Again, you to transparency and bias issues you have to explicate."
+REQ-033,The system shall enable the team to schedule.,S193,spk_0,2026-08-27 00:14:49,"So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that."
+REQ-033,The system shall enable the team to schedule.,S194,spk_0,2026-08-27 00:14:49,Why do they want to change the existing scheduling?
+REQ-034,The system shall provide scheduling capabilities.,S194,spk_0,2026-08-27 00:14:49,Why do they want to change the existing scheduling?
+REQ-034,The system shall provide scheduling capabilities.,S195,spk_1,2026-08-27 00:15:32,No there is only one level.
+REQ-035,The system shall only.,S195,spk_1,2026-08-27 00:15:32,No there is only one level.
+REQ-035,The system shall only.,S196,spk_1,2026-08-27 00:15:32,The automatic scheduling and override by the IFA representative.
+REQ-035,The system shall only.,S190,spk_1,2026-08-27 00:14:07,And then another IFA representative should confirm that change.
+REQ-035,The system shall only.,S191,spk_2,2026-08-27 00:14:47,"All right, okay."
+REQ-035,The system shall only.,S192,spk_0,2026-08-27 00:14:49,Yeah.
+REQ-035,The system shall only.,S193,spk_0,2026-08-27 00:14:49,"So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that."
+REQ-035,The system shall only.,S194,spk_0,2026-08-27 00:14:49,Why do they want to change the existing scheduling?
+REQ-036,The system shall enable ifa to schedule.,S202,spk_2,2026-08-27 00:15:41,And and this level of the IFA Scheduler is uh you need approval from two of them.
+REQ-036,The system shall enable ifa to schedule.,S203,spk_2,2026-08-27 00:15:41,A second reviewer.
+REQ-037,The system should …,S216,spk_0,2026-08-27 00:16:16,Now we have a minimum we should have two days of gap before playing the next game or one day of gap before playing the next game.
+REQ-037,The system should …,S217,spk_1,2026-08-27 00:16:35,That will be part of the policy of the scheduling.
+REQ-038,The system should schedule.,S220,spk_0,2026-08-27 00:16:38,So you mentioned this in your own uh in the software like this is how you should schedule.
+REQ-038,The system should schedule.,S221,spk_1,2026-08-27 00:16:45,uh policy you have at least uh you have the number of teams multiplied by two days where the next match
+REQ-039,The system shall support the team with at least the required capability.,S221,spk_1,2026-08-27 00:16:45,uh policy you have at least uh you have the number of teams multiplied by two days where the next match
+REQ-039,The system shall support the team with at least the required capability.,S222,spk_2,2026-08-27 00:16:56,And you need to be to be able to define these parameters into the system to be built.
+REQ-040,The system shall define.,S222,spk_2,2026-08-27 00:16:56,And you need to be to be able to define these parameters into the system to be built.
+REQ-040,The system shall define.,S223,spk_2,2026-08-27 00:16:56,Right.
+REQ-041,The system should support the player.,S234,spk_1,2026-08-27 00:17:25,"Uh If a player post a message, you should look for it and things like that."
+REQ-041,The system should support the player.,S235,spk_1,2026-08-27 00:17:25,"Our view in the new systems, we would like the fan to get information from the system in a push mail."
+REQ-042,The system shall allow the fan to view.,S235,spk_1,2026-08-27 00:17:25,"Our view in the new systems, we would like the fan to get information from the system in a push mail."
+REQ-042,The system shall allow the fan to view.,S236,spk_1,2026-08-27 00:17:25,"So for example, if he's interested in a, in a certain game Barcelona versus Real Madrid."
+REQ-043,The system shall provide notification.,S242,spk_1,2026-08-27 00:18:28,"And then uh, when Messi posts a message, you would get a notification from the system."
+REQ-043,The system shall provide notification.,S243,spk_2,2026-08-27 00:18:44,Okay.
+REQ-043,The system shall provide notification.,S237,spk_1,2026-08-27 00:17:25,"Uh, so we would register to that game and you would get notifications, notifications regarding that game."
+REQ-043,The system shall provide notification.,S238,spk_1,2026-08-27 00:17:25,"For example, if the game of if the schedule is changed would get notification."
+REQ-043,The system shall provide notification.,S239,spk_2,2026-08-27 00:18:26,Okay.
+REQ-043,The system shall provide notification.,S240,spk_1,2026-08-27 00:18:28,I can also registered to one of its favourite players.
+REQ-043,The system shall provide notification.,S241,spk_1,2026-08-27 00:18:28,"For example, it would registered to Messi uh, page."
+REQ-044,The system shall enable the referee to update the report.,S254,spk_0,2026-08-27 00:19:29,Second section can be uh the live update section where fans can also see what referees posting from our referee reporting what referees posting.
+REQ-044,The system shall enable the referee to update the report.,S255,spk_0,2026-08-27 00:19:29,And then also we can include the live score that is going on in the match.
+REQ-045,The system shall access.,S276,spk_1,2026-08-27 00:21:34,"Certainly the upper layer of the presentation, there will be different uh of course with access with different tactical culture to the various stakeholders, but the goal of the system is the same with a unified system."
+REQ-045,The system shall access.,S277,spk_0,2026-08-27 00:21:56,"Okay, Okay."
+REQ-046,The system shall permit updates only by the referee.,S285,spk_1,2026-08-27 00:22:16,"In the new system only the referee, you can update this through the system."
+REQ-046,The system shall permit updates only by the referee.,S286,spk_1,2026-08-27 00:22:16,"So it's, it's coherent and reliable."
+REQ-046,The system shall permit updates only by the referee.,S280,spk_1,2026-08-27 00:22:16,"So the data that's collected nowadays that uh, for example, if we are watch again and we can have it update through the news portal, uh, and at this minute we got score, a goal."
+REQ-046,The system shall permit updates only by the referee.,S281,spk_1,2026-08-27 00:22:16,So this minute there was an offset and things like that.
+REQ-046,The system shall permit updates only by the referee.,S282,spk_1,2026-08-27 00:22:16,But this is not an official one.
+REQ-046,The system shall permit updates only by the referee.,S283,spk_1,2026-08-27 00:22:16,"So there is, there is a mixture of data."
+REQ-046,The system shall permit updates only by the referee.,S284,spk_1,2026-08-27 00:22:16,Okay.
+REQ-047,The system shall be accessible only to the referee.,S288,spk_2,2026-08-27 00:22:50,"So, so you need the system to enable the referees and the official channels to be the only source of channel uh, of data about the games."
+REQ-047,The system shall be accessible only to the referee.,S289,spk_1,2026-08-27 00:23:00,Yeah.
+REQ-047,The system shall be accessible only to the referee.,S283,spk_1,2026-08-27 00:22:16,"So there is, there is a mixture of data."
+REQ-047,The system shall be accessible only to the referee.,S284,spk_1,2026-08-27 00:22:16,Okay.
+REQ-047,The system shall be accessible only to the referee.,S285,spk_1,2026-08-27 00:22:16,"In the new system only the referee, you can update this through the system."
+REQ-047,The system shall be accessible only to the referee.,S286,spk_1,2026-08-27 00:22:16,"So it's, it's coherent and reliable."
+REQ-047,The system shall be accessible only to the referee.,S287,spk_2,2026-08-27 00:22:50,Okay.
+REQ-048,The system shall provide a portal.,S291,spk_1,2026-08-27 00:23:00,So they don't need to look forward news portal.
+REQ-048,The system shall provide a portal.,S292,spk_1,2026-08-27 00:23:00,Just look into the system.
+REQ-049,The system shall satisfy performance criteria.,S296,spk_0,2026-08-27 00:23:13,"All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication."
+REQ-049,The system shall satisfy performance criteria.,S297,spk_0,2026-08-27 00:23:13,Is there's some gaps currently which is uh which is not making it a good communication system or something?
+REQ-049,The system shall satisfy performance criteria.,S298,spk_1,2026-08-27 00:23:42,"Yeah, because for the fans there is no direct communication in the fans."
+REQ-050,The system shall provide notification functionality to the fan.,S299,spk_1,2026-08-27 00:23:42,"They have to, you know to initiate the fans, have to initiate the communication and not like we discussed before with the other notification mechanism."
+REQ-050,The system shall provide notification functionality to the fan.,S300,spk_1,2026-08-27 00:23:42,Uh this is one issue.
+REQ-050,The system shall provide notification functionality to the fan.,S294,spk_2,2026-08-27 00:23:09,Okay.
+REQ-050,The system shall provide notification functionality to the fan.,S295,spk_2,2026-08-27 00:23:09,"Um,"
+REQ-050,The system shall provide notification functionality to the fan.,S296,spk_0,2026-08-27 00:23:13,"All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication."
+REQ-050,The system shall provide notification functionality to the fan.,S297,spk_0,2026-08-27 00:23:13,Is there's some gaps currently which is uh which is not making it a good communication system or something?
+REQ-050,The system shall provide notification functionality to the fan.,S298,spk_1,2026-08-27 00:23:42,"Yeah, because for the fans there is no direct communication in the fans."
+REQ-051,The system shall allow a fan to register.,S301,spk_1,2026-08-27 00:23:42,Mm I think this is the main issue will be unable to the fans to register to specific information that they are interested in and then we push them the information.
+REQ-051,The system shall allow a fan to register.,S302,spk_1,2026-08-27 00:23:42,I think this is the main idea.
+REQ-052,The system shall enable the team to report.,S305,spk_0,2026-08-27 00:24:21,"Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to."
+REQ-052,The system shall enable the team to report.,S306,spk_0,2026-08-27 00:24:21,The team manager has to support a submit a report to the IFA once a year.
+REQ-053,The system shall enable the team to manage reports.,S306,spk_0,2026-08-27 00:24:21,The team manager has to support a submit a report to the IFA once a year.
+REQ-053,The system shall enable the team to manage reports.,S307,spk_0,2026-08-27 00:24:21,So some some kind of automatic reminder notification
+REQ-054,The system shall provide notification.,S307,spk_0,2026-08-27 00:24:21,So some some kind of automatic reminder notification
+REQ-054,The system shall provide notification.,S308,spk_1,2026-08-27 00:24:49,"Yeah yeah for me, some kind of policy regulation in regards to the for the budget."
+REQ-054,The system shall provide notification.,S302,spk_1,2026-08-27 00:23:42,I think this is the main idea.
+REQ-054,The system shall provide notification.,S303,spk_1,2026-08-27 00:23:42,Did this answer your question.
+REQ-054,The system shall provide notification.,S304,spk_0,2026-08-27 00:24:21,"Yes, yes you did."
+REQ-054,The system shall provide notification.,S305,spk_0,2026-08-27 00:24:21,"Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to."
+REQ-054,The system shall provide notification.,S306,spk_0,2026-08-27 00:24:21,The team manager has to support a submit a report to the IFA once a year.
+REQ-055,The system shall provide budget functionality.,S308,spk_1,2026-08-27 00:24:49,"Yeah yeah for me, some kind of policy regulation in regards to the for the budget."
+REQ-055,The system shall provide budget functionality.,S309,spk_1,2026-08-27 00:24:49,"Uh another issue, defend defend itself can itself can specify uh alerts, so for example, remind me five minutes before the game starts."
+REQ-056,The system shall access quickly.,S313,spk_2,2026-08-27 00:25:20,"It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast."
+REQ-056,The system shall access quickly.,S314,spk_2,2026-08-27 00:25:20,"Uh, any any clarification about how fast is it, what key performance indicators are expected?"
+REQ-057,The system shall provide a response time.,S315,spk_1,2026-08-27 00:25:37,"Yeah, first I meant a reasonable response time."
+REQ-057,The system shall provide a response time.,S316,spk_1,2026-08-27 00:25:37,What do you mean?
+REQ-057,The system shall provide a response time.,S310,spk_1,2026-08-27 00:24:49,"Okay, So we're registered to the specific and you can, you know when it starts and then you can get an amplification as well."
+REQ-057,The system shall provide a response time.,S311,spk_2,2026-08-27 00:25:20,Okay.
+REQ-057,The system shall provide a response time.,S312,spk_2,2026-08-27 00:25:20,I think We can we can talk about the technicalities of the system itself for a while.
+REQ-057,The system shall provide a response time.,S313,spk_2,2026-08-27 00:25:20,"It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast."
+REQ-057,The system shall provide a response time.,S314,spk_2,2026-08-27 00:25:20,"Uh, any any clarification about how fast is it, what key performance indicators are expected?"
+REQ-058,The system shall be fast.,S321,spk_1,2026-08-27 00:25:37,"We need to application to walk very fast in real time, meaning they should be very responsive and even get some priorities over other activities that are in the stadium, probably in the stadium."
+REQ-058,The system shall be fast.,S322,spk_1,2026-08-27 00:25:37,Okay.
+REQ-059,The system shall provide capabilities for the referee.,S323,spk_1,2026-08-27 00:25:37,"So when referee is connected to the system, you should get."
+REQ-059,The system shall provide capabilities for the referee.,S324,spk_1,2026-08-27 00:25:37,"When he is in a game, you should get a high priority so we can report the events as quick as possible."
+REQ-060,The system shall report.,S324,spk_1,2026-08-27 00:25:37,"When he is in a game, you should get a high priority so we can report the events as quick as possible."
+REQ-060,The system shall report.,S325,spk_1,2026-08-27 00:25:37,"Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are."
+REQ-061,The system shall enable the referee to send notifications.,S329,spk_2,2026-08-27 00:26:36,Is there any scenario where the FAA would would want to notify the referee of anything during or before or after the game.
+REQ-061,The system shall enable the referee to send notifications.,S330,spk_2,2026-08-27 00:26:36,Anything that might cancel the game or any issue or anything or it's just one way
+REQ-061,The system shall enable the referee to send notifications.,S331,spk_1,2026-08-27 00:26:53,No no no just the referee in the middle of the system and receive its response uh In a immediate immediately.
+REQ-061,The system shall enable the referee to send notifications.,S324,spk_1,2026-08-27 00:25:37,"When he is in a game, you should get a high priority so we can report the events as quick as possible."
+REQ-061,The system shall enable the referee to send notifications.,S325,spk_1,2026-08-27 00:25:37,"Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are."
+REQ-061,The system shall enable the referee to send notifications.,S326,spk_1,2026-08-27 00:25:37,Okay.
+REQ-061,The system shall enable the referee to send notifications.,S327,spk_1,2026-08-27 00:25:37,Uh
+REQ-061,The system shall enable the referee to send notifications.,S328,spk_2,2026-08-27 00:26:36,Do you expect or or need a two way communication with the referee.
+REQ-062,The system should …,S347,spk_2,2026-08-27 00:28:20,And also the after the system is up and running all the storage the computing everything should be handled by an external company sources around the cloud service or some kind of service in the uh Okay.
+REQ-062,The system should …,S348,spk_2,2026-08-27 00:28:20,"Uh I I know it's a it's a very general question, but is there any legal or financial restrictions on the system to have, like there any data that's too confidential to store uh off sites or anything like this?"
+REQ-063,The system shall view.,S354,spk_1,2026-08-27 00:29:00,"So it might be that we need uh to adjust the system to the local regulation, the local review."
+REQ-063,The system shall view.,S355,spk_1,2026-08-27 00:29:00,"So, for example, in terms of language, in terms of currency, in terms of time zone, so this is important."
+REQ-064,The system should …,S359,spk_1,2026-08-27 00:29:00,Uh We should take this into consideration.
+REQ-064,The system should …,S360,spk_1,2026-08-27 00:29:00,Indeed that's a good question.
+REQ-065,The team should.,S361,spk_2,2026-08-27 00:29:59,Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud.
+REQ-065,The team should.,S362,spk_2,2026-08-27 00:29:59,You have something like this in mind?
+REQ-066,The system shall define.,S364,spk_1,2026-08-27 00:30:14,Yeah I think it should be uh we should have we should define it as uh initiative to discuss.
+REQ-066,The system shall define.,S365,spk_1,2026-08-27 00:30:14,So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data?
+REQ-067,The system should …,S365,spk_1,2026-08-27 00:30:14,So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data?
+REQ-067,The system should …,S366,spk_1,2026-08-27 00:30:14,Okay.
+REQ-067,The system should …,S360,spk_1,2026-08-27 00:29:00,Indeed that's a good question.
+REQ-067,The system should …,S361,spk_2,2026-08-27 00:29:59,Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud.
+REQ-067,The system should …,S362,spk_2,2026-08-27 00:29:59,You have something like this in mind?
+REQ-067,The system should …,S363,spk_2,2026-08-27 00:29:59,I mean do we need to have that flexible or is it a question for later?
+REQ-067,The system should …,S364,spk_1,2026-08-27 00:30:14,Yeah I think it should be uh we should have we should define it as uh initiative to discuss.
+REQ-068,The system shall ensure that the budget is encrypted.,S369,spk_1,2026-08-27 00:30:14,So maybe the budget data should be encrypted in some way to avoid leakage.
+REQ-068,The system shall ensure that the budget is encrypted.,S370,spk_2,2026-08-27 00:31:05,Okay.
+REQ-069,The system shall provide a portal.,S380,spk_2,2026-08-27 00:31:44,Within the portal of the of the system to be
+REQ-069,The system shall provide a portal.,S381,spk_0,2026-08-27 00:31:49,so uh so so this is the uh this I'm sorry I just got flustered.
+REQ-070,The system shall provide a budget feature for the player.,S383,spk_0,2026-08-27 00:31:49,But then do the players need to have a have an interface within the budgeting interface where they can see their salaries or something?
+REQ-070,The system shall provide a budget feature for the player.,S384,spk_0,2026-08-27 00:31:49,No.
+REQ-071,The system shall enable the team to register.,S399,spk_1,2026-08-27 00:32:51,"I would say that the basic of the system, meaning the teams setting the league, setting the season, uh register of the referees and the fans are the basic of the systems."
+REQ-071,The system shall enable the team to register.,S400,spk_1,2026-08-27 00:32:51,So this should be at the first phase.
+REQ-072,The system should …,S400,spk_1,2026-08-27 00:32:51,So this should be at the first phase.
+REQ-072,The system should …,S401,spk_1,2026-08-27 00:32:51,Okay.
+REQ-073,The system shall provide budget functionality.,S404,spk_0,2026-08-27 00:33:39,"Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay."
+REQ-073,The system shall provide budget functionality.,S405,spk_0,2026-08-27 00:33:39,Um there was another line in documentation which said that officials of the IFA should be involved in the system?
+REQ-074,The system should accommodate the ifa actor.,S405,spk_0,2026-08-27 00:33:39,Um there was another line in documentation which said that officials of the IFA should be involved in the system?
+REQ-074,The system should accommodate the ifa actor.,S406,spk_0,2026-08-27 00:33:39,"I have, the officials will have a role to play."
+REQ-074,The system should accommodate the ifa actor.,S408,spk_2,2026-08-27 00:34:03,I don't think uh maybe it's paraphrasing a little.
+REQ-074,The system should accommodate the ifa actor.,S400,spk_1,2026-08-27 00:32:51,So this should be at the first phase.
+REQ-074,The system should accommodate the ifa actor.,S401,spk_1,2026-08-27 00:32:51,Okay.
+REQ-074,The system should accommodate the ifa actor.,S402,spk_1,2026-08-27 00:32:51,The second phase will consist of the budgetary on the one and the scheduling on the other the third stage would be that the referee can uh update the the game information in real time.
+REQ-074,The system should accommodate the ifa actor.,S403,spk_1,2026-08-27 00:32:51,So this is the stages I'm expecting.
+REQ-074,The system should accommodate the ifa actor.,S404,spk_0,2026-08-27 00:33:39,"Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay."
+REQ-075,The system should …,S410,spk_1,2026-08-27 00:34:09,"Okay, the officials should be."
+REQ-075,The system should …,S411,spk_1,2026-08-27 00:34:09,Mhm.
+REQ-076,The system shall only.,S425,spk_1,2026-08-27 00:35:27,you're right there's only within the administration is only one role.
+REQ-076,The system shall only.,S426,spk_0,2026-08-27 00:35:33,Okay.
+REQ-076,The system shall only.,S420,spk_2,2026-08-27 00:35:02,I think I think what we are trying to get you out there any other participants or activity that we missed in the crisis?
+REQ-076,The system shall only.,S421,spk_1,2026-08-27 00:35:07,Currently in my view there is the IFA representative administration is one role that can do the budget and the scheduling and all activities.
+REQ-076,The system shall only.,S422,spk_1,2026-08-27 00:35:07,There are no separation among the various
+REQ-076,The system shall only.,S423,spk_2,2026-08-27 00:35:21,okay so there is no uh specific departments for IT And finance and so on.
+REQ-076,The system shall only.,S424,spk_2,2026-08-27 00:35:21,There is nothing like this.
+REQ-077,The system should register.,S437,spk_1,2026-08-27 00:36:09,So eventually should register to the system internet so we can be able to identification.
+REQ-077,The system should register.,S438,spk_1,2026-08-27 00:36:09,Otherwise it would be just a guest.
+REQ-078,The system should.,S451,spk_1,2026-08-27 00:37:20,All past archives should be kept.
+REQ-078,The system should.,S452,spk_1,2026-08-27 00:37:20,The reason that it should be kept.
+REQ-079,The system should …,S452,spk_1,2026-08-27 00:37:20,The reason that it should be kept.
+REQ-079,The system should …,S453,spk_1,2026-08-27 00:37:20,It's to allow some kind of recommendation reasoning maybe for the funds that are uh involved in gambling and reason about the future by okay.
+REQ-080,The system shall allow the referee to register the budget.,S459,spk_1,2026-08-27 00:37:20,"Not sure but we we mentioned the I. F. A. should be able to define the league, define the season, appoint referee or register referees, setting the various policies for the budget for the game, policy scheduling for the referee scheduling."
+REQ-080,The system shall allow the referee to register the budget.,S460,spk_1,2026-08-27 00:37:20,And then of course activate.
+REQ-080,The system shall allow the referee to register the budget.,S454,spk_1,2026-08-27 00:37:20,Last event.
+REQ-080,The system shall allow the referee to register the budget.,S455,spk_1,2026-08-27 00:37:20,So.
+REQ-080,The system shall allow the referee to register the budget.,S456,spk_1,2026-08-27 00:37:20,Okay.
+REQ-080,The system shall allow the referee to register the budget.,S457,spk_1,2026-08-27 00:37:20,Uh So we need to keep the data.
+REQ-080,The system shall allow the referee to register the budget.,S458,spk_1,2026-08-27 00:37:20,Um Yeah what else.
+REQ-081,The system shall allow the referee to insert.,S467,spk_1,2026-08-27 00:38:46,Representative insert invites the referee to being part of the system for the players.
+REQ-081,The system shall allow the referee to insert.,S468,spk_1,2026-08-27 00:38:46,The team entered the details into the system.

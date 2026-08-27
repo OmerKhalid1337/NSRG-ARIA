@@ -1,0 +1,3478 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "requirement": "The system shall enable the user to report via the portal.",
+    "frame_id": "RF-S011",
+    "source_statements": [
+      "S011",
+      "S012"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S011",
+        "turn_id": "T001",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:00:00",
+        "original_text": "For example, you need a proper budget, budgetting portal, reporting portal, scheduling portal and a fan portal for your consumers, fans, users.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S012",
+        "turn_id": "T001",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:00:00",
+        "original_text": "So we'll go one by one, uh and we'll ask you some questions regarding each of these key categories and then um maybe you can add whatever we have missed and we'll just round it up nicely.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-002",
+    "requirement": "The system shall provide budget functionality.",
+    "frame_id": "RF-S013",
+    "source_statements": [
+      "S013",
+      "S014"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S013",
+        "turn_id": "T001",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:00:00",
+        "original_text": "So uh regarding the budget, uh We want to know the basics first.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S014",
+        "turn_id": "T001",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:00:00",
+        "original_text": "So uh how is the IFA Financed and what are your main expense categories?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-003",
+    "requirement": "The system shall permit management actions only by the ifa.",
+    "frame_id": "RF-S030",
+    "source_statements": [
+      "S030",
+      "S031",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S030",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The IFA only controls the ballance and monitor it to see that everything is managed properly.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S031",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The responsibility for managing the budget is on the team, not only IFA.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S025",
+        "turn_id": "T003",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:02:15",
+        "original_text": "Okay, so the IFA is like an association of different teams and then the budget is consolidated uh through the IFA and then it's distributed to the teams?",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S026",
+        "turn_id": "T003",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:02:15",
+        "original_text": "They're just trying to understand how.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S027",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "No no no no no no.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S028",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S029",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "So the idea is that each team manage its own budget.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-004",
+    "requirement": "The system shall allow only the team to access the budget.",
+    "frame_id": "RF-S031",
+    "source_statements": [
+      "S031",
+      "S032",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S031",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The responsibility for managing the budget is on the team, not only IFA.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S032",
+        "turn_id": "T005",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:02:43",
+        "original_text": "Sorry, sorry to interrupt.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S026",
+        "turn_id": "T003",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:02:15",
+        "original_text": "They're just trying to understand how.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S027",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "No no no no no no.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S028",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S029",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "So the idea is that each team manage its own budget.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S030",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The IFA only controls the ballance and monitor it to see that everything is managed properly.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-005",
+    "requirement": "The system shall allow only the ifa to perform audits.",
+    "frame_id": "RF-S033",
+    "source_statements": [
+      "S033",
+      "S034",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S033",
+        "turn_id": "T006",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:44",
+        "original_text": "The IFA is only is making audits maybe set some regulation rules to what is the policies.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S034",
+        "turn_id": "T006",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:44",
+        "original_text": "So it it should have the ability to specify policy, budget policy in the system.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S028",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S029",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "So the idea is that each team manage its own budget.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S030",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The IFA only controls the ballance and monitor it to see that everything is managed properly.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S031",
+        "turn_id": "T004",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:25",
+        "original_text": "The responsibility for managing the budget is on the team, not only IFA.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S032",
+        "turn_id": "T005",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:02:43",
+        "original_text": "Sorry, sorry to interrupt.",
+        "dialogue_act": "correction"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-006",
+    "requirement": "The system should include a budget feature.",
+    "frame_id": "RF-S034",
+    "source_statements": [
+      "S034",
+      "S035"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S034",
+        "turn_id": "T006",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:44",
+        "original_text": "So it it should have the ability to specify policy, budget policy in the system.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S035",
+        "turn_id": "T006",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:02:44",
+        "original_text": "So the system can alert of certain violation.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-007",
+    "requirement": "The system shall allow the referee to insert.",
+    "frame_id": "RF-S076",
+    "source_statements": [
+      "S076",
+      "S077"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S076",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S077",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Real time.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-008",
+    "requirement": "The system shall permit insertion only by the referee.",
+    "frame_id": "RF-S079",
+    "source_statements": [
+      "S079",
+      "S080",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S079",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S080",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Since we would like to have the other information as reliable as possible.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S074",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S075",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "So what are currently what is being done in the er in the end the games that the referee probably is writing some kind of report and then you set it over to the IFA.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S076",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S077",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Real time.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S078",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "So I would expect him to use his mobile phone to record the event in real time.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-009",
+    "requirement": "The system shall be reliable.",
+    "frame_id": "RF-S080",
+    "source_statements": [
+      "S080",
+      "S081"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S080",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Since we would like to have the other information as reliable as possible.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S081",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "So only the referee can update the event that the country during the game.",
+        "dialogue_act": "constraint"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-010",
+    "requirement": "The system shall permit updates only by the referee.",
+    "frame_id": "RF-S081",
+    "source_statements": [
+      "S081",
+      "S082",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S081",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "So only the referee can update the event that the country during the game.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S082",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "This can be for example scoring a goal and offside uh red card uh player replacement and things like that.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S076",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S077",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Real time.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S078",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "So I would expect him to use his mobile phone to record the event in real time.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S079",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S080",
+        "turn_id": "T018",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:05:04",
+        "original_text": "Since we would like to have the other information as reliable as possible.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-011",
+    "requirement": "The system shall ensure transparency.",
+    "frame_id": "RF-S094",
+    "source_statements": [
+      "S094",
+      "S095",
+      "S089",
+      "S090",
+      "S091",
+      "S092",
+      "S093"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S094",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "one of the the goal of the system is to increase, sorry, transparency.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S095",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "So the idea is that this kind of data is revealed to everyone.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S089",
+        "turn_id": "T021",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:06:22",
+        "original_text": "How many goals each team scored.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S090",
+        "turn_id": "T021",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:06:22",
+        "original_text": "Do the teams have access to this kind of data through you now?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S091",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "So everyone is able to see the entire data.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S092",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "Even a guest to the system is able to see the final grain data, which is okay.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S093",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "Everyone can do analysis of what did that whatever it like.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-012",
+    "requirement": "The system should register the budget.",
+    "frame_id": "RF-S096",
+    "source_statements": [
+      "S096",
+      "S097",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S096",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "Even if you are not registered to the system you should be able to look into such data, not the budget but the data that refer to the game, the results",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S097",
+        "turn_id": "T023",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:07:12",
+        "original_text": "and you can, you can export or you want to be able to export this data to like journalists or press or whatever.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S091",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "So everyone is able to see the entire data.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S092",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "Even a guest to the system is able to see the final grain data, which is okay.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S093",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "Everyone can do analysis of what did that whatever it like.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S094",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "one of the the goal of the system is to increase, sorry, transparency.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S095",
+        "turn_id": "T022",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:06:35",
+        "original_text": "So the idea is that this kind of data is revealed to everyone.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-013",
+    "requirement": "The system shall export.",
+    "frame_id": "RF-S097",
+    "source_statements": [
+      "S097",
+      "S098"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S097",
+        "turn_id": "T023",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:07:12",
+        "original_text": "and you can, you can export or you want to be able to export this data to like journalists or press or whatever.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S098",
+        "turn_id": "T023",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:07:12",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-014",
+    "requirement": "The system shall report.",
+    "frame_id": "RF-S103",
+    "source_statements": [
+      "S103",
+      "S104"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S103",
+        "turn_id": "T025",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:07:23",
+        "original_text": "So um is there any kind of reports that you receive or want to receive regarding?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S104",
+        "turn_id": "T025",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:07:23",
+        "original_text": "Say say I am a team manager.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-015",
+    "requirement": "The system shall enable the team to report.",
+    "frame_id": "RF-S105",
+    "source_statements": [
+      "S105",
+      "S106",
+      "S107"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S105",
+        "turn_id": "T025",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:07:23",
+        "original_text": "And do you want to report from me saying that I have a new player in my team or this player will be leaving my team?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S106",
+        "turn_id": "T025",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:07:23",
+        "original_text": "So if we played some tournaments, we had these many events and these many losses, something like that.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S107",
+        "turn_id": "T026",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:07:55",
+        "original_text": "Again, for the team, the entire resources of that.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-016",
+    "requirement": "The system shall allow the team to manage.",
+    "frame_id": "RF-S111",
+    "source_statements": [
+      "S111",
+      "S112"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S111",
+        "turn_id": "T026",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:07:55",
+        "original_text": "But the system will allow the team manager, the team administration to uh look into this data and then reform its analysis offline.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S112",
+        "turn_id": "T027",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:08:31",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-017",
+    "requirement": "The system shall be accessible only to the team.",
+    "frame_id": "RF-S120",
+    "source_statements": [
+      "S120",
+      "S121",
+      "S115",
+      "S116",
+      "S117",
+      "S118",
+      "S119"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S120",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "It's done only by the teams.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S121",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S115",
+        "turn_id": "T028",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:39",
+        "original_text": "Just the team.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S116",
+        "turn_id": "T028",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:39",
+        "original_text": "Each team separately.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S117",
+        "turn_id": "T029",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:08:41",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S118",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "There are two issues.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S119",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "The insertion of budget transaction and items.",
+        "dialogue_act": "agreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-018",
+    "requirement": "The system shall only access.",
+    "frame_id": "RF-S122",
+    "source_statements": [
+      "S122",
+      "S123",
+      "S117",
+      "S118",
+      "S119",
+      "S120",
+      "S121"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S122",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "They can only access their own data.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S123",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S117",
+        "turn_id": "T029",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:08:41",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S118",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "There are two issues.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S119",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "The insertion of budget transaction and items.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S120",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "It's done only by the teams.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S121",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-019",
+    "requirement": "The system shall allow the ifa to view only.",
+    "frame_id": "RF-S124",
+    "source_statements": [
+      "S124",
+      "S125",
+      "S119",
+      "S120",
+      "S121",
+      "S122",
+      "S123"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S124",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "The IFA then only view the entire monetary information.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S125",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S119",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "The insertion of budget transaction and items.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S120",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "It's done only by the teams.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S121",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S122",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "They can only access their own data.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S123",
+        "turn_id": "T030",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:08:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-020",
+    "requirement": "The system shall schedule.",
+    "frame_id": "RF-S140",
+    "source_statements": [
+      "S140",
+      "S141"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S140",
+        "turn_id": "T032",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:09:39",
+        "original_text": "Uh, so what I would like the system to have, is to have the ability to define policy of how to schedule games.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S141",
+        "turn_id": "T032",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:09:39",
+        "original_text": "For example, a common policy is that each game, it's uh, a pair of teams they too can sale, once in the in team A stadium and once in team B stadium, this is a common practice.",
+        "dialogue_act": "agreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-021",
+    "requirement": "The system should provide scheduling functionality.",
+    "frame_id": "RF-S145",
+    "source_statements": [
+      "S145",
+      "S146"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S145",
+        "turn_id": "T032",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:09:39",
+        "original_text": "So this kind of constraints should be taken into account when executing the the scheduling algorithm.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S146",
+        "turn_id": "T033",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:11:13",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-022",
+    "requirement": "The system should provide functionality for the referee.",
+    "frame_id": "RF-S156",
+    "source_statements": [
+      "S156",
+      "S157"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S156",
+        "turn_id": "T034",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:11:24",
+        "original_text": "So for uh for the referee as well, the system should be uh should have some kind of uh guidance of how to allocate referees to games.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S157",
+        "turn_id": "T034",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:11:24",
+        "original_text": "For example, we wouldn't like the same refereee to participate in the game and two games of the same teams.",
+        "dialogue_act": "disagreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-023",
+    "requirement": "The system shall allow the referee to assign.",
+    "frame_id": "RF-S162",
+    "source_statements": [
+      "S162",
+      "S163"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S162",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S163",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-024",
+    "requirement": "The system shall provide scheduling functionality.",
+    "frame_id": "RF-S165",
+    "source_statements": [
+      "S165",
+      "S166"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S165",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "So when scheduling it will take these constraints as well.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S166",
+        "turn_id": "T037",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:13:07",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-025",
+    "requirement": "The system shall not.",
+    "frame_id": "RF-S167",
+    "source_statements": [
+      "S167",
+      "S168",
+      "S162",
+      "S163",
+      "S164",
+      "S165",
+      "S166"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S167",
+        "turn_id": "T037",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:13:07",
+        "original_text": "And of course now, because it's done manually, we cannot accommodate such requests.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S168",
+        "turn_id": "T038",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:11",
+        "original_text": "Indeed.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S162",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S163",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S164",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "For example, since I planned already my vacation for the next year, I cannot participate in these days.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S165",
+        "turn_id": "T036",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:12:29",
+        "original_text": "So when scheduling it will take these constraints as well.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S166",
+        "turn_id": "T037",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:13:07",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-026",
+    "requirement": "The system shall provide scheduling capabilities.",
+    "frame_id": "RF-S172",
+    "source_statements": [
+      "S172",
+      "S173"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S172",
+        "turn_id": "T041",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:13:23",
+        "original_text": "And would you like them to have a say in the algorithm of the scheduling later on the system to be",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S173",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "No no no.",
+        "dialogue_act": "disagreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-027",
+    "requirement": "The system shall not.",
+    "frame_id": "RF-S176",
+    "source_statements": [
+      "S176",
+      "S177",
+      "S171",
+      "S172",
+      "S173",
+      "S174",
+      "S175"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S176",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "It cannot be changed unless there's one um, it might be reduced to certain circumstances.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S177",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "The game is canceled.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S171",
+        "turn_id": "T040",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:20",
+        "original_text": "The team doesn't have any say regarding the schedule.",
+        "dialogue_act": "opinion"
+      },
+      {
+        "statement_id": "S172",
+        "turn_id": "T041",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:13:23",
+        "original_text": "And would you like them to have a say in the algorithm of the scheduling later on the system to be",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S173",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "No no no.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S174",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "Once you are scheduled for a season, it's done.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S175",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-028",
+    "requirement": "The system shall schedule.",
+    "frame_id": "RF-S179",
+    "source_statements": [
+      "S179",
+      "S180"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S179",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "So in that sense, we need to reschedule the game.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S180",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "So in that sense, in that case we need to allow manual adjustment of the schedule.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-029",
+    "requirement": "The system shall schedule.",
+    "frame_id": "RF-S180",
+    "source_statements": [
+      "S180",
+      "S181"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S180",
+        "turn_id": "T042",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:13:27",
+        "original_text": "So in that sense, in that case we need to allow manual adjustment of the schedule.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S181",
+        "turn_id": "T043",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:02",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-030",
+    "requirement": "The system shall view scheduling.",
+    "frame_id": "RF-S186",
+    "source_statements": [
+      "S186",
+      "S187",
+      "S181",
+      "S182",
+      "S183",
+      "S184",
+      "S185"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S186",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S187",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "So we might override the results yet you need to explicate.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S181",
+        "turn_id": "T043",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:02",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S182",
+        "turn_id": "T043",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:02",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S183",
+        "turn_id": "T043",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:02",
+        "original_text": "And the system to be there would be a manual adjustment.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S184",
+        "turn_id": "T043",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:02",
+        "original_text": "Okay, sure.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S185",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "Another case that could be, it might be that the yeah.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-031",
+    "requirement": "The system shall override.",
+    "frame_id": "RF-S187",
+    "source_statements": [
+      "S187",
+      "S188"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S187",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "So we might override the results yet you need to explicate.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S188",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "You need to explain the rationale for the change.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-032",
+    "requirement": "The system should support the actor\u202fifa.",
+    "frame_id": "RF-S190",
+    "source_statements": [
+      "S190",
+      "S191",
+      "S185",
+      "S186",
+      "S187",
+      "S188",
+      "S189"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S190",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "And then another IFA representative should confirm that change.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S191",
+        "turn_id": "T045",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:47",
+        "original_text": "All right, okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S185",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "Another case that could be, it might be that the yeah.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S186",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S187",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "So we might override the results yet you need to explicate.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S188",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "You need to explain the rationale for the change.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S189",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "Again, you to transparency and bias issues you have to explicate.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-033",
+    "requirement": "The system shall enable the team to schedule.",
+    "frame_id": "RF-S193",
+    "source_statements": [
+      "S193",
+      "S194"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S193",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S194",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "Why do they want to change the existing scheduling?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-034",
+    "requirement": "The system shall provide scheduling capabilities.",
+    "frame_id": "RF-S194",
+    "source_statements": [
+      "S194",
+      "S195"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S194",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "Why do they want to change the existing scheduling?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S195",
+        "turn_id": "T047",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:15:32",
+        "original_text": "No there is only one level.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-035",
+    "requirement": "The system shall only.",
+    "frame_id": "RF-S195",
+    "source_statements": [
+      "S195",
+      "S196",
+      "S190",
+      "S191",
+      "S192",
+      "S193",
+      "S194"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S195",
+        "turn_id": "T047",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:15:32",
+        "original_text": "No there is only one level.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S196",
+        "turn_id": "T047",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:15:32",
+        "original_text": "The automatic scheduling and override by the IFA representative.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S190",
+        "turn_id": "T044",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:14:07",
+        "original_text": "And then another IFA representative should confirm that change.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S191",
+        "turn_id": "T045",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:14:47",
+        "original_text": "All right, okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S192",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "Yeah.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S193",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S194",
+        "turn_id": "T046",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:14:49",
+        "original_text": "Why do they want to change the existing scheduling?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-036",
+    "requirement": "The system shall enable ifa to schedule.",
+    "frame_id": "RF-S202",
+    "source_statements": [
+      "S202",
+      "S203"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S202",
+        "turn_id": "T048",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:15:41",
+        "original_text": "And and this level of the IFA Scheduler is uh you need approval from two of them.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S203",
+        "turn_id": "T048",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:15:41",
+        "original_text": "A second reviewer.",
+        "dialogue_act": "opinion"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-037",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S216",
+    "source_statements": [
+      "S216",
+      "S217"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S216",
+        "turn_id": "T051",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:16:16",
+        "original_text": "Now we have a minimum we should have two days of gap before playing the next game or one day of gap before playing the next game.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S217",
+        "turn_id": "T052",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:16:35",
+        "original_text": "That will be part of the policy of the scheduling.",
+        "dialogue_act": "agreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-038",
+    "requirement": "The system should schedule.",
+    "frame_id": "RF-S220",
+    "source_statements": [
+      "S220",
+      "S221"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S220",
+        "turn_id": "T053",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:16:38",
+        "original_text": "So you mentioned this in your own uh in the software like this is how you should schedule.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S221",
+        "turn_id": "T054",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:16:45",
+        "original_text": "uh policy you have at least uh you have the number of teams multiplied by two days where the next match",
+        "dialogue_act": "agreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-039",
+    "requirement": "The system shall support the team with at least the required capability.",
+    "frame_id": "RF-S221",
+    "source_statements": [
+      "S221",
+      "S222"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S221",
+        "turn_id": "T054",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:16:45",
+        "original_text": "uh policy you have at least uh you have the number of teams multiplied by two days where the next match",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S222",
+        "turn_id": "T055",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:16:56",
+        "original_text": "And you need to be to be able to define these parameters into the system to be built.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-040",
+    "requirement": "The system shall define.",
+    "frame_id": "RF-S222",
+    "source_statements": [
+      "S222",
+      "S223"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S222",
+        "turn_id": "T055",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:16:56",
+        "original_text": "And you need to be to be able to define these parameters into the system to be built.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S223",
+        "turn_id": "T055",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:16:56",
+        "original_text": "Right.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-041",
+    "requirement": "The system should support the player.",
+    "frame_id": "RF-S234",
+    "source_statements": [
+      "S234",
+      "S235"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S234",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "Uh If a player post a message, you should look for it and things like that.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S235",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "Our view in the new systems, we would like the fan to get information from the system in a push mail.",
+        "dialogue_act": "opinion"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-042",
+    "requirement": "The system shall allow the fan to view.",
+    "frame_id": "RF-S235",
+    "source_statements": [
+      "S235",
+      "S236"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S235",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "Our view in the new systems, we would like the fan to get information from the system in a push mail.",
+        "dialogue_act": "opinion"
+      },
+      {
+        "statement_id": "S236",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "So for example, if he's interested in a, in a certain game Barcelona versus Real Madrid.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-043",
+    "requirement": "The system shall provide notification.",
+    "frame_id": "RF-S242",
+    "source_statements": [
+      "S242",
+      "S243",
+      "S237",
+      "S238",
+      "S239",
+      "S240",
+      "S241"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S242",
+        "turn_id": "T059",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:18:28",
+        "original_text": "And then uh, when Messi posts a message, you would get a notification from the system.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S243",
+        "turn_id": "T060",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:18:44",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S237",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "Uh, so we would register to that game and you would get notifications, notifications regarding that game.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S238",
+        "turn_id": "T057",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:17:25",
+        "original_text": "For example, if the game of if the schedule is changed would get notification.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S239",
+        "turn_id": "T058",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:18:26",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S240",
+        "turn_id": "T059",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:18:28",
+        "original_text": "I can also registered to one of its favourite players.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S241",
+        "turn_id": "T059",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:18:28",
+        "original_text": "For example, it would registered to Messi uh, page.",
+        "dialogue_act": "agreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-044",
+    "requirement": "The system shall enable the referee to update the report.",
+    "frame_id": "RF-S254",
+    "source_statements": [
+      "S254",
+      "S255"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S254",
+        "turn_id": "T064",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:19:29",
+        "original_text": "Second section can be uh the live update section where fans can also see what referees posting from our referee reporting what referees posting.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S255",
+        "turn_id": "T064",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:19:29",
+        "original_text": "And then also we can include the live score that is going on in the match.",
+        "dialogue_act": "feature request"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-045",
+    "requirement": "The system shall access.",
+    "frame_id": "RF-S276",
+    "source_statements": [
+      "S276",
+      "S277"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S276",
+        "turn_id": "T069",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:21:34",
+        "original_text": "Certainly the upper layer of the presentation, there will be different uh of course with access with different tactical culture to the various stakeholders, but the goal of the system is the same with a unified system.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S277",
+        "turn_id": "T070",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:21:56",
+        "original_text": "Okay, Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-046",
+    "requirement": "The system shall permit updates only by the referee.",
+    "frame_id": "RF-S285",
+    "source_statements": [
+      "S285",
+      "S286",
+      "S280",
+      "S281",
+      "S282",
+      "S283",
+      "S284"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S285",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "In the new system only the referee, you can update this through the system.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S286",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So it's, it's coherent and reliable.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S280",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So the data that's collected nowadays that uh, for example, if we are watch again and we can have it update through the news portal, uh, and at this minute we got score, a goal.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S281",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So this minute there was an offset and things like that.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S282",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "But this is not an official one.",
+        "dialogue_act": "opinion"
+      },
+      {
+        "statement_id": "S283",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So there is, there is a mixture of data.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S284",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-047",
+    "requirement": "The system shall be accessible only to the referee.",
+    "frame_id": "RF-S288",
+    "source_statements": [
+      "S288",
+      "S289",
+      "S283",
+      "S284",
+      "S285",
+      "S286",
+      "S287"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S288",
+        "turn_id": "T073",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:22:50",
+        "original_text": "So, so you need the system to enable the referees and the official channels to be the only source of channel uh, of data about the games.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S289",
+        "turn_id": "T074",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:00",
+        "original_text": "Yeah.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S283",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So there is, there is a mixture of data.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S284",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S285",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "In the new system only the referee, you can update this through the system.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S286",
+        "turn_id": "T072",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:22:16",
+        "original_text": "So it's, it's coherent and reliable.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S287",
+        "turn_id": "T073",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:22:50",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-048",
+    "requirement": "The system shall provide a portal.",
+    "frame_id": "RF-S291",
+    "source_statements": [
+      "S291",
+      "S292"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S291",
+        "turn_id": "T074",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:00",
+        "original_text": "So they don't need to look forward news portal.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S292",
+        "turn_id": "T074",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:00",
+        "original_text": "Just look into the system.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-049",
+    "requirement": "The system shall satisfy performance criteria.",
+    "frame_id": "RF-S296",
+    "source_statements": [
+      "S296",
+      "S297",
+      "S298"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S296",
+        "turn_id": "T076",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:23:13",
+        "original_text": "All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S297",
+        "turn_id": "T076",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:23:13",
+        "original_text": "Is there's some gaps currently which is uh which is not making it a good communication system or something?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S298",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "Yeah, because for the fans there is no direct communication in the fans.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-050",
+    "requirement": "The system shall provide notification functionality to the fan.",
+    "frame_id": "RF-S299",
+    "source_statements": [
+      "S299",
+      "S300",
+      "S294",
+      "S295",
+      "S296",
+      "S297",
+      "S298"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S299",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "They have to, you know to initiate the fans, have to initiate the communication and not like we discussed before with the other notification mechanism.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S300",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "Uh this is one issue.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S294",
+        "turn_id": "T075",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:23:09",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S295",
+        "turn_id": "T075",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:23:09",
+        "original_text": "Um,",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S296",
+        "turn_id": "T076",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:23:13",
+        "original_text": "All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S297",
+        "turn_id": "T076",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:23:13",
+        "original_text": "Is there's some gaps currently which is uh which is not making it a good communication system or something?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S298",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "Yeah, because for the fans there is no direct communication in the fans.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-051",
+    "requirement": "The system shall allow a fan to register.",
+    "frame_id": "RF-S301",
+    "source_statements": [
+      "S301",
+      "S302"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S301",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "Mm I think this is the main issue will be unable to the fans to register to specific information that they are interested in and then we push them the information.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S302",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "I think this is the main idea.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-052",
+    "requirement": "The system shall enable the team to report.",
+    "frame_id": "RF-S305",
+    "source_statements": [
+      "S305",
+      "S306"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S305",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S306",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "The team manager has to support a submit a report to the IFA once a year.",
+        "dialogue_act": "constraint"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-053",
+    "requirement": "The system shall enable the team to manage reports.",
+    "frame_id": "RF-S306",
+    "source_statements": [
+      "S306",
+      "S307"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S306",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "The team manager has to support a submit a report to the IFA once a year.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S307",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "So some some kind of automatic reminder notification",
+        "dialogue_act": "feature request"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-054",
+    "requirement": "The system shall provide notification.",
+    "frame_id": "RF-S307",
+    "source_statements": [
+      "S307",
+      "S308",
+      "S302",
+      "S303",
+      "S304",
+      "S305",
+      "S306"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S307",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "So some some kind of automatic reminder notification",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S308",
+        "turn_id": "T079",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:24:49",
+        "original_text": "Yeah yeah for me, some kind of policy regulation in regards to the for the budget.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S302",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "I think this is the main idea.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S303",
+        "turn_id": "T077",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:23:42",
+        "original_text": "Did this answer your question.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S304",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "Yes, yes you did.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S305",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S306",
+        "turn_id": "T078",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:24:21",
+        "original_text": "The team manager has to support a submit a report to the IFA once a year.",
+        "dialogue_act": "constraint"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-055",
+    "requirement": "The system shall provide budget functionality.",
+    "frame_id": "RF-S308",
+    "source_statements": [
+      "S308",
+      "S309"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S308",
+        "turn_id": "T079",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:24:49",
+        "original_text": "Yeah yeah for me, some kind of policy regulation in regards to the for the budget.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S309",
+        "turn_id": "T079",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:24:49",
+        "original_text": "Uh another issue, defend defend itself can itself can specify uh alerts, so for example, remind me five minutes before the game starts.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-056",
+    "requirement": "The system shall access quickly.",
+    "frame_id": "RF-S313",
+    "source_statements": [
+      "S313",
+      "S314"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S313",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S314",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "Uh, any any clarification about how fast is it, what key performance indicators are expected?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-057",
+    "requirement": "The system shall provide a response time.",
+    "frame_id": "RF-S315",
+    "source_statements": [
+      "S315",
+      "S316",
+      "S310",
+      "S311",
+      "S312",
+      "S313",
+      "S314"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S315",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Yeah, first I meant a reasonable response time.",
+        "dialogue_act": "correction"
+      },
+      {
+        "statement_id": "S316",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "What do you mean?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S310",
+        "turn_id": "T079",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:24:49",
+        "original_text": "Okay, So we're registered to the specific and you can, you know when it starts and then you can get an amplification as well.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S311",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S312",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "I think We can we can talk about the technicalities of the system itself for a while.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S313",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S314",
+        "turn_id": "T080",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:25:20",
+        "original_text": "Uh, any any clarification about how fast is it, what key performance indicators are expected?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-058",
+    "requirement": "The system shall be fast.",
+    "frame_id": "RF-S321",
+    "source_statements": [
+      "S321",
+      "S322"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S321",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "We need to application to walk very fast in real time, meaning they should be very responsive and even get some priorities over other activities that are in the stadium, probably in the stadium.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S322",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-059",
+    "requirement": "The system shall provide capabilities for the referee.",
+    "frame_id": "RF-S323",
+    "source_statements": [
+      "S323",
+      "S324"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S323",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "So when referee is connected to the system, you should get.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S324",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "When he is in a game, you should get a high priority so we can report the events as quick as possible.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-060",
+    "requirement": "The system shall report.",
+    "frame_id": "RF-S324",
+    "source_statements": [
+      "S324",
+      "S325"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S324",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "When he is in a game, you should get a high priority so we can report the events as quick as possible.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S325",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-061",
+    "requirement": "The system shall enable the referee to send notifications.",
+    "frame_id": "RF-S329",
+    "source_statements": [
+      "S329",
+      "S330",
+      "S331",
+      "S324",
+      "S325",
+      "S326",
+      "S327",
+      "S328"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S329",
+        "turn_id": "T082",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:26:36",
+        "original_text": "Is there any scenario where the FAA would would want to notify the referee of anything during or before or after the game.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S330",
+        "turn_id": "T082",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:26:36",
+        "original_text": "Anything that might cancel the game or any issue or anything or it's just one way",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S331",
+        "turn_id": "T083",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:26:53",
+        "original_text": "No no no just the referee in the middle of the system and receive its response uh In a immediate immediately.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S324",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "When he is in a game, you should get a high priority so we can report the events as quick as possible.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S325",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S326",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S327",
+        "turn_id": "T081",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:25:37",
+        "original_text": "Uh",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S328",
+        "turn_id": "T082",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:26:36",
+        "original_text": "Do you expect or or need a two way communication with the referee.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-062",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S347",
+    "source_statements": [
+      "S347",
+      "S348"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S347",
+        "turn_id": "T089",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:28:20",
+        "original_text": "And also the after the system is up and running all the storage the computing everything should be handled by an external company sources around the cloud service or some kind of service in the uh Okay.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S348",
+        "turn_id": "T089",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:28:20",
+        "original_text": "Uh I I know it's a it's a very general question, but is there any legal or financial restrictions on the system to have, like there any data that's too confidential to store uh off sites or anything like this?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-063",
+    "requirement": "The system shall view.",
+    "frame_id": "RF-S354",
+    "source_statements": [
+      "S354",
+      "S355"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S354",
+        "turn_id": "T092",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:29:00",
+        "original_text": "So it might be that we need uh to adjust the system to the local regulation, the local review.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S355",
+        "turn_id": "T092",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:29:00",
+        "original_text": "So, for example, in terms of language, in terms of currency, in terms of time zone, so this is important.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-064",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S359",
+    "source_statements": [
+      "S359",
+      "S360"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S359",
+        "turn_id": "T092",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:29:00",
+        "original_text": "Uh We should take this into consideration.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S360",
+        "turn_id": "T092",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:29:00",
+        "original_text": "Indeed that's a good question.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-065",
+    "requirement": "The team should.",
+    "frame_id": "RF-S361",
+    "source_statements": [
+      "S361",
+      "S362"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S361",
+        "turn_id": "T093",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:29:59",
+        "original_text": "Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S362",
+        "turn_id": "T093",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:29:59",
+        "original_text": "You have something like this in mind?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-066",
+    "requirement": "The system shall define.",
+    "frame_id": "RF-S364",
+    "source_statements": [
+      "S364",
+      "S365"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S364",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "Yeah I think it should be uh we should have we should define it as uh initiative to discuss.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S365",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-067",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S365",
+    "source_statements": [
+      "S365",
+      "S366",
+      "S360",
+      "S361",
+      "S362",
+      "S363",
+      "S364"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S365",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S366",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S360",
+        "turn_id": "T092",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:29:00",
+        "original_text": "Indeed that's a good question.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S361",
+        "turn_id": "T093",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:29:59",
+        "original_text": "Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S362",
+        "turn_id": "T093",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:29:59",
+        "original_text": "You have something like this in mind?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S363",
+        "turn_id": "T093",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:29:59",
+        "original_text": "I mean do we need to have that flexible or is it a question for later?",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S364",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "Yeah I think it should be uh we should have we should define it as uh initiative to discuss.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-068",
+    "requirement": "The system shall ensure that the budget is encrypted.",
+    "frame_id": "RF-S369",
+    "source_statements": [
+      "S369",
+      "S370"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S369",
+        "turn_id": "T094",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:30:14",
+        "original_text": "So maybe the budget data should be encrypted in some way to avoid leakage.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S370",
+        "turn_id": "T095",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:31:05",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": [
+      "encrypted"
+    ]
+  },
+  {
+    "requirement_id": "REQ-069",
+    "requirement": "The system shall provide a portal.",
+    "frame_id": "RF-S380",
+    "source_statements": [
+      "S380",
+      "S381"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S380",
+        "turn_id": "T098",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:31:44",
+        "original_text": "Within the portal of the of the system to be",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S381",
+        "turn_id": "T099",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:31:49",
+        "original_text": "so uh so so this is the uh this I'm sorry I just got flustered.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-070",
+    "requirement": "The system shall provide a budget feature for the player.",
+    "frame_id": "RF-S383",
+    "source_statements": [
+      "S383",
+      "S384"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S383",
+        "turn_id": "T099",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:31:49",
+        "original_text": "But then do the players need to have a have an interface within the budgeting interface where they can see their salaries or something?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S384",
+        "turn_id": "T099",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:31:49",
+        "original_text": "No.",
+        "dialogue_act": "disagreement"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-071",
+    "requirement": "The system shall enable the team to register.",
+    "frame_id": "RF-S399",
+    "source_statements": [
+      "S399",
+      "S400"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S399",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "I would say that the basic of the system, meaning the teams setting the league, setting the season, uh register of the referees and the fans are the basic of the systems.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S400",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "So this should be at the first phase.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-072",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S400",
+    "source_statements": [
+      "S400",
+      "S401"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S400",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "So this should be at the first phase.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S401",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-073",
+    "requirement": "The system shall provide budget functionality.",
+    "frame_id": "RF-S404",
+    "source_statements": [
+      "S404",
+      "S405"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S404",
+        "turn_id": "T105",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:33:39",
+        "original_text": "Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S405",
+        "turn_id": "T105",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:33:39",
+        "original_text": "Um there was another line in documentation which said that officials of the IFA should be involved in the system?",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-074",
+    "requirement": "The system should accommodate the ifa actor.",
+    "frame_id": "RF-S405",
+    "source_statements": [
+      "S405",
+      "S406",
+      "S408",
+      "S400",
+      "S401",
+      "S402",
+      "S403",
+      "S404"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S405",
+        "turn_id": "T105",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:33:39",
+        "original_text": "Um there was another line in documentation which said that officials of the IFA should be involved in the system?",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S406",
+        "turn_id": "T105",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:33:39",
+        "original_text": "I have, the officials will have a role to play.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S408",
+        "turn_id": "T106",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:34:03",
+        "original_text": "I don't think uh maybe it's paraphrasing a little.",
+        "dialogue_act": "disagreement"
+      },
+      {
+        "statement_id": "S400",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "So this should be at the first phase.",
+        "dialogue_act": "priority"
+      },
+      {
+        "statement_id": "S401",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S402",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "The second phase will consist of the budgetary on the one and the scheduling on the other the third stage would be that the referee can uh update the the game information in real time.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S403",
+        "turn_id": "T104",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:32:51",
+        "original_text": "So this is the stages I'm expecting.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S404",
+        "turn_id": "T105",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:33:39",
+        "original_text": "Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-075",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S410",
+    "source_statements": [
+      "S410",
+      "S411"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S410",
+        "turn_id": "T107",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:34:09",
+        "original_text": "Okay, the officials should be.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S411",
+        "turn_id": "T107",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:34:09",
+        "original_text": "Mhm.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-076",
+    "requirement": "The system shall only.",
+    "frame_id": "RF-S425",
+    "source_statements": [
+      "S425",
+      "S426",
+      "S420",
+      "S421",
+      "S422",
+      "S423",
+      "S424"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S425",
+        "turn_id": "T113",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:35:27",
+        "original_text": "you're right there's only within the administration is only one role.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S426",
+        "turn_id": "T114",
+        "speaker": "spk_0",
+        "timestamp": "2026-08-27 00:35:33",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S420",
+        "turn_id": "T110",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:35:02",
+        "original_text": "I think I think what we are trying to get you out there any other participants or activity that we missed in the crisis?",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S421",
+        "turn_id": "T111",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:35:07",
+        "original_text": "Currently in my view there is the IFA representative administration is one role that can do the budget and the scheduling and all activities.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S422",
+        "turn_id": "T111",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:35:07",
+        "original_text": "There are no separation among the various",
+        "dialogue_act": "opinion"
+      },
+      {
+        "statement_id": "S423",
+        "turn_id": "T112",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:35:21",
+        "original_text": "okay so there is no uh specific departments for IT And finance and so on.",
+        "dialogue_act": "opinion"
+      },
+      {
+        "statement_id": "S424",
+        "turn_id": "T112",
+        "speaker": "spk_2",
+        "timestamp": "2026-08-27 00:35:21",
+        "original_text": "There is nothing like this.",
+        "dialogue_act": "clarification"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-077",
+    "requirement": "The system should register.",
+    "frame_id": "RF-S437",
+    "source_statements": [
+      "S437",
+      "S438"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S437",
+        "turn_id": "T118",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:36:09",
+        "original_text": "So eventually should register to the system internet so we can be able to identification.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S438",
+        "turn_id": "T118",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:36:09",
+        "original_text": "Otherwise it would be just a guest.",
+        "dialogue_act": "correction"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-078",
+    "requirement": "The system should.",
+    "frame_id": "RF-S451",
+    "source_statements": [
+      "S451",
+      "S452"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S451",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "All past archives should be kept.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S452",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "The reason that it should be kept.",
+        "dialogue_act": "answer"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-079",
+    "requirement": "The system should \u2026",
+    "frame_id": "RF-S452",
+    "source_statements": [
+      "S452",
+      "S453"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S452",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "The reason that it should be kept.",
+        "dialogue_act": "answer"
+      },
+      {
+        "statement_id": "S453",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "It's to allow some kind of recommendation reasoning maybe for the funds that are uh involved in gambling and reason about the future by okay.",
+        "dialogue_act": "answer"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-080",
+    "requirement": "The system shall allow the referee to register the budget.",
+    "frame_id": "RF-S459",
+    "source_statements": [
+      "S459",
+      "S460",
+      "S454",
+      "S455",
+      "S456",
+      "S457",
+      "S458"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S459",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "Not sure but we we mentioned the I. F. A. should be able to define the league, define the season, appoint referee or register referees, setting the various policies for the budget for the game, policy scheduling for the referee scheduling.",
+        "dialogue_act": "question"
+      },
+      {
+        "statement_id": "S460",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "And then of course activate.",
+        "dialogue_act": "agreement"
+      },
+      {
+        "statement_id": "S454",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "Last event.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S455",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "So.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S456",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "Okay.",
+        "dialogue_act": "clarification"
+      },
+      {
+        "statement_id": "S457",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "Uh So we need to keep the data.",
+        "dialogue_act": "constraint"
+      },
+      {
+        "statement_id": "S458",
+        "turn_id": "T122",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:37:20",
+        "original_text": "Um Yeah what else.",
+        "dialogue_act": "question"
+      }
+    ],
+    "suspicious_terms": []
+  },
+  {
+    "requirement_id": "REQ-081",
+    "requirement": "The system shall allow the referee to insert.",
+    "frame_id": "RF-S467",
+    "source_statements": [
+      "S467",
+      "S468"
+    ],
+    "evidence": [
+      {
+        "statement_id": "S467",
+        "turn_id": "T124",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:38:46",
+        "original_text": "Representative insert invites the referee to being part of the system for the players.",
+        "dialogue_act": "feature request"
+      },
+      {
+        "statement_id": "S468",
+        "turn_id": "T124",
+        "speaker": "spk_1",
+        "timestamp": "2026-08-27 00:38:46",
+        "original_text": "The team entered the details into the system.",
+        "dialogue_act": "priority"
+      }
+    ],
+    "suspicious_terms": []
+  }
+]

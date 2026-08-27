@@ -1,0 +1,2580 @@
+[
+  {
+    "frame_id": "RF-S004",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S004",
+      "S005"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S008",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S008",
+      "S009"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S010",
+    "actor": "ifa",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S010",
+      "S011"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S011",
+    "actor": "user",
+    "action": "report",
+    "object": null,
+    "feature": "portal",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S011",
+      "S012"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S013",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S013",
+      "S014"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S021",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S021",
+      "S022"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S023",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S023",
+      "S024"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S030",
+    "actor": "ifa",
+    "action": "manage",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S030",
+      "S031",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S031",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S031",
+      "S032",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S032",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S032",
+      "S033",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S031"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S033",
+    "actor": "ifa",
+    "action": "audit",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S033",
+      "S034",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S034",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S034",
+      "S035"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S035",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S035",
+      "S036"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S039",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S039",
+      "S040"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S042",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S042",
+      "S043"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S076",
+    "actor": "referee",
+    "action": "insert",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S076",
+      "S077"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S079",
+    "actor": "referee",
+    "action": "insert",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S079",
+      "S080",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S080",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": "reliable",
+    "priority": null,
+    "source_statements": [
+      "S080",
+      "S081"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S081",
+    "actor": "referee",
+    "action": "update",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S081",
+      "S082",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S083",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S083",
+      "S084"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S084",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S084",
+      "S085",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S092",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S092",
+      "S093"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S094",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": "transparency",
+    "priority": null,
+    "source_statements": [
+      "S094",
+      "S095",
+      "S089",
+      "S090",
+      "S091",
+      "S092",
+      "S093"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S096",
+    "actor": "system",
+    "action": "register",
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S096",
+      "S097",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S097",
+    "actor": "system",
+    "action": "export",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S097",
+      "S098"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S103",
+    "actor": "system",
+    "action": "report",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S103",
+      "S104"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S105",
+    "actor": "team",
+    "action": "report",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S105",
+      "S106",
+      "S107"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S110",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S110",
+      "S111",
+      "S105",
+      "S106",
+      "S107",
+      "S108",
+      "S109"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S111",
+    "actor": "team",
+    "action": "manage",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S111",
+      "S112"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S120",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S120",
+      "S121",
+      "S115",
+      "S116",
+      "S117",
+      "S118",
+      "S119"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S122",
+    "actor": "system",
+    "action": "access",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S122",
+      "S123",
+      "S117",
+      "S118",
+      "S119",
+      "S120",
+      "S121"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S124",
+    "actor": "ifa",
+    "action": "view",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S124",
+      "S125",
+      "S119",
+      "S120",
+      "S121",
+      "S122",
+      "S123"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S140",
+    "actor": "system",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S140",
+      "S141"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S142",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S142",
+      "S143"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S143",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S143",
+      "S144"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S144",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S144",
+      "S145"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S145",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "scheduling",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S145",
+      "S146"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S156",
+    "actor": "referee",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S156",
+      "S157"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S160",
+    "actor": "referee",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S160",
+      "S161",
+      "S155",
+      "S156",
+      "S157",
+      "S158",
+      "S159"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S162",
+    "actor": "referee",
+    "action": "assign",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S162",
+      "S163"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S165",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "scheduling",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S165",
+      "S166"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S167",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "cannot",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S167",
+      "S168",
+      "S162",
+      "S163",
+      "S164",
+      "S165",
+      "S166"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S172",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "scheduling",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S172",
+      "S173"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S176",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "cannot",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S176",
+      "S177",
+      "S171",
+      "S172",
+      "S173",
+      "S174",
+      "S175"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S179",
+    "actor": "system",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S179",
+      "S180"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S180",
+    "actor": "system",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S180",
+      "S181"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S183",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S183",
+      "S184",
+      "S178",
+      "S179",
+      "S180",
+      "S181",
+      "S182"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S186",
+    "actor": "system",
+    "action": "view",
+    "object": null,
+    "feature": "scheduling",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S186",
+      "S187",
+      "S181",
+      "S182",
+      "S183",
+      "S184",
+      "S185"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S187",
+    "actor": "system",
+    "action": "override",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S187",
+      "S188"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S188",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S188",
+      "S189"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S190",
+    "actor": "ifa",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S190",
+      "S191",
+      "S185",
+      "S186",
+      "S187",
+      "S188",
+      "S189"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S193",
+    "actor": "team",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S193",
+      "S194"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S194",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "scheduling",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S194",
+      "S195"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S195",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S195",
+      "S196",
+      "S190",
+      "S191",
+      "S192",
+      "S193",
+      "S194"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S202",
+    "actor": "ifa",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S202",
+      "S203"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S211",
+    "actor": "fan",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S211",
+      "S212",
+      "S206",
+      "S207",
+      "S208",
+      "S209",
+      "S210"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S216",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S216",
+      "S217"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S220",
+    "actor": "system",
+    "action": "schedule",
+    "object": null,
+    "feature": "schedule",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S220",
+      "S221"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S221",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "at least",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S221",
+      "S222"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S222",
+    "actor": "system",
+    "action": "define",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S222",
+      "S223"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S227",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S227",
+      "S228",
+      "S229"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S229",
+    "actor": "fan",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S229",
+      "S230"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S231",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S231",
+      "S232"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S233",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S233",
+      "S234"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S234",
+    "actor": "player",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S234",
+      "S235"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S235",
+    "actor": "fan",
+    "action": "view",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S235",
+      "S236"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S242",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "notification",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S242",
+      "S243",
+      "S237",
+      "S238",
+      "S239",
+      "S240",
+      "S241"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S254",
+    "actor": "referee",
+    "action": "update",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S254",
+      "S255"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S255",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S255",
+      "S256"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S274",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S274",
+      "S275"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S276",
+    "actor": "system",
+    "action": "access",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S276",
+      "S277"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S281",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S281",
+      "S282",
+      "S276",
+      "S277",
+      "S278",
+      "S279",
+      "S280"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S285",
+    "actor": "referee",
+    "action": "update",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S285",
+      "S286",
+      "S280",
+      "S281",
+      "S282",
+      "S283",
+      "S284"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S288",
+    "actor": "referee",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S288",
+      "S289",
+      "S283",
+      "S284",
+      "S285",
+      "S286",
+      "S287"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S291",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "portal",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S291",
+      "S292"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S292",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S292",
+      "S293"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S296",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": "performance",
+    "priority": null,
+    "source_statements": [
+      "S296",
+      "S297",
+      "S298"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S299",
+    "actor": "fan",
+    "action": null,
+    "object": null,
+    "feature": "notification",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S299",
+      "S300",
+      "S294",
+      "S295",
+      "S296",
+      "S297",
+      "S298"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S301",
+    "actor": "fan",
+    "action": "register",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S301",
+      "S302"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S302",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S302",
+      "S303"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S305",
+    "actor": "team",
+    "action": "report",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S305",
+      "S306"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S306",
+    "actor": "team",
+    "action": "manage",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S306",
+      "S307"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S307",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "notification",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S307",
+      "S308",
+      "S302",
+      "S303",
+      "S304",
+      "S305",
+      "S306"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S308",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S308",
+      "S309"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S312",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S312",
+      "S313"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S313",
+    "actor": "system",
+    "action": "access",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": "fast",
+    "priority": null,
+    "source_statements": [
+      "S313",
+      "S314"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S315",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": "response time",
+    "priority": null,
+    "source_statements": [
+      "S315",
+      "S316",
+      "S310",
+      "S311",
+      "S312",
+      "S313",
+      "S314"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S321",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": "fast",
+    "priority": null,
+    "source_statements": [
+      "S321",
+      "S322"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S323",
+    "actor": "referee",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S323",
+      "S324"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S324",
+    "actor": "system",
+    "action": "report",
+    "object": null,
+    "feature": "report",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S324",
+      "S325"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S329",
+    "actor": "referee",
+    "action": "notify",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S329",
+      "S330",
+      "S331",
+      "S324",
+      "S325",
+      "S326",
+      "S327",
+      "S328"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S330",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S330",
+      "S331"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S331",
+    "actor": "referee",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S331",
+      "S332"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S340",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S340",
+      "S341"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S342",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S342",
+      "S343"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S343",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S343",
+      "S344"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S347",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S347",
+      "S348"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S348",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S348",
+      "S349"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S353",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S353",
+      "S354"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S354",
+    "actor": "system",
+    "action": "view",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S354",
+      "S355"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S355",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S355",
+      "S356"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S356",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S356",
+      "S357"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S359",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S359",
+      "S360"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S361",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S361",
+      "S362"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S363",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S363",
+      "S364",
+      "S358",
+      "S359",
+      "S360",
+      "S361",
+      "S362"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S364",
+    "actor": "system",
+    "action": "define",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S364",
+      "S365"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S365",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S365",
+      "S366",
+      "S360",
+      "S361",
+      "S362",
+      "S363",
+      "S364"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S367",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S367",
+      "S368"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S369",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": "encrypted",
+    "priority": null,
+    "source_statements": [
+      "S369",
+      "S370"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S380",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "portal",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S380",
+      "S381"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S383",
+    "actor": "player",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S383",
+      "S384"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S388",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S388",
+      "S389"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S399",
+    "actor": "team",
+    "action": "register",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S399",
+      "S400"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S400",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S400",
+      "S401"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S404",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S404",
+      "S405"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S405",
+    "actor": "ifa",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S405",
+      "S406",
+      "S408",
+      "S400",
+      "S401",
+      "S402",
+      "S403",
+      "S404"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S410",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S410",
+      "S411"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S415",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S415",
+      "S416"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S425",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "only",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S425",
+      "S426",
+      "S420",
+      "S421",
+      "S422",
+      "S423",
+      "S424"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S437",
+    "actor": "system",
+    "action": "register",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S437",
+      "S438"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S438",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S438",
+      "S439",
+      "S433",
+      "S434",
+      "S435",
+      "S436",
+      "S437"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S451",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S451",
+      "S452"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S452",
+    "actor": "system",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S452",
+      "S453"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S453",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S453",
+      "S454"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S457",
+    "actor": null,
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S457",
+      "S458"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  },
+  {
+    "frame_id": "RF-S459",
+    "actor": "referee",
+    "action": "register",
+    "object": null,
+    "feature": "budget",
+    "condition": null,
+    "constraint": "should",
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S459",
+      "S460",
+      "S454",
+      "S455",
+      "S456",
+      "S457",
+      "S458"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S467",
+    "actor": "referee",
+    "action": "insert",
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S467",
+      "S468"
+    ],
+    "status": "valid",
+    "validation_issues": []
+  },
+  {
+    "frame_id": "RF-S468",
+    "actor": "team",
+    "action": null,
+    "object": null,
+    "feature": null,
+    "condition": null,
+    "constraint": null,
+    "business_rule": null,
+    "quality_attribute": null,
+    "priority": null,
+    "source_statements": [
+      "S468",
+      "S469"
+    ],
+    "status": "needs_review",
+    "validation_issues": [
+      "No actionable semantic content"
+    ]
+  }
+]

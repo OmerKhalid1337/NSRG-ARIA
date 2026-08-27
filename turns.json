@@ -1,0 +1,933 @@
+[
+  {
+    "turn_id": "T001",
+    "speaker": "spk_0",
+    "timestamp": "0:00:00",
+    "timestamp_seconds": 0,
+    "raw_text": "we're doing I'm *** and this is **** we are colleagues and uh we are here for the IFA system and all the requirements that we'll now be discussing with you so that we can deliver a good system to you. Yeah. Um Uh just just can you give us 10 seconds? We just need to start recording because. Okay. Okay. So yes. Now the video and our conversation is getting recorded. All right. So we understand that IFA's new system wants to have some key features. For example, you need a proper budget, budgetting portal, reporting portal, scheduling portal and a fan portal for your consumers, fans, users. So we'll go one by one, uh and we'll ask you some questions regarding each of these key categories and then um maybe you can add whatever we have missed and we'll just round it up nicely. So uh regarding the budget, uh We want to know the basics first. So uh how is the IFA Financed and what are your main expense categories? You would say"
+  },
+  {
+    "turn_id": "T002",
+    "speaker": "spk_1",
+    "timestamp": "0:01:17",
+    "timestamp_seconds": 77,
+    "raw_text": "Expense category. So the budget consists of income and expenses, of course. Uh And this can be our first kind, it can be an income from uh ticket selling for a specific game. It can be income income due to uh uh selling of a certain player. It can be an income to you to a sale of specific property. So it's such as a small stadium that the team may have. And things like this is the income outcome could be uh for example, salaries for players for the various stakeholders, various players, various roles within the team itself. A b um uh maintenance expenses for the study and things like that. Did that answers your question?"
+  },
+  {
+    "turn_id": "T003",
+    "speaker": "spk_2",
+    "timestamp": "0:02:15",
+    "timestamp_seconds": 135,
+    "raw_text": "Okay, so the IFA is like an association of different teams and then the budget is consolidated uh through the IFA and then it's distributed to the teams? They're just trying to understand how."
+  },
+  {
+    "turn_id": "T004",
+    "speaker": "spk_1",
+    "timestamp": "0:02:25",
+    "timestamp_seconds": 145,
+    "raw_text": "No no no no no no. Okay. So the idea is that each team manage its own budget. The IFA only controls the ballance and monitor it to see that everything is managed properly. The responsibility for managing the budget is on the team, not only IFA."
+  },
+  {
+    "turn_id": "T005",
+    "speaker": "spk_0",
+    "timestamp": "0:02:43",
+    "timestamp_seconds": 163,
+    "raw_text": "Sorry, sorry to interrupt."
+  },
+  {
+    "turn_id": "T006",
+    "speaker": "spk_1",
+    "timestamp": "0:02:44",
+    "timestamp_seconds": 164,
+    "raw_text": "The IFA is only is making audits maybe set some regulation rules to what is the policies. So it it should have the ability to specify policy, budget policy in the system. So the system can alert of certain violation."
+  },
+  {
+    "turn_id": "T007",
+    "speaker": "spk_2",
+    "timestamp": "0:03:08",
+    "timestamp_seconds": 188,
+    "raw_text": "Okay. And your financial team can access financial data in the in the teams in themselves or in the clubs."
+  },
+  {
+    "turn_id": "T008",
+    "speaker": "spk_1",
+    "timestamp": "0:03:16",
+    "timestamp_seconds": 196,
+    "raw_text": "Right. The favorite administrative can see the uh diverse transactions."
+  },
+  {
+    "turn_id": "T009",
+    "speaker": "spk_2",
+    "timestamp": "0:03:23",
+    "timestamp_seconds": 203,
+    "raw_text": "Okay. These reports are now performed manually or"
+  },
+  {
+    "turn_id": "T010",
+    "speaker": "spk_1",
+    "timestamp": "0:03:26",
+    "timestamp_seconds": 206,
+    "raw_text": "Manually and given once a year. So since they are given once a year, they kind of aggregated and there's no real auditing of the real transactions."
+  },
+  {
+    "turn_id": "T011",
+    "speaker": "spk_0",
+    "timestamp": "0:03:39",
+    "timestamp_seconds": 219,
+    "raw_text": "Okay. Okay. Um Once again if we understand correctly the IFA does not have a central pool of money, each team has their own money and you just regulate and control everything."
+  },
+  {
+    "turn_id": "T012",
+    "speaker": "spk_1",
+    "timestamp": "0:03:50",
+    "timestamp_seconds": 230,
+    "raw_text": "Indeed."
+  },
+  {
+    "turn_id": "T013",
+    "speaker": "spk_0",
+    "timestamp": "0:03:51",
+    "timestamp_seconds": 231,
+    "raw_text": "Okay. All right. Um and um can you uh give us an idea of the key people's, key people that are involved? For example of course the team manager will be involved. Your financial people will be involved. So how many people can you say do get access to this whole budgeting system?"
+  },
+  {
+    "turn_id": "T014",
+    "speaker": "spk_1",
+    "timestamp": "0:04:11",
+    "timestamp_seconds": 251,
+    "raw_text": "for the budgeting system? I think the IFA administrative and that's all that's all just the IFA And the teams. Okay. Okay. Okay."
+  },
+  {
+    "turn_id": "T015",
+    "speaker": "spk_0",
+    "timestamp": "0:04:22",
+    "timestamp_seconds": 262,
+    "raw_text": "Um All right. So fine. Uh I think we have covered the budgeting uh section for now um Now regarding the reports. So it is it is said that you you received reports from various teams and their referees, coaches and referees and everything. So uh say I am a team and I have a referee. So how many reports do you expect? I mean one from the referee. One from the team captain. Or how does it go?"
+  },
+  {
+    "turn_id": "T016",
+    "speaker": "spk_1",
+    "timestamp": "0:04:54",
+    "timestamp_seconds": 294,
+    "raw_text": "Which reports you're referring to?"
+  },
+  {
+    "turn_id": "T017",
+    "speaker": "spk_2",
+    "timestamp": "0:04:56",
+    "timestamp_seconds": 296,
+    "raw_text": "Like other than the budgeting and the financials. Do you receive reports on the games themselves? What's happening with the scheduling? What? Yeah."
+  },
+  {
+    "turn_id": "T018",
+    "speaker": "spk_1",
+    "timestamp": "0:05:04",
+    "timestamp_seconds": 304,
+    "raw_text": "Okay. So what are currently what is being done in the er in the end the games that the referee probably is writing some kind of report and then you set it over to the IFA. The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game. Real time. So I would expect him to use his mobile phone to record the event in real time. It can be the main referee or the side referee or they can insert and only then can insert event of the of the game. Since we would like to have the other information as reliable as possible. So only the referee can update the event that the country during the game. This can be for example scoring a goal and offside uh red card uh player replacement and things like that. So each event will have its timestamp the event itself and maybe additional information that is required for the specific event."
+  },
+  {
+    "turn_id": "T019",
+    "speaker": "spk_2",
+    "timestamp": "0:06:18",
+    "timestamp_seconds": 378,
+    "raw_text": "Okay I'm currently do you have, sorry"
+  },
+  {
+    "turn_id": "T020",
+    "speaker": "spk_1",
+    "timestamp": "0:06:21",
+    "timestamp_seconds": 381,
+    "raw_text": "Go ahead."
+  },
+  {
+    "turn_id": "T021",
+    "speaker": "spk_2",
+    "timestamp": "0:06:22",
+    "timestamp_seconds": 382,
+    "raw_text": "Currently do you have any any way to aggregate this data? For example after the season? How many red cards each team got? How many goals each team scored. Do the teams have access to this kind of data through you now?"
+  },
+  {
+    "turn_id": "T022",
+    "speaker": "spk_1",
+    "timestamp": "0:06:35",
+    "timestamp_seconds": 395,
+    "raw_text": "So everyone is able to see the entire data. Even a guest to the system is able to see the final grain data, which is okay. Everyone can do analysis of what did that whatever it like. one of the the goal of the system is to increase, sorry, transparency. So the idea is that this kind of data is revealed to everyone. Even if you are not registered to the system you should be able to look into such data, not the budget but the data that refer to the game, the results"
+  },
+  {
+    "turn_id": "T023",
+    "speaker": "spk_2",
+    "timestamp": "0:07:12",
+    "timestamp_seconds": 432,
+    "raw_text": "and you can, you can export or you want to be able to export this data to like journalists or press or whatever. Okay. And this is not available now as far as I understand."
+  },
+  {
+    "turn_id": "T024",
+    "speaker": "spk_1",
+    "timestamp": "0:07:20",
+    "timestamp_seconds": 440,
+    "raw_text": "Indeed."
+  },
+  {
+    "turn_id": "T025",
+    "speaker": "spk_0",
+    "timestamp": "0:07:23",
+    "timestamp_seconds": 443,
+    "raw_text": "So the referee uh, data from referee is not at all confidential available very easily. Um there's one more reporting questions. So um is there any kind of reports that you receive or want to receive regarding? Say say I am a team manager. And do you want to report from me saying that I have a new player in my team or this player will be leaving my team? So if we played some tournaments, we had these many events and these many losses, something like that."
+  },
+  {
+    "turn_id": "T026",
+    "speaker": "spk_1",
+    "timestamp": "0:07:55",
+    "timestamp_seconds": 475,
+    "raw_text": "Again, for the team, the entire resources of that. It's managed, for example the play the coaches uh statue the budget transaction, everything it can do whatever it likes. It it's open for the team so we can query and many of its own calculation. I'm not expecting that the city will support any kind of queries or allow. But the system will allow the team manager, the team administration to uh look into this data and then reform its analysis offline."
+  },
+  {
+    "turn_id": "T027",
+    "speaker": "spk_2",
+    "timestamp": "0:08:31",
+    "timestamp_seconds": 511,
+    "raw_text": "Okay. And the budgeting and the money. Our financial data is available to everybody inside IFA Or the finance department"
+  },
+  {
+    "turn_id": "T028",
+    "speaker": "spk_1",
+    "timestamp": "0:08:39",
+    "timestamp_seconds": 519,
+    "raw_text": "Just the team. Each team separately."
+  },
+  {
+    "turn_id": "T029",
+    "speaker": "spk_2",
+    "timestamp": "0:08:41",
+    "timestamp_seconds": 521,
+    "raw_text": "Okay."
+  },
+  {
+    "turn_id": "T030",
+    "speaker": "spk_1",
+    "timestamp": "0:08:44",
+    "timestamp_seconds": 524,
+    "raw_text": "There are two issues. The insertion of budget transaction and items. It's done only by the teams. Okay. They can only access their own data. Okay. The IFA then only view the entire monetary information. Okay. Okay. You can monitor, it cannot uh it can alert, it can uh request for details for adjustment but it cannot form operations over the data"
+  },
+  {
+    "turn_id": "T031",
+    "speaker": "spk_0",
+    "timestamp": "0:09:23",
+    "timestamp_seconds": 563,
+    "raw_text": "Okay uh Yes. Uh Okay. We understand now what the requirements are with the reporting and the budget section. Uh Moving on to scheduling. Uh How do you schedule the matches now? Like how often do you plan a tournament? And how do you schedule the matches between teams?"
+  },
+  {
+    "turn_id": "T032",
+    "speaker": "spk_1",
+    "timestamp": "0:09:39",
+    "timestamp_seconds": 579,
+    "raw_text": "Okay. So currently for each uh league in each season season meaning year, uh, there is a manual scheduling once a year. Okay. It's done manually, uh, maybe without taking into um consideration many constraints. Okay. Uh, so what I would like the system to have, is to have the ability to define policy of how to schedule games. For example, a common policy is that each game, it's uh, a pair of teams they too can sale, once in the in team A stadium and once in team B stadium, this is a common practice. So there was a need to determine the this kind of policy. Maybe we'll like to have a minimal uh, time between matches among the same pair. Uh, maybe it would like to say, uh set the date for uh, the day in the week in which the competition will take place, and many other things that regarding that policy. So this kind of constraints should be taken into account when executing the the scheduling algorithm."
+  },
+  {
+    "turn_id": "T033",
+    "speaker": "spk_2",
+    "timestamp": "0:11:13",
+    "timestamp_seconds": 673,
+    "raw_text": "Okay. Okay. And uh and how how would the referees take in this scheduling now? How how does it work now? I mean which referee is is assigned to which game?"
+  },
+  {
+    "turn_id": "T034",
+    "speaker": "spk_1",
+    "timestamp": "0:11:24",
+    "timestamp_seconds": 684,
+    "raw_text": "Okay. So in my view, the currently this is done also manually. The administer calls the referee. Can you uh can you participate in that game? And that's how the scheduling is happening and the enforcement of this policy, again, it's done manually. So for uh for the referee as well, the system should be uh should have some kind of uh guidance of how to allocate referees to games. For example, we wouldn't like the same refereee to participate in the game and two games of the same teams. Okay. Okay. Uh this yeah, for another example is that we would like to all referees to participate in the same number of games."
+  },
+  {
+    "turn_id": "T035",
+    "speaker": "spk_2",
+    "timestamp": "0:12:27",
+    "timestamp_seconds": 747,
+    "raw_text": "Okay,"
+  },
+  {
+    "turn_id": "T036",
+    "speaker": "spk_1",
+    "timestamp": "0:12:29",
+    "timestamp_seconds": 749,
+    "raw_text": "So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences. Okay. For example, since I planned already my vacation for the next year, I cannot participate in these days. So when scheduling it will take these constraints as well."
+  },
+  {
+    "turn_id": "T037",
+    "speaker": "spk_2",
+    "timestamp": "0:13:07",
+    "timestamp_seconds": 787,
+    "raw_text": "Okay. And of course now, because it's done manually, we cannot accommodate such requests."
+  },
+  {
+    "turn_id": "T038",
+    "speaker": "spk_1",
+    "timestamp": "0:13:11",
+    "timestamp_seconds": 791,
+    "raw_text": "Indeed."
+  },
+  {
+    "turn_id": "T039",
+    "speaker": "spk_2",
+    "timestamp": "0:13:12",
+    "timestamp_seconds": 792,
+    "raw_text": "Okay. And for the teams, currently do they have any input on the schedule, like they prefer some teams prefer to play in the weekends or specific days or anything."
+  },
+  {
+    "turn_id": "T040",
+    "speaker": "spk_1",
+    "timestamp": "0:13:20",
+    "timestamp_seconds": 800,
+    "raw_text": "The team doesn't have any say regarding the schedule."
+  },
+  {
+    "turn_id": "T041",
+    "speaker": "spk_2",
+    "timestamp": "0:13:23",
+    "timestamp_seconds": 803,
+    "raw_text": "And would you like them to have a say in the algorithm of the scheduling later on the system to be"
+  },
+  {
+    "turn_id": "T042",
+    "speaker": "spk_1",
+    "timestamp": "0:13:27",
+    "timestamp_seconds": 807,
+    "raw_text": "No no no. Once you are scheduled for a season, it's done. Okay. It cannot be changed unless there's one um, it might be reduced to certain circumstances. The game is canceled. The weather, Uh, something happened within the city area and things like that. So in that sense, we need to reschedule the game. So in that sense, in that case we need to allow manual adjustment of the schedule."
+  },
+  {
+    "turn_id": "T043",
+    "speaker": "spk_2",
+    "timestamp": "0:14:02",
+    "timestamp_seconds": 842,
+    "raw_text": "Okay. Okay. And the system to be there would be a manual adjustment. Okay, sure."
+  },
+  {
+    "turn_id": "T044",
+    "speaker": "spk_1",
+    "timestamp": "0:14:07",
+    "timestamp_seconds": 847,
+    "raw_text": "Another case that could be, it might be that the yeah. When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems. So we might override the results yet you need to explicate. You need to explain the rationale for the change. Again, you to transparency and bias issues you have to explicate. And then another IFA representative should confirm that change."
+  },
+  {
+    "turn_id": "T045",
+    "speaker": "spk_2",
+    "timestamp": "0:14:47",
+    "timestamp_seconds": 887,
+    "raw_text": "All right, okay."
+  },
+  {
+    "turn_id": "T046",
+    "speaker": "spk_0",
+    "timestamp": "0:14:49",
+    "timestamp_seconds": 889,
+    "raw_text": "Yeah. So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that. Why do they want to change the existing scheduling?"
+  },
+  {
+    "turn_id": "T047",
+    "speaker": "spk_1",
+    "timestamp": "0:15:32",
+    "timestamp_seconds": 932,
+    "raw_text": "No there is only one level. The automatic scheduling and override by the IFA representative. Okay. Okay. Okay. Yeah just one level."
+  },
+  {
+    "turn_id": "T048",
+    "speaker": "spk_2",
+    "timestamp": "0:15:41",
+    "timestamp_seconds": 941,
+    "raw_text": "Okay. And and this level of the IFA Scheduler is uh you need approval from two of them. A second reviewer. In case of change."
+  },
+  {
+    "turn_id": "T049",
+    "speaker": "spk_1",
+    "timestamp": "0:15:50",
+    "timestamp_seconds": 950,
+    "raw_text": "The same role, they are colleagues, but different people. Okay. They play the same role but in the specific case they uh played the role of initiator and an approver."
+  },
+  {
+    "turn_id": "T050",
+    "speaker": "spk_2",
+    "timestamp": "0:16:12",
+    "timestamp_seconds": 972,
+    "raw_text": "Okay. Okay. We talked about the teams and the referees. I think we need to move to the fans."
+  },
+  {
+    "turn_id": "T051",
+    "speaker": "spk_0",
+    "timestamp": "0:16:16",
+    "timestamp_seconds": 976,
+    "raw_text": "Just I have one more question. Sorry. About the scheduling. Uh Is that a number of days gap for example I am team A and he's team B. And uh suppose we played a match together. Now we have a minimum we should have two days of gap before playing the next game or one day of gap before playing the next game."
+  },
+  {
+    "turn_id": "T052",
+    "speaker": "spk_1",
+    "timestamp": "0:16:35",
+    "timestamp_seconds": 995,
+    "raw_text": "That will be part of the policy of the scheduling."
+  },
+  {
+    "turn_id": "T053",
+    "speaker": "spk_0",
+    "timestamp": "0:16:38",
+    "timestamp_seconds": 998,
+    "raw_text": "Yeah. Okay. So you mentioned this in your own uh in the software like this is how you should schedule."
+  },
+  {
+    "turn_id": "T054",
+    "speaker": "spk_1",
+    "timestamp": "0:16:45",
+    "timestamp_seconds": 1005,
+    "raw_text": "uh policy you have at least uh you have the number of teams multiplied by two days where the next match"
+  },
+  {
+    "turn_id": "T055",
+    "speaker": "spk_2",
+    "timestamp": "0:16:56",
+    "timestamp_seconds": 1016,
+    "raw_text": "And you need to be to be able to define these parameters into the system to be built. Right."
+  },
+  {
+    "turn_id": "T056",
+    "speaker": "spk_0",
+    "timestamp": "0:17:04",
+    "timestamp_seconds": 1024,
+    "raw_text": "All right. Moving on to the fan portal. Um uh it was mentioned that you need experience improvements for the fans. So can you be very specific like we want to hear from you before suggesting our technical improvements. So what experience improvements do you expect?"
+  },
+  {
+    "turn_id": "T057",
+    "speaker": "spk_1",
+    "timestamp": "0:17:25",
+    "timestamp_seconds": 1045,
+    "raw_text": "So currently any information the fans would like nowadays, they need to pull the information. Yeah. You need to look for it. If you can change is the schedule. They need to look for it. Uh If a player post a message, you should look for it and things like that. Our view in the new systems, we would like the fan to get information from the system in a push mail. So for example, if he's interested in a, in a certain game Barcelona versus Real Madrid. Uh, so we would register to that game and you would get notifications, notifications regarding that game. For example, if the game of if the schedule is changed would get notification."
+  },
+  {
+    "turn_id": "T058",
+    "speaker": "spk_2",
+    "timestamp": "0:18:26",
+    "timestamp_seconds": 1106,
+    "raw_text": "Okay."
+  },
+  {
+    "turn_id": "T059",
+    "speaker": "spk_1",
+    "timestamp": "0:18:28",
+    "timestamp_seconds": 1108,
+    "raw_text": "I can also registered to one of its favourite players. For example, it would registered to Messi uh, page. And then uh, when Messi posts a message, you would get a notification from the system."
+  },
+  {
+    "turn_id": "T060",
+    "speaker": "spk_2",
+    "timestamp": "0:18:44",
+    "timestamp_seconds": 1124,
+    "raw_text": "Okay. Okay. Okay."
+  },
+  {
+    "turn_id": "T061",
+    "speaker": "spk_1",
+    "timestamp": "0:18:47",
+    "timestamp_seconds": 1127,
+    "raw_text": "So, so in that sense, the fans will become more involved in the community. Whatever changes or things are everything."
+  },
+  {
+    "turn_id": "T062",
+    "speaker": "spk_0",
+    "timestamp": "0:18:57",
+    "timestamp_seconds": 1137,
+    "raw_text": "So yeah, so this is uh, somewhat in line with what we thought of again, to build a very nice fan portal there, the teams can have their own pages, the players can have their own separate profiles or pages and then fans can follow those pages and uh comment or our pictures and um something, something like that, correct?"
+  },
+  {
+    "turn_id": "T063",
+    "speaker": "spk_1",
+    "timestamp": "0:19:24",
+    "timestamp_seconds": 1164,
+    "raw_text": "Indeed. But they also can register to that. Okay, you will follow, you follow its like, register,"
+  },
+  {
+    "turn_id": "T064",
+    "speaker": "spk_0",
+    "timestamp": "0:19:29",
+    "timestamp_seconds": 1169,
+    "raw_text": "Subscribe to the notifications and Yeah, okay, so the fan portal will have say, let's say it will have three different sections. So first section is where the fan can follow the, follow the player or follow the team and get notifications. Second section can be uh the live update section where fans can also see what referees posting from our referee reporting what referees posting. And then also we can include the live score that is going on in the match. And the third section will have the overall tournament scores and the ranking of each team"
+  },
+  {
+    "turn_id": "T065",
+    "speaker": "spk_1",
+    "timestamp": "0:20:08",
+    "timestamp_seconds": 1208,
+    "raw_text": "So for each of the information that you currently mentioned, you can subscribe to it and then get notification. So for example, if it is registered to the game and the game was is already started and uh and then for example there is uh replacement of a player then when the referee is reporting it, you would get a notification. Okay. Okay."
+  },
+  {
+    "turn_id": "T066",
+    "speaker": "spk_0",
+    "timestamp": "0:20:36",
+    "timestamp_seconds": 1236,
+    "raw_text": "All right. Um Fine. And uh the communications that we're talking about within a vial the budgeting by the reporting by the notifications. Uh So of course there will be app notifications. Uh Do we also need uh some email notifications or some direct messages?"
+  },
+  {
+    "turn_id": "T067",
+    "speaker": "spk_1",
+    "timestamp": "0:20:56",
+    "timestamp_seconds": 1256,
+    "raw_text": "No. No. I'll prefer that everything would be in the application of the website. I assume that the teams, for example, and uh on the IFA administrative would work with computers in kind of a web based application. The referee and the fans will probably have the app uh mobile applications so they can work with more easily."
+  },
+  {
+    "turn_id": "T068",
+    "speaker": "spk_0",
+    "timestamp": "0:21:20",
+    "timestamp_seconds": 1280,
+    "raw_text": "Okay, so there will be like two separate systems. One is the very official one for the budgeting and reporting purposes, and the other one will be a fan, fan, fan with the fun things. I would say"
+  },
+  {
+    "turn_id": "T069",
+    "speaker": "spk_1",
+    "timestamp": "0:21:34",
+    "timestamp_seconds": 1294,
+    "raw_text": "I would I want to say the same system, but it may have different interfaces. Okay. Certainly the upper layer of the presentation, there will be different uh of course with access with different tactical culture to the various stakeholders, but the goal of the system is the same with a unified system."
+  },
+  {
+    "turn_id": "T070",
+    "speaker": "spk_0",
+    "timestamp": "0:21:56",
+    "timestamp_seconds": 1316,
+    "raw_text": "Okay, Okay."
+  },
+  {
+    "turn_id": "T071",
+    "speaker": "spk_2",
+    "timestamp": "0:21:57",
+    "timestamp_seconds": 1317,
+    "raw_text": "Uh We need or we were looking for the clarification about something that was mentioned that there are there is an unauthorized data collection of events occur in the game. It's a very it's a bit vague for us what kind of data is collected and how it is unauthorized."
+  },
+  {
+    "turn_id": "T072",
+    "speaker": "spk_1",
+    "timestamp": "0:22:16",
+    "timestamp_seconds": 1336,
+    "raw_text": "So the data that's collected nowadays that uh, for example, if we are watch again and we can have it update through the news portal, uh, and at this minute we got score, a goal. So this minute there was an offset and things like that. But this is not an official one. So there is, there is a mixture of data. Okay. In the new system only the referee, you can update this through the system. So it's, it's coherent and reliable."
+  },
+  {
+    "turn_id": "T073",
+    "speaker": "spk_2",
+    "timestamp": "0:22:50",
+    "timestamp_seconds": 1370,
+    "raw_text": "Okay. So, so you need the system to enable the referees and the official channels to be the only source of channel uh, of data about the games."
+  },
+  {
+    "turn_id": "T074",
+    "speaker": "spk_1",
+    "timestamp": "0:23:00",
+    "timestamp_seconds": 1380,
+    "raw_text": "Yeah. And the fans are of course exposed to it. So they don't need to look forward news portal. Just look into the system."
+  },
+  {
+    "turn_id": "T075",
+    "speaker": "spk_2",
+    "timestamp": "0:23:09",
+    "timestamp_seconds": 1389,
+    "raw_text": "Okay. Okay. Um,"
+  },
+  {
+    "turn_id": "T076",
+    "speaker": "spk_0",
+    "timestamp": "0:23:13",
+    "timestamp_seconds": 1393,
+    "raw_text": "All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication. Is there's some gaps currently which is uh which is not making it a good communication system or something?"
+  },
+  {
+    "turn_id": "T077",
+    "speaker": "spk_1",
+    "timestamp": "0:23:42",
+    "timestamp_seconds": 1422,
+    "raw_text": "Yeah, because for the fans there is no direct communication in the fans. They have to, you know to initiate the fans, have to initiate the communication and not like we discussed before with the other notification mechanism. Uh this is one issue. Mm I think this is the main issue will be unable to the fans to register to specific information that they are interested in and then we push them the information. I think this is the main idea. Did this answer your question."
+  },
+  {
+    "turn_id": "T078",
+    "speaker": "spk_0",
+    "timestamp": "0:24:21",
+    "timestamp_seconds": 1461,
+    "raw_text": "Yes, yes you did. Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to. The team manager has to support a submit a report to the IFA once a year. So some some kind of automatic reminder notification"
+  },
+  {
+    "turn_id": "T079",
+    "speaker": "spk_1",
+    "timestamp": "0:24:49",
+    "timestamp_seconds": 1489,
+    "raw_text": "Yeah yeah for me, some kind of policy regulation in regards to the for the budget. Uh another issue, defend defend itself can itself can specify uh alerts, so for example, remind me five minutes before the game starts. Okay, So we're registered to the specific and you can, you know when it starts and then you can get an amplification as well."
+  },
+  {
+    "turn_id": "T080",
+    "speaker": "spk_2",
+    "timestamp": "0:25:20",
+    "timestamp_seconds": 1520,
+    "raw_text": "Okay. I think We can we can talk about the technicalities of the system itself for a while. It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast. Uh, any any clarification about how fast is it, what key performance indicators are expected?"
+  },
+  {
+    "turn_id": "T081",
+    "speaker": "spk_1",
+    "timestamp": "0:25:37",
+    "timestamp_seconds": 1537,
+    "raw_text": "Yeah, first I meant a reasonable response time. What do you mean? A response? It might be a second of two fold for the fans and also for the IFA administrative and for the team administration. On the other hand, there is one exception for the referees. With the referees are within the game. We need to application to walk very fast in real time, meaning they should be very responsive and even get some priorities over other activities that are in the stadium, probably in the stadium. Okay. So when referee is connected to the system, you should get. When he is in a game, you should get a high priority so we can report the events as quick as possible. Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are. Okay. Uh"
+  },
+  {
+    "turn_id": "T082",
+    "speaker": "spk_2",
+    "timestamp": "0:26:36",
+    "timestamp_seconds": 1596,
+    "raw_text": "Do you expect or or need a two way communication with the referee. Is there any scenario where the FAA would would want to notify the referee of anything during or before or after the game. Anything that might cancel the game or any issue or anything or it's just one way"
+  },
+  {
+    "turn_id": "T083",
+    "speaker": "spk_1",
+    "timestamp": "0:26:53",
+    "timestamp_seconds": 1613,
+    "raw_text": "No no no just the referee in the middle of the system and receive its response uh In a immediate immediately. That's the that's the main contract in real time updates of the referee."
+  },
+  {
+    "turn_id": "T084",
+    "speaker": "spk_0",
+    "timestamp": "0:27:04",
+    "timestamp_seconds": 1624,
+    "raw_text": "Most little bit actual of course. But do we need a live recording feature or something like your recording feature"
+  },
+  {
+    "turn_id": "T085",
+    "speaker": "spk_2",
+    "timestamp": "0:27:13",
+    "timestamp_seconds": 1633,
+    "raw_text": "from the side referee?"
+  },
+  {
+    "turn_id": "T086",
+    "speaker": "spk_1",
+    "timestamp": "0:27:16",
+    "timestamp_seconds": 1636,
+    "raw_text": "Yeah that's a good idea. Uh We didn't talk about it but it might be some feature maybe in a future version. Yeah."
+  },
+  {
+    "turn_id": "T087",
+    "speaker": "spk_2",
+    "timestamp": "0:27:24",
+    "timestamp_seconds": 1644,
+    "raw_text": "Okay. Um What what what level of involvement involvement do you expect your in house IT Team to have in the system and what level of and what do you want to outsource or or delegate to other campaigns?"
+  },
+  {
+    "turn_id": "T088",
+    "speaker": "spk_1",
+    "timestamp": "0:27:42",
+    "timestamp_seconds": 1662,
+    "raw_text": "So basically the IFA is not a software company. We were moving like uh to a uh to develop a maintenance system. So what we are looking for is a kind of outsourcing the entire development and maintenance. The communication between the software development and the IFA will be tasked through the information there IT Department. But the idea is that the uh IT department will out of the activity and the real development and we were essentially as the client for the company."
+  },
+  {
+    "turn_id": "T089",
+    "speaker": "spk_2",
+    "timestamp": "0:28:20",
+    "timestamp_seconds": 1700,
+    "raw_text": "Okay. And also the after the system is up and running all the storage the computing everything should be handled by an external company sources around the cloud service or some kind of service in the uh Okay. Uh I I know it's a it's a very general question, but is there any legal or financial restrictions on the system to have, like there any data that's too confidential to store uh off sites or anything like this?"
+  },
+  {
+    "turn_id": "T090",
+    "speaker": "spk_1",
+    "timestamp": "0:28:55",
+    "timestamp_seconds": 1735,
+    "raw_text": "Um"
+  },
+  {
+    "turn_id": "T091",
+    "speaker": "spk_2",
+    "timestamp": "0:28:56",
+    "timestamp_seconds": 1736,
+    "raw_text": "legal data, anything. I'm just trying to eliminate, demarcate what inside and what is outside"
+  },
+  {
+    "turn_id": "T092",
+    "speaker": "spk_1",
+    "timestamp": "0:29:00",
+    "timestamp_seconds": 1740,
+    "raw_text": "That's a good question, because part of the things that we didn't talk about is the issue of localization. So the system is about to serve many people around the world. So it might be that we need uh to adjust the system to the local regulation, the local review. So, for example, in terms of language, in terms of currency, in terms of time zone, so this is important. Furthermore, certain countries do have restriction about the data. Yeah, I'm not sure if whether it's in a is right for every country in europe but in Germany, you're not allowed to exactly german data outside of the country. Exactly. Uh We should take this into consideration. Indeed that's a good question."
+  },
+  {
+    "turn_id": "T093",
+    "speaker": "spk_2",
+    "timestamp": "0:29:59",
+    "timestamp_seconds": 1799,
+    "raw_text": "Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud. You have something like this in mind? I mean do we need to have that flexible or is it a question for later?"
+  },
+  {
+    "turn_id": "T094",
+    "speaker": "spk_1",
+    "timestamp": "0:30:14",
+    "timestamp_seconds": 1814,
+    "raw_text": "Yeah I think it should be uh we should have we should define it as uh initiative to discuss. So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data? Okay. Uh This is an important issue. In terms of uh security, the data is basically open for everyone except for the the budget. So maybe the budget data should be encrypted in some way to avoid leakage."
+  },
+  {
+    "turn_id": "T095",
+    "speaker": "spk_2",
+    "timestamp": "0:31:05",
+    "timestamp_seconds": 1865,
+    "raw_text": "Okay. Okay."
+  },
+  {
+    "turn_id": "T096",
+    "speaker": "spk_2",
+    "timestamp": "0:31:15",
+    "timestamp_seconds": 1875,
+    "raw_text": "Uh huh. One last thing, the one last player, we didn't talk about the players themselves. They have any access other than the acces that the fans had because they"
+  },
+  {
+    "turn_id": "T097",
+    "speaker": "spk_1",
+    "timestamp": "0:31:26",
+    "timestamp_seconds": 1886,
+    "raw_text": "Okay. The player has one option in which they can update their social network page. Okay. So that's the post there um and manage their communication with defense."
+  },
+  {
+    "turn_id": "T098",
+    "speaker": "spk_2",
+    "timestamp": "0:31:44",
+    "timestamp_seconds": 1904,
+    "raw_text": "Okay. Within the portal of the of the system to be"
+  },
+  {
+    "turn_id": "T099",
+    "speaker": "spk_0",
+    "timestamp": "0:31:49",
+    "timestamp_seconds": 1909,
+    "raw_text": "so uh so so this is the uh this I'm sorry I just got flustered. Uh This is the fun side of the players. But then do the players need to have a have an interface within the budgeting interface where they can see their salaries or something? No. No. Right."
+  },
+  {
+    "turn_id": "T100",
+    "speaker": "spk_1",
+    "timestamp": "0:32:08",
+    "timestamp_seconds": 1928,
+    "raw_text": "No. This is the responsibility of the team, administration. The manager. The owner."
+  },
+  {
+    "turn_id": "T101",
+    "speaker": "spk_2",
+    "timestamp": "0:32:14",
+    "timestamp_seconds": 1934,
+    "raw_text": "Yeah. Okay. I know we don't have details were in the preliminary phase but any any ideas about the timeline of the implementation, how things will move from the existing system to the new system. From my perspective, I mean as an IT Professional, what am I expecting in the next period if I work for IFA"
+  },
+  {
+    "turn_id": "T102",
+    "speaker": "spk_1",
+    "timestamp": "0:32:37",
+    "timestamp_seconds": 1957,
+    "raw_text": "What do you mean? What I'm expecting to see various stages of the"
+  },
+  {
+    "turn_id": "T103",
+    "speaker": "spk_2",
+    "timestamp": "0:32:45",
+    "timestamp_seconds": 1965,
+    "raw_text": "maybe maybe not the time schedule more the sequence, the immigration process."
+  },
+  {
+    "turn_id": "T104",
+    "speaker": "spk_1",
+    "timestamp": "0:32:51",
+    "timestamp_seconds": 1971,
+    "raw_text": "Maybe the priorities of the uh Okay. I would say that the basic of the system, meaning the teams setting the league, setting the season, uh register of the referees and the fans are the basic of the systems. So this should be at the first phase. Okay. The second phase will consist of the budgetary on the one and the scheduling on the other the third stage would be that the referee can uh update the the game information in real time. So this is the stages I'm expecting."
+  },
+  {
+    "turn_id": "T105",
+    "speaker": "spk_0",
+    "timestamp": "0:33:39",
+    "timestamp_seconds": 2019,
+    "raw_text": "Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay. Um there was another line in documentation which said that officials of the IFA should be involved in the system? I have, the officials will have a role to play. Oh,"
+  },
+  {
+    "turn_id": "T106",
+    "speaker": "spk_2",
+    "timestamp": "0:34:03",
+    "timestamp_seconds": 2043,
+    "raw_text": "I don't think uh maybe it's paraphrasing a little. Let's let me find the exact line."
+  },
+  {
+    "turn_id": "T107",
+    "speaker": "spk_1",
+    "timestamp": "0:34:09",
+    "timestamp_seconds": 2049,
+    "raw_text": "Okay, the officials should be. Mhm. Can you repeat the question? Because I'm not sure I understand it."
+  },
+  {
+    "turn_id": "T108",
+    "speaker": "spk_2",
+    "timestamp": "0:34:29",
+    "timestamp_seconds": 2069,
+    "raw_text": "I think I will I will look for the exact wording in the document. The suspects will control the objective."
+  },
+  {
+    "turn_id": "T109",
+    "speaker": "spk_0",
+    "timestamp": "0:34:38",
+    "timestamp_seconds": 2078,
+    "raw_text": "So I think that it's a very painful. The team will take care of its own um resources and I say is responsible for um the budgeting of of say the tournament is organized and other officials that are involved in the tournament. Is there any key set of officials that are involved? For example"
+  },
+  {
+    "turn_id": "T110",
+    "speaker": "spk_2",
+    "timestamp": "0:35:02",
+    "timestamp_seconds": 2102,
+    "raw_text": "I think I think what we are trying to get you out there any other participants or activity that we missed in the crisis?"
+  },
+  {
+    "turn_id": "T111",
+    "speaker": "spk_1",
+    "timestamp": "0:35:07",
+    "timestamp_seconds": 2107,
+    "raw_text": "Currently in my view there is the IFA representative administration is one role that can do the budget and the scheduling and all activities. There are no separation among the various"
+  },
+  {
+    "turn_id": "T112",
+    "speaker": "spk_2",
+    "timestamp": "0:35:21",
+    "timestamp_seconds": 2121,
+    "raw_text": "okay so there is no uh specific departments for IT And finance and so on. There is nothing like this."
+  },
+  {
+    "turn_id": "T113",
+    "speaker": "spk_1",
+    "timestamp": "0:35:27",
+    "timestamp_seconds": 2127,
+    "raw_text": "you're right there's only within the administration is only one role."
+  },
+  {
+    "turn_id": "T114",
+    "speaker": "spk_0",
+    "timestamp": "0:35:33",
+    "timestamp_seconds": 2133,
+    "raw_text": "Okay. So so if we if we have to list out the major stakeholders we will say that it's the it's the IFA admin the team uh team heads the players and the fans and the referees,"
+  },
+  {
+    "turn_id": "T115",
+    "speaker": "spk_1",
+    "timestamp": "0:35:48",
+    "timestamp_seconds": 2148,
+    "raw_text": "Yeah. And the players so we can manage. Yeah. Okay."
+  },
+  {
+    "turn_id": "T116",
+    "speaker": "spk_0",
+    "timestamp": "0:35:54",
+    "timestamp_seconds": 2154,
+    "raw_text": "All right. Yeah."
+  },
+  {
+    "turn_id": "T117",
+    "speaker": "spk_2",
+    "timestamp": "0:36:01",
+    "timestamp_seconds": 2161,
+    "raw_text": "Covered most of things yeah. Any other any other"
+  },
+  {
+    "turn_id": "T118",
+    "speaker": "spk_1",
+    "timestamp": "0:36:09",
+    "timestamp_seconds": 2169,
+    "raw_text": "what else? So eventually should register to the system internet so we can be able to identification. Otherwise it would be just a guest."
+  },
+  {
+    "turn_id": "T119",
+    "speaker": "spk_0",
+    "timestamp": "0:36:25",
+    "timestamp_seconds": 2185,
+    "raw_text": "Yeah, user profile for everyone. username. Okay. Mhm."
+  },
+  {
+    "turn_id": "T120",
+    "speaker": "spk_1",
+    "timestamp": "0:36:30",
+    "timestamp_seconds": 2190,
+    "raw_text": "There was an issue out. How do I register a team? So processes that uh uh the team manager or the owner approached the IFA asked for uh opening a new team with status with a certain valid documents and then the IFA Approved its registration and point the registration. It can now manage a team with the players, the coaches, the stadium and other resources."
+  },
+  {
+    "turn_id": "T121",
+    "speaker": "spk_0",
+    "timestamp": "0:37:03",
+    "timestamp_seconds": 2223,
+    "raw_text": "Yeah. This is the body of another the base, I mean. Also, do you need scheduling archives like past season scheduling archives?"
+  },
+  {
+    "turn_id": "T122",
+    "speaker": "spk_1",
+    "timestamp": "0:37:20",
+    "timestamp_seconds": 2240,
+    "raw_text": "Yeah. All past archives should be kept. The reason that it should be kept. It's to allow some kind of recommendation reasoning maybe for the funds that are uh involved in gambling and reason about the future by okay. Last event. So. Okay. Uh So we need to keep the data. Um Yeah what else. Not sure but we we mentioned the I. F. A. should be able to define the league, define the season, appoint referee or register referees, setting the various policies for the budget for the game, policy scheduling for the referee scheduling. And then of course activate. Is uh policy uncertain uh leagues. Um Same, that's about it."
+  },
+  {
+    "turn_id": "T123",
+    "speaker": "spk_2",
+    "timestamp": "0:38:32",
+    "timestamp_seconds": 2312,
+    "raw_text": "Okay. Uh Registering referees also called uh registering calls for registering the players themselves how they are handled there brought into the IFA Or out of the IFA. I mean if appear"
+  },
+  {
+    "turn_id": "T124",
+    "speaker": "spk_1",
+    "timestamp": "0:38:46",
+    "timestamp_seconds": 2326,
+    "raw_text": "so, referees are appointed by the IFA. Representative insert invites the referee to being part of the system for the players. The team entered the details into the system."
+  },
+  {
+    "turn_id": "T125",
+    "speaker": "spk_2",
+    "timestamp": "0:39:00",
+    "timestamp_seconds": 2340,
+    "raw_text": "Okay? And the FAA. Has just audit the process. Doesn't have anything any input in it."
+  },
+  {
+    "turn_id": "T126",
+    "speaker": "spk_1",
+    "timestamp": "0:39:07",
+    "timestamp_seconds": 2347,
+    "raw_text": "Right. For the players, for the referee, for the players on the team managed its players."
+  },
+  {
+    "turn_id": "T127",
+    "speaker": "spk_2",
+    "timestamp": "0:39:16",
+    "timestamp_seconds": 2356,
+    "raw_text": "Okay. Uh There there is no more requirements on your side. I think we've covered every question here."
+  },
+  {
+    "turn_id": "T128",
+    "speaker": "spk_1",
+    "timestamp": "0:39:24",
+    "timestamp_seconds": 2364,
+    "raw_text": "Right at any rate if your traditional questions please do email me, I'll try to uh answer as soon as possible. Thank you. Thank"
+  },
+  {
+    "turn_id": "T129",
+    "speaker": "spk_2",
+    "timestamp": "0:39:34",
+    "timestamp_seconds": 2374,
+    "raw_text": "you. Thank you. Thank you."
+  },
+  {
+    "turn_id": "T130",
+    "speaker": "spk_0",
+    "timestamp": "0:39:36",
+    "timestamp_seconds": 2376,
+    "raw_text": "Yeah."
+  },
+  {
+    "turn_id": "T131",
+    "speaker": "spk_1",
+    "timestamp": "0:39:37",
+    "timestamp_seconds": 2377,
+    "raw_text": "So like with your assignment again in case you have some problems, just send me an email."
+  },
+  {
+    "turn_id": "T132",
+    "speaker": "spk_0",
+    "timestamp": "0:39:45",
+    "timestamp_seconds": 2385,
+    "raw_text": "Thank you."
+  },
+  {
+    "turn_id": "T133",
+    "speaker": "spk_1",
+    "timestamp": "0:39:49",
+    "timestamp_seconds": 2389,
+    "raw_text": "See you. Bye like. Yes. Mhm. What"
+  }
+]

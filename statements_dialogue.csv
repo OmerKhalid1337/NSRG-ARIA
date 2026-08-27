@@ -1,0 +1,492 @@
+statement_id,turn_id,speaker,timestamp,timestamp_seconds,original_text,normalized_text,position_in_turn,word_count,is_short,has_redacted_name,dialogue_act,dialogue_confidence
+S001,T001,spk_0,0:00:00,0,we're doing I'm *** and this is **** we are colleagues and uh we are here for the IFA system and all the requirements that we'll now be discussing with you so that we can deliver a good system to you.,we're doing I'm *** and this is **** we are colleagues and we are here for the IFA system and all the requirements that we'll now be discussing with you so that we can deliver a good system to you.,0,40,False,True,disagreement,0.35417813062667847
+S002,T001,spk_0,0:00:00,0,Yeah.,Yeah.,1,1,True,False,clarification,0.2715657353401184
+S003,T001,spk_0,0:00:00,0,Um Uh just just can you give us 10 seconds?,just can you give us 10 seconds?,2,7,False,False,question,0.31946784257888794
+S004,T001,spk_0,0:00:00,0,We just need to start recording because.,We just need to start recording because.,3,7,False,False,clarification,0.2415243536233902
+S005,T001,spk_0,0:00:00,0,Okay.,Okay.,4,1,True,False,clarification,0.3142276406288147
+S006,T001,spk_0,0:00:00,0,Okay.,Okay.,5,1,True,False,clarification,0.3142276406288147
+S007,T001,spk_0,0:00:00,0,So yes.,So yes.,6,2,True,False,answer,0.37514182925224304
+S008,T001,spk_0,0:00:00,0,Now the video and our conversation is getting recorded.,Now the video and our conversation is getting recorded.,7,9,False,False,constraint,0.28861182928085327
+S009,T001,spk_0,0:00:00,0,All right.,All right.,8,2,True,False,clarification,0.3409101366996765
+S010,T001,spk_0,0:00:00,0,So we understand that IFA's new system wants to have some key features.,So we understand that IFA's new system wants to have some key features.,9,13,False,False,feature request,0.33104419708251953
+S011,T001,spk_0,0:00:00,0,"For example, you need a proper budget, budgetting portal, reporting portal, scheduling portal and a fan portal for your consumers, fans, users.","For example, you need a proper budget, budgetting portal, reporting portal, scheduling portal and a fan portal for your consumers, fans, users.",10,22,False,False,feature request,0.2942410707473755
+S012,T001,spk_0,0:00:00,0,"So we'll go one by one, uh and we'll ask you some questions regarding each of these key categories and then um maybe you can add whatever we have missed and we'll just round it up nicely.","So we'll go one by one, and we'll ask you some questions regarding each of these key categories and then maybe you can add whatever we have missed and we'll just round it up nicely.",11,35,False,False,question,0.5572761297225952
+S013,T001,spk_0,0:00:00,0,"So uh regarding the budget, uh We want to know the basics first.","So regarding the budget, We want to know the basics first.",12,11,False,False,clarification,0.2845647931098938
+S014,T001,spk_0,0:00:00,0,So uh how is the IFA Financed and what are your main expense categories?,So how is the IFA Financed and what are your main expense categories?,13,13,False,False,question,0.38631999492645264
+S015,T001,spk_0,0:00:00,0,You would say,You would say,14,3,True,False,clarification,0.19229868054389954
+S016,T002,spk_1,0:01:17,77,Expense category.,Expense category.,0,2,True,False,clarification,0.25163471698760986
+S017,T002,spk_1,0:01:17,77,"So the budget consists of income and expenses, of course.","So the budget consists of income and expenses, of course.",1,10,False,False,clarification,0.30077770352363586
+S018,T002,spk_1,0:01:17,77,"Uh And this can be our first kind, it can be an income from uh ticket selling for a specific game.","And this can be our first kind, it can be an income from ticket selling for a specific game.",2,19,False,False,clarification,0.21762752532958984
+S019,T002,spk_1,0:01:17,77,It can be income income due to uh uh selling of a certain player.,It can be income due to selling of a certain player.,3,11,False,False,answer,0.2697106897830963
+S020,T002,spk_1,0:01:17,77,It can be an income to you to a sale of specific property.,It can be an income to you to a sale of specific property.,4,13,False,False,answer,0.23980112373828888
+S021,T002,spk_1,0:01:17,77,So it's such as a small stadium that the team may have.,So it's such as a small stadium that the team may have.,5,12,False,False,constraint,0.2111264169216156
+S022,T002,spk_1,0:01:17,77,"And things like this is the income outcome could be uh for example, salaries for players for the various stakeholders, various players, various roles within the team itself.","And things like this is the income outcome could be for example, salaries for players for the various stakeholders, various players, various roles within the team itself.",6,27,False,False,answer,0.4255829453468323
+S023,T002,spk_1,0:01:17,77,A b um uh maintenance expenses for the study and things like that.,A b maintenance expenses for the study and things like that.,7,11,False,False,constraint,0.17846240103244781
+S024,T002,spk_1,0:01:17,77,Did that answers your question?,Did that answers your question?,8,5,False,False,question,0.47746968269348145
+S025,T003,spk_2,0:02:15,135,"Okay, so the IFA is like an association of different teams and then the budget is consolidated uh through the IFA and then it's distributed to the teams?","Okay, so the IFA is like an association of different teams and then the budget is consolidated through the IFA and then it's distributed to the teams?",0,27,False,False,clarification,0.31002485752105713
+S026,T003,spk_2,0:02:15,135,They're just trying to understand how.,They're just trying to understand how.,1,6,False,False,question,0.3707142770290375
+S027,T004,spk_1,0:02:25,145,No no no no no no.,No.,0,1,True,False,disagreement,0.24274203181266785
+S028,T004,spk_1,0:02:25,145,Okay.,Okay.,1,1,True,False,clarification,0.3142276108264923
+S029,T004,spk_1,0:02:25,145,So the idea is that each team manage its own budget.,So the idea is that each team manage its own budget.,2,11,False,False,clarification,0.26774343848228455
+S030,T004,spk_1,0:02:25,145,The IFA only controls the ballance and monitor it to see that everything is managed properly.,The IFA only controls the ballance and monitor it to see that everything is managed properly.,3,16,False,False,clarification,0.19809293746948242
+S031,T004,spk_1,0:02:25,145,"The responsibility for managing the budget is on the team, not only IFA.","The responsibility for managing the budget is on the team, not only IFA.",4,13,False,False,clarification,0.24129590392112732
+S032,T005,spk_0,0:02:43,163,"Sorry, sorry to interrupt.","Sorry, sorry to interrupt.",0,4,False,False,correction,0.4501661956310272
+S033,T006,spk_1,0:02:44,164,The IFA is only is making audits maybe set some regulation rules to what is the policies.,The IFA is only is making audits maybe set some regulation rules to what is the policies.,0,17,False,False,constraint,0.21179108321666718
+S034,T006,spk_1,0:02:44,164,"So it it should have the ability to specify policy, budget policy in the system.","So it should have the ability to specify policy, budget policy in the system.",1,14,False,False,clarification,0.19639748334884644
+S035,T006,spk_1,0:02:44,164,So the system can alert of certain violation.,So the system can alert of certain violation.,2,8,False,False,clarification,0.235287144780159
+S036,T007,spk_2,0:03:08,188,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S037,T007,spk_2,0:03:08,188,And your financial team can access financial data in the in the teams in themselves or in the clubs.,And your financial team can access financial data in the in the teams in themselves or in the clubs.,1,19,False,False,agreement,0.22321943938732147
+S038,T008,spk_1,0:03:16,196,Right.,Right.,0,1,True,False,clarification,0.29697802662849426
+S039,T008,spk_1,0:03:16,196,The favorite administrative can see the uh diverse transactions.,The favorite administrative can see the diverse transactions.,1,8,False,False,priority,0.20012997090816498
+S040,T009,spk_2,0:03:23,203,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S041,T009,spk_2,0:03:23,203,These reports are now performed manually or,These reports are now performed manually or,1,7,False,False,question,0.373928040266037
+S042,T010,spk_1,0:03:26,206,Manually and given once a year.,Manually and given once a year.,0,6,False,False,constraint,0.2336895912885666
+S043,T010,spk_1,0:03:26,206,"So since they are given once a year, they kind of aggregated and there's no real auditing of the real transactions.","So since they are given once a year, they kind of aggregated and there's no real auditing of the real transactions.",1,21,False,False,disagreement,0.19556334614753723
+S044,T011,spk_0,0:03:39,219,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S045,T011,spk_0,0:03:39,219,Okay.,Okay.,1,1,True,False,clarification,0.3142276406288147
+S046,T011,spk_0,0:03:39,219,"Um Once again if we understand correctly the IFA does not have a central pool of money, each team has their own money and you just regulate and control everything.","Once again if we understand correctly the IFA does not have a central pool of money, each team has their own money and you just regulate and control everything.",2,29,False,False,clarification,0.31648775935173035
+S047,T012,spk_1,0:03:50,230,Indeed.,Indeed.,0,1,True,False,answer,0.32318663597106934
+S048,T013,spk_0,0:03:51,231,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S049,T013,spk_0,0:03:51,231,All right.,All right.,1,2,True,False,clarification,0.3409101366996765
+S050,T013,spk_0,0:03:51,231,"Um and um can you uh give us an idea of the key people's, key people that are involved?","and can you give us an idea of the key people's, key people that are involved?",2,16,False,False,question,0.4313392639160156
+S051,T013,spk_0,0:03:51,231,For example of course the team manager will be involved.,For example of course the team manager will be involved.,3,10,False,False,answer,0.22888627648353577
+S052,T013,spk_0,0:03:51,231,Your financial people will be involved.,Your financial people will be involved.,4,6,False,False,clarification,0.1968039572238922
+S053,T013,spk_0,0:03:51,231,So how many people can you say do get access to this whole budgeting system?,So how many people can you say do get access to this whole budgeting system?,5,15,False,False,question,0.408157080411911
+S054,T014,spk_1,0:04:11,251,for the budgeting system?,for the budgeting system?,0,4,False,False,question,0.38035115599632263
+S055,T014,spk_1,0:04:11,251,I think the IFA administrative and that's all that's all just the IFA And the teams.,I think the IFA administrative and that's all that's all just the IFA And the teams.,1,16,False,False,answer,0.21891839802265167
+S056,T014,spk_1,0:04:11,251,Okay.,Okay.,2,1,True,False,clarification,0.3142276406288147
+S057,T014,spk_1,0:04:11,251,Okay.,Okay.,3,1,True,False,clarification,0.3142276406288147
+S058,T014,spk_1,0:04:11,251,Okay.,Okay.,4,1,True,False,clarification,0.3142276406288147
+S059,T015,spk_0,0:04:22,262,Um All right.,All right.,0,2,True,False,clarification,0.3409101665019989
+S060,T015,spk_0,0:04:22,262,So fine.,So fine.,1,2,True,False,agreement,0.4579830467700958
+S061,T015,spk_0,0:04:22,262,Uh I think we have covered the budgeting uh section for now um Now regarding the reports.,I think we have covered the budgeting section for now Now regarding the reports.,2,14,False,False,agreement,0.2994577884674072
+S062,T015,spk_0,0:04:22,262,"So it is it is said that you you received reports from various teams and their referees, coaches and referees and everything.","So it is it is said that you received reports from various teams and their referees, coaches and referees and everything.",3,21,False,False,answer,0.30748385190963745
+S063,T015,spk_0,0:04:22,262,So uh say I am a team and I have a referee.,So say I am a team and I have a referee.,4,11,False,False,agreement,0.21608972549438477
+S064,T015,spk_0,0:04:22,262,So how many reports do you expect?,So how many reports do you expect?,5,7,False,False,question,0.5357792377471924
+S065,T015,spk_0,0:04:22,262,I mean one from the referee.,one from the referee.,6,4,False,False,answer,0.32101133465766907
+S066,T015,spk_0,0:04:22,262,One from the team captain.,One from the team captain.,7,5,False,False,answer,0.26304930448532104
+S067,T015,spk_0,0:04:22,262,Or how does it go?,Or how does it go?,8,5,False,False,question,0.4966408908367157
+S068,T016,spk_1,0:04:54,294,Which reports you're referring to?,Which reports you're referring to?,0,5,False,False,question,0.4741472601890564
+S069,T017,spk_2,0:04:56,296,Like other than the budgeting and the financials.,Like other than the budgeting and the financials.,0,8,False,False,question,0.2891838252544403
+S070,T017,spk_2,0:04:56,296,Do you receive reports on the games themselves?,Do you receive reports on the games themselves?,1,8,False,False,question,0.5154393911361694
+S071,T017,spk_2,0:04:56,296,What's happening with the scheduling?,What's happening with the scheduling?,2,5,False,False,question,0.5538079142570496
+S072,T017,spk_2,0:04:56,296,What?,What?,3,1,True,False,question,0.5546905994415283
+S073,T017,spk_2,0:04:56,296,Yeah.,Yeah.,4,1,True,False,clarification,0.2715659737586975
+S074,T018,spk_1,0:05:04,304,Okay.,Okay.,0,1,True,False,clarification,0.314227432012558
+S075,T018,spk_1,0:05:04,304,So what are currently what is being done in the er in the end the games that the referee probably is writing some kind of report and then you set it over to the IFA.,So what are currently what is being done in the er in the end the games that the referee probably is writing some kind of report and then you set it over to the IFA.,1,35,False,False,question,0.3087618947029114
+S076,T018,spk_1,0:05:04,304,"The system, in the system to be Uh I would like them to referee to insert the events that occurred during the game.","The system, in the system to be I would like them to referee to insert the events that occurred during the game.",2,22,False,False,feature request,0.20910944044589996
+S077,T018,spk_1,0:05:04,304,Real time.,Real time.,3,2,True,False,priority,0.23313161730766296
+S078,T018,spk_1,0:05:04,304,So I would expect him to use his mobile phone to record the event in real time.,So I would expect him to use his mobile phone to record the event in real time.,4,17,False,False,clarification,0.16551920771598816
+S079,T018,spk_1,0:05:04,304,It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.,It can be the main referee or the side referee or they can insert and only then can insert event of the of the game.,5,25,False,False,agreement,0.1853734403848648
+S080,T018,spk_1,0:05:04,304,Since we would like to have the other information as reliable as possible.,Since we would like to have the other information as reliable as possible.,6,13,False,False,clarification,0.19926930963993073
+S081,T018,spk_1,0:05:04,304,So only the referee can update the event that the country during the game.,So only the referee can update the event that the country during the game.,7,14,False,False,constraint,0.26503264904022217
+S082,T018,spk_1,0:05:04,304,This can be for example scoring a goal and offside uh red card uh player replacement and things like that.,This can be for example scoring a goal and offside red card player replacement and things like that.,8,18,False,False,clarification,0.30926427245140076
+S083,T018,spk_1,0:05:04,304,So each event will have its timestamp the event itself and maybe additional information that is required for the specific event.,So each event will have its timestamp the event itself and maybe additional information that is required for the specific event.,9,21,False,False,clarification,0.31916290521621704
+S084,T019,spk_2,0:06:18,378,"Okay I'm currently do you have, sorry","Okay I'm currently do you have, sorry",0,7,False,False,correction,0.2307952493429184
+S085,T020,spk_1,0:06:21,381,Go ahead.,Go ahead.,0,2,True,False,agreement,0.22270096838474274
+S086,T021,spk_2,0:06:22,382,Currently do you have any any way to aggregate this data?,Currently do you have any way to aggregate this data?,0,10,False,False,question,0.38042977452278137
+S087,T021,spk_2,0:06:22,382,For example after the season?,For example after the season?,1,5,False,False,question,0.3559471368789673
+S088,T021,spk_2,0:06:22,382,How many red cards each team got?,How many red cards each team got?,2,7,False,False,question,0.5523973107337952
+S089,T021,spk_2,0:06:22,382,How many goals each team scored.,How many goals each team scored.,3,6,False,False,question,0.397849440574646
+S090,T021,spk_2,0:06:22,382,Do the teams have access to this kind of data through you now?,Do the teams have access to this kind of data through you now?,4,13,False,False,question,0.4263613224029541
+S091,T022,spk_1,0:06:35,395,So everyone is able to see the entire data.,So everyone is able to see the entire data.,0,9,False,False,agreement,0.18175184726715088
+S092,T022,spk_1,0:06:35,395,"Even a guest to the system is able to see the final grain data, which is okay.","Even a guest to the system is able to see the final grain data, which is okay.",1,17,False,False,agreement,0.208614781498909
+S093,T022,spk_1,0:06:35,395,Everyone can do analysis of what did that whatever it like.,Everyone can do analysis of what did that whatever it like.,2,11,False,False,question,0.2858198285102844
+S094,T022,spk_1,0:06:35,395,"one of the the goal of the system is to increase, sorry, transparency.","one of the goal of the system is to increase, sorry, transparency.",3,12,False,False,correction,0.3687971532344818
+S095,T022,spk_1,0:06:35,395,So the idea is that this kind of data is revealed to everyone.,So the idea is that this kind of data is revealed to everyone.,4,13,False,False,clarification,0.2908990681171417
+S096,T022,spk_1,0:06:35,395,"Even if you are not registered to the system you should be able to look into such data, not the budget but the data that refer to the game, the results","Even if you are not registered to the system you should be able to look into such data, not the budget but the data that refer to the game, the results",5,31,False,False,clarification,0.2001665085554123
+S097,T023,spk_2,0:07:12,432,"and you can, you can export or you want to be able to export this data to like journalists or press or whatever.","and you can, you can export or you want to be able to export this data to like journalists or press or whatever.",0,23,False,False,feature request,0.28304967284202576
+S098,T023,spk_2,0:07:12,432,Okay.,Okay.,1,1,True,False,clarification,0.3142271339893341
+S099,T023,spk_2,0:07:12,432,And this is not available now as far as I understand.,And this is not available now as far as I understand.,2,11,False,False,disagreement,0.24240364134311676
+S100,T024,spk_1,0:07:20,440,Indeed.,Indeed.,0,1,True,False,answer,0.32318711280822754
+S101,T025,spk_0,0:07:23,443,"So the referee uh, data from referee is not at all confidential available very easily.","So the referee , data from referee is not at all confidential available very easily.",0,15,False,False,clarification,0.1709108054637909
+S102,T025,spk_0,0:07:23,443,Um there's one more reporting questions.,there's one more reporting questions.,1,5,False,False,question,0.7176012992858887
+S103,T025,spk_0,0:07:23,443,So um is there any kind of reports that you receive or want to receive regarding?,So is there any kind of reports that you receive or want to receive regarding?,2,15,False,False,question,0.5375316739082336
+S104,T025,spk_0,0:07:23,443,Say say I am a team manager.,Say I am a team manager.,3,6,False,False,clarification,0.26947706937789917
+S105,T025,spk_0,0:07:23,443,And do you want to report from me saying that I have a new player in my team or this player will be leaving my team?,And do you want to report from me saying that I have a new player in my team or this player will be leaving my team?,4,26,False,False,question,0.2457461804151535
+S106,T025,spk_0,0:07:23,443,"So if we played some tournaments, we had these many events and these many losses, something like that.","So if we played some tournaments, we had these many events and these many losses, something like that.",5,18,False,False,disagreement,0.26787859201431274
+S107,T026,spk_1,0:07:55,475,"Again, for the team, the entire resources of that.","Again, for the team, the entire resources of that.",0,9,False,False,clarification,0.25213712453842163
+S108,T026,spk_1,0:07:55,475,"It's managed, for example the play the coaches uh statue the budget transaction, everything it can do whatever it likes.","It's managed, for example the play the coaches statue the budget transaction, everything it can do whatever it likes.",1,19,False,False,clarification,0.21896935999393463
+S109,T026,spk_1,0:07:55,475,It it's open for the team so we can query and many of its own calculation.,It's open for the team so we can query and many of its own calculation.,2,15,False,False,question,0.42908748984336853
+S110,T026,spk_1,0:07:55,475,I'm not expecting that the city will support any kind of queries or allow.,I'm not expecting that the city will support any kind of queries or allow.,3,14,False,False,disagreement,0.4248671233654022
+S111,T026,spk_1,0:07:55,475,"But the system will allow the team manager, the team administration to uh look into this data and then reform its analysis offline.","But the system will allow the team manager, the team administration to look into this data and then reform its analysis offline.",4,22,False,False,clarification,0.21392112970352173
+S112,T027,spk_2,0:08:31,511,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S113,T027,spk_2,0:08:31,511,And the budgeting and the money.,And the budgeting and the money.,1,6,False,False,clarification,0.19233743846416473
+S114,T027,spk_2,0:08:31,511,Our financial data is available to everybody inside IFA Or the finance department,Our financial data is available to everybody inside IFA Or the finance department,2,13,False,False,agreement,0.25654473900794983
+S115,T028,spk_1,0:08:39,519,Just the team.,Just the team.,0,3,True,False,agreement,0.2692558765411377
+S116,T028,spk_1,0:08:39,519,Each team separately.,Each team separately.,1,3,True,False,disagreement,0.22451725602149963
+S117,T029,spk_2,0:08:41,521,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S118,T030,spk_1,0:08:44,524,There are two issues.,There are two issues.,0,4,False,False,disagreement,0.303459107875824
+S119,T030,spk_1,0:08:44,524,The insertion of budget transaction and items.,The insertion of budget transaction and items.,1,7,False,False,agreement,0.2703075110912323
+S120,T030,spk_1,0:08:44,524,It's done only by the teams.,It's done only by the teams.,2,6,False,False,agreement,0.24719390273094177
+S121,T030,spk_1,0:08:44,524,Okay.,Okay.,3,1,True,False,clarification,0.3142276108264923
+S122,T030,spk_1,0:08:44,524,They can only access their own data.,They can only access their own data.,4,7,False,False,constraint,0.2956216335296631
+S123,T030,spk_1,0:08:44,524,Okay.,Okay.,5,1,True,False,clarification,0.31422725319862366
+S124,T030,spk_1,0:08:44,524,The IFA then only view the entire monetary information.,The IFA then only view the entire monetary information.,6,9,False,False,clarification,0.2132602334022522
+S125,T030,spk_1,0:08:44,524,Okay.,Okay.,7,1,True,False,clarification,0.3142276406288147
+S126,T030,spk_1,0:08:44,524,Okay.,Okay.,8,1,True,False,clarification,0.314227432012558
+S127,T030,spk_1,0:08:44,524,"You can monitor, it cannot uh it can alert, it can uh request for details for adjustment but it cannot form operations over the data","You can monitor, it cannot it can alert, it can request for details for adjustment but it cannot form operations over the data",9,23,False,False,disagreement,0.3082544803619385
+S128,T031,spk_0,0:09:23,563,Okay uh Yes.,Okay Yes.,0,2,True,False,agreement,0.2862505614757538
+S129,T031,spk_0,0:09:23,563,Uh Okay.,Okay.,1,1,True,False,clarification,0.3142276704311371
+S130,T031,spk_0,0:09:23,563,We understand now what the requirements are with the reporting and the budget section.,We understand now what the requirements are with the reporting and the budget section.,2,14,False,False,clarification,0.3602340817451477
+S131,T031,spk_0,0:09:23,563,Uh Moving on to scheduling.,Moving on to scheduling.,3,4,False,False,clarification,0.28670474886894226
+S132,T031,spk_0,0:09:23,563,Uh How do you schedule the matches now?,How do you schedule the matches now?,4,7,False,False,question,0.4439671039581299
+S133,T031,spk_0,0:09:23,563,Like how often do you plan a tournament?,Like how often do you plan a tournament?,5,8,False,False,question,0.4130900800228119
+S134,T031,spk_0,0:09:23,563,And how do you schedule the matches between teams?,And how do you schedule the matches between teams?,6,9,False,False,question,0.3830706477165222
+S135,T032,spk_1,0:09:39,579,Okay.,Okay.,0,1,True,False,clarification,0.31422728300094604
+S136,T032,spk_1,0:09:39,579,"So currently for each uh league in each season season meaning year, uh, there is a manual scheduling once a year.","So currently for each league in each season meaning year, , there is a manual scheduling once a year.",1,19,False,False,clarification,0.3103765547275543
+S137,T032,spk_1,0:09:39,579,Okay.,Okay.,2,1,True,False,clarification,0.3142276704311371
+S138,T032,spk_1,0:09:39,579,"It's done manually, uh, maybe without taking into um consideration many constraints.","It's done manually, , maybe without taking into consideration many constraints.",3,11,False,False,clarification,0.18669039011001587
+S139,T032,spk_1,0:09:39,579,Okay.,Okay.,4,1,True,False,clarification,0.3142271339893341
+S140,T032,spk_1,0:09:39,579,"Uh, so what I would like the system to have, is to have the ability to define policy of how to schedule games.",", so what I would like the system to have, is to have the ability to define policy of how to schedule games.",5,23,False,False,feature request,0.2915073335170746
+S141,T032,spk_1,0:09:39,579,"For example, a common policy is that each game, it's uh, a pair of teams they too can sale, once in the in team A stadium and once in team B stadium, this is a common practice.","For example, a common policy is that each game, it's , a pair of teams they too can sale, once in the in team A stadium and once in team B stadium, this is a common practice.",6,37,False,False,agreement,0.48170387744903564
+S142,T032,spk_1,0:09:39,579,So there was a need to determine the this kind of policy.,So there was a need to determine the this kind of policy.,7,12,False,False,constraint,0.23260276019573212
+S143,T032,spk_1,0:09:39,579,"Maybe we'll like to have a minimal uh, time between matches among the same pair.","Maybe we'll like to have a minimal , time between matches among the same pair.",8,15,False,False,feature request,0.19487668573856354
+S144,T032,spk_1,0:09:39,579,"Uh, maybe it would like to say, uh set the date for uh, the day in the week in which the competition will take place, and many other things that regarding that policy.",", maybe it would like to say, set the date for , the day in the week in which the competition will take place, and many other things that regarding that policy.",9,32,False,False,clarification,0.22747261822223663
+S145,T032,spk_1,0:09:39,579,So this kind of constraints should be taken into account when executing the the scheduling algorithm.,So this kind of constraints should be taken into account when executing the scheduling algorithm.,10,15,False,False,constraint,0.5144520401954651
+S146,T033,spk_2,0:11:13,673,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S147,T033,spk_2,0:11:13,673,Okay.,Okay.,1,1,True,False,clarification,0.31422728300094604
+S148,T033,spk_2,0:11:13,673,And uh and how how would the referees take in this scheduling now?,And and how would the referees take in this scheduling now?,2,11,False,False,question,0.43607884645462036
+S149,T033,spk_2,0:11:13,673,How how does it work now?,How does it work now?,3,5,False,False,question,0.6186721324920654
+S150,T033,spk_2,0:11:13,673,I mean which referee is is assigned to which game?,which referee is assigned to which game?,4,7,False,False,question,0.4783635437488556
+S151,T034,spk_1,0:11:24,684,Okay.,Okay.,0,1,True,False,clarification,0.31422725319862366
+S152,T034,spk_1,0:11:24,684,"So in my view, the currently this is done also manually.","So in my view, the currently this is done also manually.",1,11,False,False,opinion,0.2189324051141739
+S153,T034,spk_1,0:11:24,684,The administer calls the referee.,The administer calls the referee.,2,5,False,False,disagreement,0.21376961469650269
+S154,T034,spk_1,0:11:24,684,Can you uh can you participate in that game?,Can you can you participate in that game?,3,8,False,False,question,0.3192351758480072
+S155,T034,spk_1,0:11:24,684,"And that's how the scheduling is happening and the enforcement of this policy, again, it's done manually.","And that's how the scheduling is happening and the enforcement of this policy, again, it's done manually.",4,17,False,False,answer,0.2253866046667099
+S156,T034,spk_1,0:11:24,684,"So for uh for the referee as well, the system should be uh should have some kind of uh guidance of how to allocate referees to games.","So for for the referee as well, the system should be should have some kind of guidance of how to allocate referees to games.",5,24,False,False,clarification,0.2098814696073532
+S157,T034,spk_1,0:11:24,684,"For example, we wouldn't like the same refereee to participate in the game and two games of the same teams.","For example, we wouldn't like the same refereee to participate in the game and two games of the same teams.",6,20,False,False,disagreement,0.3541834354400635
+S158,T034,spk_1,0:11:24,684,Okay.,Okay.,7,1,True,False,clarification,0.31422731280326843
+S159,T034,spk_1,0:11:24,684,Okay.,Okay.,8,1,True,False,clarification,0.3142271637916565
+S160,T034,spk_1,0:11:24,684,"Uh this yeah, for another example is that we would like to all referees to participate in the same number of games.","this yeah, for another example is that we would like to all referees to participate in the same number of games.",9,21,False,False,answer,0.24944083392620087
+S161,T035,spk_2,0:12:27,747,"Okay,","Okay,",0,1,True,False,clarification,0.2985696494579315
+S162,T036,spk_1,0:12:29,749,"So I would like the system to be able to uh facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences.","So I would like the system to be able to facilitate the definition of such policy and then based on that policy to assign the referee to the games, it might be also that the system will enable the referees to install their preferences.",0,44,False,False,feature request,0.320269376039505
+S163,T036,spk_1,0:12:29,749,Okay.,Okay.,1,1,True,False,clarification,0.31422728300094604
+S164,T036,spk_1,0:12:29,749,"For example, since I planned already my vacation for the next year, I cannot participate in these days.","For example, since I planned already my vacation for the next year, I cannot participate in these days.",2,18,False,False,disagreement,0.28396812081336975
+S165,T036,spk_1,0:12:29,749,So when scheduling it will take these constraints as well.,So when scheduling it will take these constraints as well.,3,10,False,False,constraint,0.3631846606731415
+S166,T037,spk_2,0:13:07,787,Okay.,Okay.,0,1,True,False,clarification,0.31422725319862366
+S167,T037,spk_2,0:13:07,787,"And of course now, because it's done manually, we cannot accommodate such requests.","And of course now, because it's done manually, we cannot accommodate such requests.",1,13,False,False,constraint,0.30411216616630554
+S168,T038,spk_1,0:13:11,791,Indeed.,Indeed.,0,1,True,False,answer,0.32318729162216187
+S169,T039,spk_2,0:13:12,792,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S170,T039,spk_2,0:13:12,792,"And for the teams, currently do they have any input on the schedule, like they prefer some teams prefer to play in the weekends or specific days or anything.","And for the teams, currently do they have any input on the schedule, like they prefer some teams prefer to play in the weekends or specific days or anything.",1,29,False,False,question,0.4482876658439636
+S171,T040,spk_1,0:13:20,800,The team doesn't have any say regarding the schedule.,The team doesn't have any say regarding the schedule.,0,9,False,False,opinion,0.24431541562080383
+S172,T041,spk_2,0:13:23,803,And would you like them to have a say in the algorithm of the scheduling later on the system to be,And would you like them to have a say in the algorithm of the scheduling later on the system to be,0,21,False,False,question,0.28827741742134094
+S173,T042,spk_1,0:13:27,807,No no no.,No.,0,1,True,False,disagreement,0.24274203181266785
+S174,T042,spk_1,0:13:27,807,"Once you are scheduled for a season, it's done.","Once you are scheduled for a season, it's done.",1,9,False,False,agreement,0.5287429094314575
+S175,T042,spk_1,0:13:27,807,Okay.,Okay.,2,1,True,False,clarification,0.31422749161720276
+S176,T042,spk_1,0:13:27,807,"It cannot be changed unless there's one um, it might be reduced to certain circumstances.","It cannot be changed unless there's one , it might be reduced to certain circumstances.",3,15,False,False,constraint,0.3696848750114441
+S177,T042,spk_1,0:13:27,807,The game is canceled.,The game is canceled.,4,4,False,False,disagreement,0.2441769540309906
+S178,T042,spk_1,0:13:27,807,"The weather, Uh, something happened within the city area and things like that.","The weather, , something happened within the city area and things like that.",5,13,False,False,clarification,0.165830597281456
+S179,T042,spk_1,0:13:27,807,"So in that sense, we need to reschedule the game.","So in that sense, we need to reschedule the game.",6,10,False,False,clarification,0.19256246089935303
+S180,T042,spk_1,0:13:27,807,"So in that sense, in that case we need to allow manual adjustment of the schedule.","So in that sense, in that case we need to allow manual adjustment of the schedule.",7,16,False,False,clarification,0.2326878011226654
+S181,T043,spk_2,0:14:02,842,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S182,T043,spk_2,0:14:02,842,Okay.,Okay.,1,1,True,False,clarification,0.31422749161720276
+S183,T043,spk_2,0:14:02,842,And the system to be there would be a manual adjustment.,And the system to be there would be a manual adjustment.,2,11,False,False,correction,0.1870524138212204
+S184,T043,spk_2,0:14:02,842,"Okay, sure.","Okay, sure.",3,2,True,False,agreement,0.3481680750846863
+S185,T044,spk_1,0:14:07,847,"Another case that could be, it might be that the yeah.","Another case that could be, it might be that the yeah.",0,11,False,False,clarification,0.22020727396011353
+S186,T044,spk_1,0:14:07,847,"When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems.","When the system offers scheduling for the games throughout the year, the administration review it and see that there are problems.",1,21,False,False,disagreement,0.25499072670936584
+S187,T044,spk_1,0:14:07,847,So we might override the results yet you need to explicate.,So we might override the results yet you need to explicate.,2,11,False,False,clarification,0.4851302206516266
+S188,T044,spk_1,0:14:07,847,You need to explain the rationale for the change.,You need to explain the rationale for the change.,3,9,False,False,clarification,0.42844516038894653
+S189,T044,spk_1,0:14:07,847,"Again, you to transparency and bias issues you have to explicate.","Again, you to transparency and bias issues you have to explicate.",4,11,False,False,clarification,0.45586884021759033
+S190,T044,spk_1,0:14:07,847,And then another IFA representative should confirm that change.,And then another IFA representative should confirm that change.,5,9,False,False,clarification,0.20031343400478363
+S191,T045,spk_2,0:14:47,887,"All right, okay.","All right, okay.",0,3,True,False,clarification,0.34935012459754944
+S192,T046,spk_0,0:14:49,889,Yeah.,Yeah.,0,1,True,False,clarification,0.2715659737586975
+S193,T046,spk_0,0:14:49,889,"So uh if I understand this correctly in the scheduling system or software that we will build um there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in in case of weather changes that he he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that.","So if I understand this correctly in the scheduling system or software that we will build there at the very best level there exists a team of schedulers who look into the teams and then they schedule the games and then on top of it there, as I say, a master scheduler who approves this scheduling and in case of weather changes that he can manually change the scheduling and on top of the master scheduler a is an IFA Admin or team of admins who can again overlook and if they want to change it, they can explicitly say that.",1,101,False,False,answer,0.29273930191993713
+S194,T046,spk_0,0:14:49,889,Why do they want to change the existing scheduling?,Why do they want to change the existing scheduling?,2,9,False,False,question,0.5038127303123474
+S195,T047,spk_1,0:15:32,932,No there is only one level.,No there is only one level.,0,6,False,False,clarification,0.28418204188346863
+S196,T047,spk_1,0:15:32,932,The automatic scheduling and override by the IFA representative.,The automatic scheduling and override by the IFA representative.,1,9,False,False,agreement,0.1898868829011917
+S197,T047,spk_1,0:15:32,932,Okay.,Okay.,2,1,True,False,clarification,0.3142276406288147
+S198,T047,spk_1,0:15:32,932,Okay.,Okay.,3,1,True,False,clarification,0.3142276406288147
+S199,T047,spk_1,0:15:32,932,Okay.,Okay.,4,1,True,False,clarification,0.3142276406288147
+S200,T047,spk_1,0:15:32,932,Yeah just one level.,Yeah just one level.,5,4,False,False,clarification,0.23914562165737152
+S201,T048,spk_2,0:15:41,941,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S202,T048,spk_2,0:15:41,941,And and this level of the IFA Scheduler is uh you need approval from two of them.,And this level of the IFA Scheduler is you need approval from two of them.,1,15,False,False,constraint,0.22859488427639008
+S203,T048,spk_2,0:15:41,941,A second reviewer.,A second reviewer.,2,3,True,False,opinion,0.22038570046424866
+S204,T048,spk_2,0:15:41,941,In case of change.,In case of change.,3,4,False,False,clarification,0.3810924291610718
+S205,T049,spk_1,0:15:50,950,"The same role, they are colleagues, but different people.","The same role, they are colleagues, but different people.",0,9,False,False,clarification,0.34098517894744873
+S206,T049,spk_1,0:15:50,950,Okay.,Okay.,1,1,True,False,clarification,0.31422725319862366
+S207,T049,spk_1,0:15:50,950,They play the same role but in the specific case they uh played the role of initiator and an approver.,They play the same role but in the specific case they played the role of initiator and an approver.,2,19,False,False,clarification,0.26571592688560486
+S208,T050,spk_2,0:16:12,972,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S209,T050,spk_2,0:16:12,972,Okay.,Okay.,1,1,True,False,clarification,0.3142276108264923
+S210,T050,spk_2,0:16:12,972,We talked about the teams and the referees.,We talked about the teams and the referees.,2,8,False,False,answer,0.1626926213502884
+S211,T050,spk_2,0:16:12,972,I think we need to move to the fans.,I think we need to move to the fans.,3,9,False,False,disagreement,0.20249208807945251
+S212,T051,spk_0,0:16:16,976,Just I have one more question.,Just I have one more question.,0,6,False,False,question,0.6957136392593384
+S213,T051,spk_0,0:16:16,976,Sorry.,Sorry.,1,1,True,False,correction,0.49087220430374146
+S214,T051,spk_0,0:16:16,976,About the scheduling.,About the scheduling.,2,3,True,False,clarification,0.28006041049957275
+S215,T051,spk_0,0:16:16,976,Uh Is that a number of days gap for example I am team A and he's team B. And uh suppose we played a match together.,Is that a number of days gap for example I am team A and he's team B. And suppose we played a match together.,3,24,False,False,question,0.40974870324134827
+S216,T051,spk_0,0:16:16,976,Now we have a minimum we should have two days of gap before playing the next game or one day of gap before playing the next game.,Now we have a minimum we should have two days of gap before playing the next game or one day of gap before playing the next game.,4,27,False,False,question,0.21721208095550537
+S217,T052,spk_1,0:16:35,995,That will be part of the policy of the scheduling.,That will be part of the policy of the scheduling.,0,10,False,False,agreement,0.27588003873825073
+S218,T053,spk_0,0:16:38,998,Yeah.,Yeah.,0,1,True,False,clarification,0.2715660333633423
+S219,T053,spk_0,0:16:38,998,Okay.,Okay.,1,1,True,False,clarification,0.31422731280326843
+S220,T053,spk_0,0:16:38,998,So you mentioned this in your own uh in the software like this is how you should schedule.,So you mentioned this in your own in the software like this is how you should schedule.,2,17,False,False,clarification,0.1921275109052658
+S221,T054,spk_1,0:16:45,1005,uh policy you have at least uh you have the number of teams multiplied by two days where the next match,policy you have at least you have the number of teams multiplied by two days where the next match,0,19,False,False,agreement,0.308895468711853
+S222,T055,spk_2,0:16:56,1016,And you need to be to be able to define these parameters into the system to be built.,And you need to be to be able to define these parameters into the system to be built.,0,18,False,False,priority,0.19573019444942474
+S223,T055,spk_2,0:16:56,1016,Right.,Right.,1,1,True,False,clarification,0.29697859287261963
+S224,T056,spk_0,0:17:04,1024,All right.,All right.,0,2,True,False,clarification,0.3409101665019989
+S225,T056,spk_0,0:17:04,1024,Moving on to the fan portal.,Moving on to the fan portal.,1,6,False,False,clarification,0.19253990054130554
+S226,T056,spk_0,0:17:04,1024,Um uh it was mentioned that you need experience improvements for the fans.,it was mentioned that you need experience improvements for the fans.,2,11,False,False,clarification,0.20886656641960144
+S227,T056,spk_0,0:17:04,1024,So can you be very specific like we want to hear from you before suggesting our technical improvements.,So can you be very specific like we want to hear from you before suggesting our technical improvements.,3,18,False,False,question,0.3051021695137024
+S228,T056,spk_0,0:17:04,1024,So what experience improvements do you expect?,So what experience improvements do you expect?,4,7,False,False,question,0.4089668095111847
+S229,T057,spk_1,0:17:25,1045,"So currently any information the fans would like nowadays, they need to pull the information.","So currently any information the fans would like nowadays, they need to pull the information.",0,15,False,False,constraint,0.2316751480102539
+S230,T057,spk_1,0:17:25,1045,Yeah.,Yeah.,1,1,True,False,clarification,0.2715657949447632
+S231,T057,spk_1,0:17:25,1045,You need to look for it.,You need to look for it.,2,6,False,False,priority,0.24940022826194763
+S232,T057,spk_1,0:17:25,1045,If you can change is the schedule.,If you can change is the schedule.,3,7,False,False,question,0.31239157915115356
+S233,T057,spk_1,0:17:25,1045,They need to look for it.,They need to look for it.,4,6,False,False,priority,0.29347431659698486
+S234,T057,spk_1,0:17:25,1045,"Uh If a player post a message, you should look for it and things like that.","If a player post a message, you should look for it and things like that.",5,15,False,False,clarification,0.2101423293352127
+S235,T057,spk_1,0:17:25,1045,"Our view in the new systems, we would like the fan to get information from the system in a push mail.","Our view in the new systems, we would like the fan to get information from the system in a push mail.",6,21,False,False,opinion,0.2024027705192566
+S236,T057,spk_1,0:17:25,1045,"So for example, if he's interested in a, in a certain game Barcelona versus Real Madrid.","So for example, if he's interested in a, in a certain game Barcelona versus Real Madrid.",7,16,False,False,question,0.2497010976076126
+S237,T057,spk_1,0:17:25,1045,"Uh, so we would register to that game and you would get notifications, notifications regarding that game.",", so we would register to that game and you would get notifications, notifications regarding that game.",8,17,False,False,agreement,0.3642074167728424
+S238,T057,spk_1,0:17:25,1045,"For example, if the game of if the schedule is changed would get notification.","For example, if the game of if the schedule is changed would get notification.",9,14,False,False,answer,0.21299238502979279
+S239,T058,spk_2,0:18:26,1106,Okay.,Okay.,0,1,True,False,clarification,0.31422725319862366
+S240,T059,spk_1,0:18:28,1108,I can also registered to one of its favourite players.,I can also registered to one of its favourite players.,0,10,False,False,agreement,0.2748033404350281
+S241,T059,spk_1,0:18:28,1108,"For example, it would registered to Messi uh, page.","For example, it would registered to Messi , page.",1,9,False,False,agreement,0.18917055428028107
+S242,T059,spk_1,0:18:28,1108,"And then uh, when Messi posts a message, you would get a notification from the system.","And then , when Messi posts a message, you would get a notification from the system.",2,16,False,False,answer,0.1700318306684494
+S243,T060,spk_2,0:18:44,1124,Okay.,Okay.,0,1,True,False,clarification,0.314227432012558
+S244,T060,spk_2,0:18:44,1124,Okay.,Okay.,1,1,True,False,clarification,0.3142276108264923
+S245,T060,spk_2,0:18:44,1124,Okay.,Okay.,2,1,True,False,clarification,0.3142276406288147
+S246,T061,spk_1,0:18:47,1127,"So, so in that sense, the fans will become more involved in the community.","So, so in that sense, the fans will become more involved in the community.",0,14,False,False,clarification,0.2965500056743622
+S247,T061,spk_1,0:18:47,1127,Whatever changes or things are everything.,Whatever changes or things are everything.,1,6,False,False,opinion,0.2466541975736618
+S248,T062,spk_0,0:18:57,1137,"So yeah, so this is uh, somewhat in line with what we thought of again, to build a very nice fan portal there, the teams can have their own pages, the players can have their own separate profiles or pages and then fans can follow those pages and uh comment or our pictures and um something, something like that, correct?","So yeah, so this is , somewhat in line with what we thought of again, to build a very nice fan portal there, the teams can have their own pages, the players can have their own separate profiles or pages and then fans can follow those pages and comment or our pictures and something, something like that, correct?",0,58,False,False,clarification,0.2760944664478302
+S249,T063,spk_1,0:19:24,1164,Indeed.,Indeed.,0,1,True,False,answer,0.32318729162216187
+S250,T063,spk_1,0:19:24,1164,But they also can register to that.,But they also can register to that.,1,7,False,False,agreement,0.2752038538455963
+S251,T063,spk_1,0:19:24,1164,"Okay, you will follow, you follow its like, register,","Okay, you will follow, you follow its like, register,",2,9,False,False,agreement,0.45985841751098633
+S252,T064,spk_0,0:19:29,1169,"Subscribe to the notifications and Yeah, okay, so the fan portal will have say, let's say it will have three different sections.","Subscribe to the notifications and Yeah, okay, so the fan portal will have say, let's say it will have three different sections.",0,22,False,False,answer,0.25154268741607666
+S253,T064,spk_0,0:19:29,1169,"So first section is where the fan can follow the, follow the player or follow the team and get notifications.","So first section is where the fan can follow the, follow the player or follow the team and get notifications.",1,20,False,False,clarification,0.28003454208374023
+S254,T064,spk_0,0:19:29,1169,Second section can be uh the live update section where fans can also see what referees posting from our referee reporting what referees posting.,Second section can be the live update section where fans can also see what referees posting from our referee reporting what referees posting.,2,23,False,False,feature request,0.29217010736465454
+S255,T064,spk_0,0:19:29,1169,And then also we can include the live score that is going on in the match.,And then also we can include the live score that is going on in the match.,3,16,False,False,feature request,0.33743399381637573
+S256,T064,spk_0,0:19:29,1169,And the third section will have the overall tournament scores and the ranking of each team,And the third section will have the overall tournament scores and the ranking of each team,4,16,False,False,clarification,0.2773883640766144
+S257,T065,spk_1,0:20:08,1208,"So for each of the information that you currently mentioned, you can subscribe to it and then get notification.","So for each of the information that you currently mentioned, you can subscribe to it and then get notification.",0,19,False,False,clarification,0.21511046588420868
+S258,T065,spk_1,0:20:08,1208,"So for example, if it is registered to the game and the game was is already started and uh and then for example there is uh replacement of a player then when the referee is reporting it, you would get a notification.","So for example, if it is registered to the game and the game was is already started and and then for example there is replacement of a player then when the referee is reporting it, you would get a notification.",1,40,False,False,clarification,0.24806246161460876
+S259,T065,spk_1,0:20:08,1208,Okay.,Okay.,2,1,True,False,clarification,0.3142274022102356
+S260,T065,spk_1,0:20:08,1208,Okay.,Okay.,3,1,True,False,clarification,0.3142276108264923
+S261,T066,spk_0,0:20:36,1236,All right.,All right.,0,2,True,False,clarification,0.3409101665019989
+S262,T066,spk_0,0:20:36,1236,Um Fine.,Fine.,1,1,True,False,agreement,0.42535415291786194
+S263,T066,spk_0,0:20:36,1236,And uh the communications that we're talking about within a vial the budgeting by the reporting by the notifications.,And the communications that we're talking about within a vial the budgeting by the reporting by the notifications.,2,18,False,False,clarification,0.276523232460022
+S264,T066,spk_0,0:20:36,1236,Uh So of course there will be app notifications.,So of course there will be app notifications.,3,8,False,False,clarification,0.30560487508773804
+S265,T066,spk_0,0:20:36,1236,Uh Do we also need uh some email notifications or some direct messages?,Do we also need some email notifications or some direct messages?,4,11,False,False,question,0.35689061880111694
+S266,T067,spk_1,0:20:56,1256,No.,No.,0,1,True,False,disagreement,0.24274197220802307
+S267,T067,spk_1,0:20:56,1256,No.,No.,1,1,True,False,disagreement,0.24274186789989471
+S268,T067,spk_1,0:20:56,1256,I'll prefer that everything would be in the application of the website.,I'll prefer that everything would be in the application of the website.,2,12,False,False,disagreement,0.22781115770339966
+S269,T067,spk_1,0:20:56,1256,"I assume that the teams, for example, and uh on the IFA administrative would work with computers in kind of a web based application.","I assume that the teams, for example, and on the IFA administrative would work with computers in kind of a web based application.",3,23,False,False,answer,0.22222372889518738
+S270,T067,spk_1,0:20:56,1256,The referee and the fans will probably have the app uh mobile applications so they can work with more easily.,The referee and the fans will probably have the app mobile applications so they can work with more easily.,4,19,False,False,answer,0.19410541653633118
+S271,T068,spk_0,0:21:20,1280,"Okay, so there will be like two separate systems.","Okay, so there will be like two separate systems.",0,9,False,False,clarification,0.26705509424209595
+S272,T068,spk_0,0:21:20,1280,"One is the very official one for the budgeting and reporting purposes, and the other one will be a fan, fan, fan with the fun things.","One is the very official one for the budgeting and reporting purposes, and the other one will be a fan, fan, fan with the fun things.",1,26,False,False,disagreement,0.2630070745944977
+S273,T068,spk_0,0:21:20,1280,I would say,I would say,2,3,True,False,opinion,0.25828996300697327
+S274,T069,spk_1,0:21:34,1294,"I would I want to say the same system, but it may have different interfaces.","I would I want to say the same system, but it may have different interfaces.",0,15,False,False,clarification,0.24209031462669373
+S275,T069,spk_1,0:21:34,1294,Okay.,Okay.,1,1,True,False,clarification,0.3142274022102356
+S276,T069,spk_1,0:21:34,1294,"Certainly the upper layer of the presentation, there will be different uh of course with access with different tactical culture to the various stakeholders, but the goal of the system is the same with a unified system.","Certainly the upper layer of the presentation, there will be different of course with access with different tactical culture to the various stakeholders, but the goal of the system is the same with a unified system.",2,36,False,False,clarification,0.28190237283706665
+S277,T070,spk_0,0:21:56,1316,"Okay, Okay.","Okay, Okay.",0,2,True,False,clarification,0.33840107917785645
+S278,T071,spk_2,0:21:57,1317,Uh We need or we were looking for the clarification about something that was mentioned that there are there is an unauthorized data collection of events occur in the game.,We need or we were looking for the clarification about something that was mentioned that there are there is an unauthorized data collection of events occur in the game.,0,29,False,False,question,0.3202108144760132
+S279,T071,spk_2,0:21:57,1317,It's a very it's a bit vague for us what kind of data is collected and how it is unauthorized.,It's a very it's a bit vague for us what kind of data is collected and how it is unauthorized.,1,20,False,False,question,0.370980829000473
+S280,T072,spk_1,0:22:16,1336,"So the data that's collected nowadays that uh, for example, if we are watch again and we can have it update through the news portal, uh, and at this minute we got score, a goal.","So the data that's collected nowadays that , for example, if we are watch again and we can have it update through the news portal, , and at this minute we got score, a goal.",0,35,False,False,clarification,0.2794173061847687
+S281,T072,spk_1,0:22:16,1336,So this minute there was an offset and things like that.,So this minute there was an offset and things like that.,1,11,False,False,correction,0.3339006304740906
+S282,T072,spk_1,0:22:16,1336,But this is not an official one.,But this is not an official one.,2,7,False,False,opinion,0.3823654055595398
+S283,T072,spk_1,0:22:16,1336,"So there is, there is a mixture of data.","So there is, there is a mixture of data.",3,9,False,False,clarification,0.446028470993042
+S284,T072,spk_1,0:22:16,1336,Okay.,Okay.,4,1,True,False,clarification,0.3142276108264923
+S285,T072,spk_1,0:22:16,1336,"In the new system only the referee, you can update this through the system.","In the new system only the referee, you can update this through the system.",5,14,False,False,clarification,0.2151280790567398
+S286,T072,spk_1,0:22:16,1336,"So it's, it's coherent and reliable.","So it's, it's coherent and reliable.",6,6,False,False,agreement,0.455952912569046
+S287,T073,spk_2,0:22:50,1370,Okay.,Okay.,0,1,True,False,clarification,0.3142271339893341
+S288,T073,spk_2,0:22:50,1370,"So, so you need the system to enable the referees and the official channels to be the only source of channel uh, of data about the games.","So, so you need the system to enable the referees and the official channels to be the only source of channel , of data about the games.",1,27,False,False,clarification,0.19478043913841248
+S289,T074,spk_1,0:23:00,1380,Yeah.,Yeah.,0,1,True,False,clarification,0.2715659737586975
+S290,T074,spk_1,0:23:00,1380,And the fans are of course exposed to it.,And the fans are of course exposed to it.,1,9,False,False,agreement,0.2039632648229599
+S291,T074,spk_1,0:23:00,1380,So they don't need to look forward news portal.,So they don't need to look forward news portal.,2,9,False,False,clarification,0.27235984802246094
+S292,T074,spk_1,0:23:00,1380,Just look into the system.,Just look into the system.,3,5,False,False,clarification,0.25980857014656067
+S293,T075,spk_2,0:23:09,1389,Okay.,Okay.,0,1,True,False,clarification,0.3142276406288147
+S294,T075,spk_2,0:23:09,1389,Okay.,Okay.,1,1,True,False,clarification,0.314227432012558
+S295,T075,spk_2,0:23:09,1389,"Um,",",",2,1,True,False,clarification,0.2002144455909729
+S296,T076,spk_0,0:23:13,1393,"All right coming to the system performances then, um uh a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication.","All right coming to the system performances then, a there was a line in the document that said that you want to increase the stakeholder communication or enhance the stakeholder communication.",0,31,False,False,question,0.20269198715686798
+S297,T076,spk_0,0:23:13,1393,Is there's some gaps currently which is uh which is not making it a good communication system or something?,Is there's some gaps currently which is which is not making it a good communication system or something?,1,18,False,False,question,0.4886186718940735
+S298,T077,spk_1,0:23:42,1422,"Yeah, because for the fans there is no direct communication in the fans.","Yeah, because for the fans there is no direct communication in the fans.",0,13,False,False,clarification,0.22555188834667206
+S299,T077,spk_1,0:23:42,1422,"They have to, you know to initiate the fans, have to initiate the communication and not like we discussed before with the other notification mechanism.","They have to, to initiate the fans, have to initiate the communication and not like we discussed before with the other notification mechanism.",1,23,False,False,constraint,0.24008779227733612
+S300,T077,spk_1,0:23:42,1422,Uh this is one issue.,this is one issue.,2,4,False,False,clarification,0.2796211242675781
+S301,T077,spk_1,0:23:42,1422,Mm I think this is the main issue will be unable to the fans to register to specific information that they are interested in and then we push them the information.,Mm I think this is the main issue will be unable to the fans to register to specific information that they are interested in and then we push them the information.,3,31,False,False,constraint,0.32256945967674255
+S302,T077,spk_1,0:23:42,1422,I think this is the main idea.,I think this is the main idea.,4,7,False,False,priority,0.4788951873779297
+S303,T077,spk_1,0:23:42,1422,Did this answer your question.,Did this answer your question.,5,5,False,False,question,0.4035962224006653
+S304,T078,spk_0,0:24:21,1461,"Yes, yes you did.","Yes, yes you did.",0,4,False,False,answer,0.4087354838848114
+S305,T078,spk_0,0:24:21,1461,"Uh and also um for that to be to be system can we uh like if you like, and we incorporate some auto reminders, For example, your reporters do uh the as as we discussed that the team members also have to.","and also for that to be to be system can we like if you like, and we incorporate some auto reminders, For example, your reporters do the as we discussed that the team members also have to.",1,37,False,False,feature request,0.449917197227478
+S306,T078,spk_0,0:24:21,1461,The team manager has to support a submit a report to the IFA once a year.,The team manager has to support a submit a report to the IFA once a year.,2,16,False,False,constraint,0.23570753633975983
+S307,T078,spk_0,0:24:21,1461,So some some kind of automatic reminder notification,So some kind of automatic reminder notification,3,7,False,False,feature request,0.632652997970581
+S308,T079,spk_1,0:24:49,1489,"Yeah yeah for me, some kind of policy regulation in regards to the for the budget.","Yeah for me, some kind of policy regulation in regards to the for the budget.",0,15,False,False,constraint,0.37364354729652405
+S309,T079,spk_1,0:24:49,1489,"Uh another issue, defend defend itself can itself can specify uh alerts, so for example, remind me five minutes before the game starts.","another issue, defend itself can itself can specify alerts, so for example, remind me five minutes before the game starts.",1,20,False,False,clarification,0.3112236261367798
+S310,T079,spk_1,0:24:49,1489,"Okay, So we're registered to the specific and you can, you know when it starts and then you can get an amplification as well.","Okay, So we're registered to the specific and you can, when it starts and then you can get an amplification as well.",2,22,False,False,agreement,0.3696146011352539
+S311,T080,spk_2,0:25:20,1520,Okay.,Okay.,0,1,True,False,clarification,0.31422728300094604
+S312,T080,spk_2,0:25:20,1520,I think We can we can talk about the technicalities of the system itself for a while.,I think We can we can talk about the technicalities of the system itself for a while.,1,17,False,False,clarification,0.24269278347492218
+S313,T080,spk_2,0:25:20,1520,"It was mentioned, for example, that it should be accessed by 50,000 people uh simultaneously and fast.","It was mentioned, for example, that it should be accessed by 50,000 people simultaneously and fast.",2,16,False,False,clarification,0.15284806489944458
+S314,T080,spk_2,0:25:20,1520,"Uh, any any clarification about how fast is it, what key performance indicators are expected?",", any clarification about how fast is it, what key performance indicators are expected?",3,14,False,False,question,0.5285780429840088
+S315,T081,spk_1,0:25:37,1537,"Yeah, first I meant a reasonable response time.","Yeah, first I meant a reasonable response time.",0,8,False,False,correction,0.36729371547698975
+S316,T081,spk_1,0:25:37,1537,What do you mean?,What do you mean?,1,4,False,False,question,0.5920936465263367
+S317,T081,spk_1,0:25:37,1537,A response?,A response?,2,2,True,False,question,0.35533204674720764
+S318,T081,spk_1,0:25:37,1537,It might be a second of two fold for the fans and also for the IFA administrative and for the team administration.,It might be a second of two fold for the fans and also for the IFA administrative and for the team administration.,3,22,False,False,clarification,0.17063435912132263
+S319,T081,spk_1,0:25:37,1537,"On the other hand, there is one exception for the referees.","On the other hand, there is one exception for the referees.",4,11,False,False,clarification,0.2772414982318878
+S320,T081,spk_1,0:25:37,1537,With the referees are within the game.,With the referees are within the game.,5,7,False,False,agreement,0.1846708208322525
+S321,T081,spk_1,0:25:37,1537,"We need to application to walk very fast in real time, meaning they should be very responsive and even get some priorities over other activities that are in the stadium, probably in the stadium.","We need to application to walk very fast in real time, meaning they should be very responsive and even get some priorities over other activities that are in the stadium, probably in the stadium.",6,34,False,False,feature request,0.2627887427806854
+S322,T081,spk_1,0:25:37,1537,Okay.,Okay.,7,1,True,False,clarification,0.314227432012558
+S323,T081,spk_1,0:25:37,1537,"So when referee is connected to the system, you should get.","So when referee is connected to the system, you should get.",8,11,False,False,agreement,0.24806290864944458
+S324,T081,spk_1,0:25:37,1537,"When he is in a game, you should get a high priority so we can report the events as quick as possible.","When he is in a game, you should get a high priority so we can report the events as quick as possible.",9,22,False,False,priority,0.4470795691013336
+S325,T081,spk_1,0:25:37,1537,"Okay, well, this is uh, the uh, the major concerns from the regular user experience that we are.","Okay, well, this is , the , the major concerns from the regular user experience that we are.",10,18,False,False,clarification,0.40082982182502747
+S326,T081,spk_1,0:25:37,1537,Okay.,Okay.,11,1,True,False,clarification,0.31422728300094604
+S327,T081,spk_1,0:25:37,1537,Uh,Uh,12,1,True,False,clarification,0.3409813642501831
+S328,T082,spk_2,0:26:36,1596,Do you expect or or need a two way communication with the referee.,Do you expect or need a two way communication with the referee.,0,12,False,False,question,0.3589804768562317
+S329,T082,spk_2,0:26:36,1596,Is there any scenario where the FAA would would want to notify the referee of anything during or before or after the game.,Is there any scenario where the FAA would want to notify the referee of anything during or before or after the game.,1,22,False,False,question,0.42872855067253113
+S330,T082,spk_2,0:26:36,1596,Anything that might cancel the game or any issue or anything or it's just one way,Anything that might cancel the game or any issue or anything or it's just one way,2,16,False,False,constraint,0.23749752342700958
+S331,T083,spk_1,0:26:53,1613,No no no just the referee in the middle of the system and receive its response uh In a immediate immediately.,No just the referee in the middle of the system and receive its response In a immediate immediately.,0,18,False,False,clarification,0.17401961982250214
+S332,T083,spk_1,0:26:53,1613,That's the that's the main contract in real time updates of the referee.,That's the that's the main contract in real time updates of the referee.,1,13,False,False,agreement,0.49270084500312805
+S333,T084,spk_0,0:27:04,1624,Most little bit actual of course.,Most little bit actual of course.,0,6,False,False,answer,0.24917450547218323
+S334,T084,spk_0,0:27:04,1624,But do we need a live recording feature or something like your recording feature,But do we need a live recording feature or something like your recording feature,1,14,False,False,question,0.22992053627967834
+S335,T085,spk_2,0:27:13,1633,from the side referee?,from the side referee?,0,4,False,False,question,0.4275200664997101
+S336,T086,spk_1,0:27:16,1636,Yeah that's a good idea.,Yeah that's a good idea.,0,5,False,False,answer,0.30637499690055847
+S337,T086,spk_1,0:27:16,1636,Uh We didn't talk about it but it might be some feature maybe in a future version.,We didn't talk about it but it might be some feature maybe in a future version.,1,16,False,False,clarification,0.2106168121099472
+S338,T086,spk_1,0:27:16,1636,Yeah.,Yeah.,2,1,True,False,clarification,0.27156585454940796
+S339,T087,spk_2,0:27:24,1644,Okay.,Okay.,0,1,True,False,clarification,0.314227432012558
+S340,T087,spk_2,0:27:24,1644,Um What what what level of involvement involvement do you expect your in house IT Team to have in the system and what level of and what do you want to outsource or or delegate to other campaigns?,What level of involvement do you expect your in house IT Team to have in the system and what level of and what do you want to outsource or delegate to other campaigns?,1,33,False,False,question,0.3500366806983948
+S341,T088,spk_1,0:27:42,1662,So basically the IFA is not a software company.,So basically the IFA is not a software company.,0,9,False,False,clarification,0.22105905413627625
+S342,T088,spk_1,0:27:42,1662,We were moving like uh to a uh to develop a maintenance system.,We were moving like to a to develop a maintenance system.,1,11,False,False,priority,0.2323170304298401
+S343,T088,spk_1,0:27:42,1662,So what we are looking for is a kind of outsourcing the entire development and maintenance.,So what we are looking for is a kind of outsourcing the entire development and maintenance.,2,16,False,False,feature request,0.2763334810733795
+S344,T088,spk_1,0:27:42,1662,The communication between the software development and the IFA will be tasked through the information there IT Department.,The communication between the software development and the IFA will be tasked through the information there IT Department.,3,18,False,False,clarification,0.21733085811138153
+S345,T088,spk_1,0:27:42,1662,But the idea is that the uh IT department will out of the activity and the real development and we were essentially as the client for the company.,But the idea is that the IT department will out of the activity and the real development and we were essentially as the client for the company.,4,27,False,False,answer,0.22862067818641663
+S346,T089,spk_2,0:28:20,1700,Okay.,Okay.,0,1,True,False,clarification,0.3142271041870117
+S347,T089,spk_2,0:28:20,1700,And also the after the system is up and running all the storage the computing everything should be handled by an external company sources around the cloud service or some kind of service in the uh Okay.,And also the after the system is up and running all the storage the computing everything should be handled by an external company sources around the cloud service or some kind of service in the Okay.,1,36,False,False,agreement,0.21001063287258148
+S348,T089,spk_2,0:28:20,1700,"Uh I I know it's a it's a very general question, but is there any legal or financial restrictions on the system to have, like there any data that's too confidential to store uh off sites or anything like this?","I know it's a it's a very general question, but is there any legal or financial restrictions on the system to have, like there any data that's too confidential to store off sites or anything like this?",2,37,False,False,question,0.6706073880195618
+S349,T090,spk_1,0:28:55,1735,Um,Um,0,1,True,False,clarification,0.300231397151947
+S350,T091,spk_2,0:28:56,1736,"legal data, anything.","legal data, anything.",0,3,True,False,clarification,0.2215806245803833
+S351,T091,spk_2,0:28:56,1736,"I'm just trying to eliminate, demarcate what inside and what is outside","I'm just trying to eliminate, demarcate what inside and what is outside",1,12,False,False,clarification,0.4968831241130829
+S352,T092,spk_1,0:29:00,1740,"That's a good question, because part of the things that we didn't talk about is the issue of localization.","That's a good question, because part of the things that we didn't talk about is the issue of localization.",0,19,False,False,question,0.7114744782447815
+S353,T092,spk_1,0:29:00,1740,So the system is about to serve many people around the world.,So the system is about to serve many people around the world.,1,12,False,False,answer,0.289631187915802
+S354,T092,spk_1,0:29:00,1740,"So it might be that we need uh to adjust the system to the local regulation, the local review.","So it might be that we need to adjust the system to the local regulation, the local review.",2,18,False,False,clarification,0.21964971721172333
+S355,T092,spk_1,0:29:00,1740,"So, for example, in terms of language, in terms of currency, in terms of time zone, so this is important.","So, for example, in terms of language, in terms of currency, in terms of time zone, so this is important.",3,20,False,False,priority,0.6003249287605286
+S356,T092,spk_1,0:29:00,1740,"Furthermore, certain countries do have restriction about the data.","Furthermore, certain countries do have restriction about the data.",4,9,False,False,constraint,0.3216393291950226
+S357,T092,spk_1,0:29:00,1740,"Yeah, I'm not sure if whether it's in a is right for every country in europe but in Germany, you're not allowed to exactly german data outside of the country.","Yeah, I'm not sure if whether it's in a is right for every country in europe but in Germany, you're not allowed to exactly german data outside of the country.",5,30,False,False,question,0.3348589539527893
+S358,T092,spk_1,0:29:00,1740,Exactly.,Exactly.,6,1,True,False,clarification,0.3397524356842041
+S359,T092,spk_1,0:29:00,1740,Uh We should take this into consideration.,We should take this into consideration.,7,6,False,False,clarification,0.24262559413909912
+S360,T092,spk_1,0:29:00,1740,Indeed that's a good question.,Indeed that's a good question.,8,5,False,False,question,0.7314738035202026
+S361,T093,spk_2,0:29:59,1799,Okay so should it be like uh your in house IT Team or technical team should decide what goes inside and what goes into the cloud.,Okay so should it be like your in house IT Team or technical team should decide what goes inside and what goes into the cloud.,0,25,False,False,clarification,0.24745452404022217
+S362,T093,spk_2,0:29:59,1799,You have something like this in mind?,You have something like this in mind?,1,7,False,False,question,0.4307670593261719
+S363,T093,spk_2,0:29:59,1799,I mean do we need to have that flexible or is it a question for later?,do we need to have that flexible or is it a question for later?,2,14,False,False,disagreement,0.3851981461048126
+S364,T094,spk_1,0:30:14,1814,Yeah I think it should be uh we should have we should define it as uh initiative to discuss.,Yeah I think it should be we should have we should define it as initiative to discuss.,0,17,False,False,clarification,0.35165151953697205
+S365,T094,spk_1,0:30:14,1814,So the the notion of where the data center for which label things like that uh should be allocated whether we have uh how do we actually distribute the data?,So the notion of where the data center for which label things like that should be allocated whether we have how do we actually distribute the data?,1,27,False,False,question,0.3352537155151367
+S366,T094,spk_1,0:30:14,1814,Okay.,Okay.,2,1,True,False,clarification,0.3142271339893341
+S367,T094,spk_1,0:30:14,1814,Uh This is an important issue.,This is an important issue.,3,5,False,False,priority,0.7773406505584717
+S368,T094,spk_1,0:30:14,1814,"In terms of uh security, the data is basically open for everyone except for the the budget.","In terms of security, the data is basically open for everyone except for the budget.",4,15,False,False,clarification,0.21303509175777435
+S369,T094,spk_1,0:30:14,1814,So maybe the budget data should be encrypted in some way to avoid leakage.,So maybe the budget data should be encrypted in some way to avoid leakage.,5,14,False,False,clarification,0.18172702193260193
+S370,T095,spk_2,0:31:05,1865,Okay.,Okay.,0,1,True,False,clarification,0.3142276108264923
+S371,T095,spk_2,0:31:05,1865,Okay.,Okay.,1,1,True,False,clarification,0.3142276406288147
+S372,T096,spk_2,0:31:15,1875,Uh huh.,huh.,0,1,True,False,clarification,0.35285699367523193
+S373,T096,spk_2,0:31:15,1875,"One last thing, the one last player, we didn't talk about the players themselves.","One last thing, the one last player, we didn't talk about the players themselves.",1,14,False,False,opinion,0.20310114324092865
+S374,T096,spk_2,0:31:15,1875,They have any access other than the acces that the fans had because they,They have any access other than the acces that the fans had because they,2,14,False,False,disagreement,0.16275891661643982
+S375,T097,spk_1,0:31:26,1886,Okay.,Okay.,0,1,True,False,clarification,0.31422749161720276
+S376,T097,spk_1,0:31:26,1886,The player has one option in which they can update their social network page.,The player has one option in which they can update their social network page.,1,14,False,False,clarification,0.2591608762741089
+S377,T097,spk_1,0:31:26,1886,Okay.,Okay.,2,1,True,False,clarification,0.3142276108264923
+S378,T097,spk_1,0:31:26,1886,So that's the post there um and manage their communication with defense.,So that's the post there and manage their communication with defense.,3,11,False,False,answer,0.4437445104122162
+S379,T098,spk_2,0:31:44,1904,Okay.,Okay.,0,1,True,False,clarification,0.31422725319862366
+S380,T098,spk_2,0:31:44,1904,Within the portal of the of the system to be,Within the portal of the of the system to be,1,10,False,False,agreement,0.2137962132692337
+S381,T099,spk_0,0:31:49,1909,so uh so so this is the uh this I'm sorry I just got flustered.,so so this is the this I'm sorry I just got flustered.,0,12,False,False,clarification,0.3458637595176697
+S382,T099,spk_0,0:31:49,1909,Uh This is the fun side of the players.,This is the fun side of the players.,1,8,False,False,clarification,0.23446328938007355
+S383,T099,spk_0,0:31:49,1909,But then do the players need to have a have an interface within the budgeting interface where they can see their salaries or something?,But then do the players need to have a have an interface within the budgeting interface where they can see their salaries or something?,2,24,False,False,question,0.3023202419281006
+S384,T099,spk_0,0:31:49,1909,No.,No.,3,1,True,False,disagreement,0.242742121219635
+S385,T099,spk_0,0:31:49,1909,No.,No.,4,1,True,False,disagreement,0.24274203181266785
+S386,T099,spk_0,0:31:49,1909,Right.,Right.,5,1,True,False,clarification,0.2969786524772644
+S387,T100,spk_1,0:32:08,1928,No.,No.,0,1,True,False,disagreement,0.24274186789989471
+S388,T100,spk_1,0:32:08,1928,"This is the responsibility of the team, administration.","This is the responsibility of the team, administration.",1,8,False,False,constraint,0.2974829077720642
+S389,T100,spk_1,0:32:08,1928,The manager.,The manager.,2,2,True,False,answer,0.15392298996448517
+S390,T100,spk_1,0:32:08,1928,The owner.,The owner.,3,2,True,False,clarification,0.18314553797245026
+S391,T101,spk_2,0:32:14,1934,Yeah.,Yeah.,0,1,True,False,clarification,0.2715662717819214
+S392,T101,spk_2,0:32:14,1934,Okay.,Okay.,1,1,True,False,clarification,0.3142276108264923
+S393,T101,spk_2,0:32:14,1934,"I know we don't have details were in the preliminary phase but any any ideas about the timeline of the implementation, how things will move from the existing system to the new system.","I know we don't have details were in the preliminary phase but any ideas about the timeline of the implementation, how things will move from the existing system to the new system.",2,32,False,False,question,0.45424607396125793
+S394,T101,spk_2,0:32:14,1934,"From my perspective, I mean as an IT Professional, what am I expecting in the next period if I work for IFA","From my perspective, as an IT Professional, what am I expecting in the next period if I work for IFA",3,20,False,False,question,0.28152981400489807
+S395,T102,spk_1,0:32:37,1957,What do you mean?,What do you mean?,0,4,False,False,question,0.5920941829681396
+S396,T102,spk_1,0:32:37,1957,What I'm expecting to see various stages of the,What I'm expecting to see various stages of the,1,9,False,False,question,0.23097573220729828
+S397,T103,spk_2,0:32:45,1965,"maybe maybe not the time schedule more the sequence, the immigration process.","maybe not the time schedule more the sequence, the immigration process.",0,11,False,False,clarification,0.2613806128501892
+S398,T104,spk_1,0:32:51,1971,Maybe the priorities of the uh Okay.,Maybe the priorities of the Okay.,0,6,False,False,agreement,0.2365848422050476
+S399,T104,spk_1,0:32:51,1971,"I would say that the basic of the system, meaning the teams setting the league, setting the season, uh register of the referees and the fans are the basic of the systems.","I would say that the basic of the system, meaning the teams setting the league, setting the season, register of the referees and the fans are the basic of the systems.",1,31,False,False,answer,0.3191578984260559
+S400,T104,spk_1,0:32:51,1971,So this should be at the first phase.,So this should be at the first phase.,2,8,False,False,priority,0.22003264725208282
+S401,T104,spk_1,0:32:51,1971,Okay.,Okay.,3,1,True,False,clarification,0.3142276406288147
+S402,T104,spk_1,0:32:51,1971,The second phase will consist of the budgetary on the one and the scheduling on the other the third stage would be that the referee can uh update the the game information in real time.,The second phase will consist of the budgetary on the one and the scheduling on the other the third stage would be that the referee can update the game information in real time.,4,33,False,False,clarification,0.23806878924369812
+S403,T104,spk_1,0:32:51,1971,So this is the stages I'm expecting.,So this is the stages I'm expecting.,5,7,False,False,clarification,0.2830977141857147
+S404,T105,spk_0,0:33:39,2019,"Okay, so first, very first the urgent one is the scheduling and then the budgeting and then uh okay.","Okay, so first, very first the urgent one is the scheduling and then the budgeting and then okay.",0,18,False,False,priority,0.3403077721595764
+S405,T105,spk_0,0:33:39,2019,Um there was another line in documentation which said that officials of the IFA should be involved in the system?,there was another line in documentation which said that officials of the IFA should be involved in the system?,1,19,False,False,question,0.4402146637439728
+S406,T105,spk_0,0:33:39,2019,"I have, the officials will have a role to play.","I have, the officials will have a role to play.",2,10,False,False,clarification,0.3300338387489319
+S407,T105,spk_0,0:33:39,2019,"Oh,","Oh,",3,1,True,False,clarification,0.3368128836154938
+S408,T106,spk_2,0:34:03,2043,I don't think uh maybe it's paraphrasing a little.,I don't think maybe it's paraphrasing a little.,0,8,False,False,disagreement,0.44952863454818726
+S409,T106,spk_2,0:34:03,2043,Let's let me find the exact line.,Let's let me find the exact line.,1,7,False,False,question,0.1980287730693817
+S410,T107,spk_1,0:34:09,2049,"Okay, the officials should be.","Okay, the officials should be.",0,5,False,False,agreement,0.2819482684135437
+S411,T107,spk_1,0:34:09,2049,Mhm.,Mhm.,1,1,True,False,clarification,0.3443155884742737
+S412,T107,spk_1,0:34:09,2049,Can you repeat the question?,Can you repeat the question?,2,5,False,False,question,0.5527256727218628
+S413,T107,spk_1,0:34:09,2049,Because I'm not sure I understand it.,Because I'm not sure I understand it.,3,7,False,False,disagreement,0.4219125211238861
+S414,T108,spk_2,0:34:29,2069,I think I will I will look for the exact wording in the document.,I think I will I will look for the exact wording in the document.,0,14,False,False,clarification,0.2003292590379715
+S415,T108,spk_2,0:34:29,2069,The suspects will control the objective.,The suspects will control the objective.,1,6,False,False,constraint,0.22401602566242218
+S416,T109,spk_0,0:34:38,2078,So I think that it's a very painful.,So I think that it's a very painful.,0,8,False,False,disagreement,0.3910837173461914
+S417,T109,spk_0,0:34:38,2078,The team will take care of its own um resources and I say is responsible for um the budgeting of of say the tournament is organized and other officials that are involved in the tournament.,The team will take care of its own resources and I say is responsible for the budgeting of say the tournament is organized and other officials that are involved in the tournament.,1,32,False,False,disagreement,0.25413963198661804
+S418,T109,spk_0,0:34:38,2078,Is there any key set of officials that are involved?,Is there any key set of officials that are involved?,2,10,False,False,question,0.5262116193771362
+S419,T109,spk_0,0:34:38,2078,For example,For example,3,2,True,False,clarification,0.26697590947151184
+S420,T110,spk_2,0:35:02,2102,I think I think what we are trying to get you out there any other participants or activity that we missed in the crisis?,I think I think what we are trying to get you out there any other participants or activity that we missed in the crisis?,0,24,False,False,clarification,0.3472508490085602
+S421,T111,spk_1,0:35:07,2107,Currently in my view there is the IFA representative administration is one role that can do the budget and the scheduling and all activities.,Currently in my view there is the IFA representative administration is one role that can do the budget and the scheduling and all activities.,0,24,False,False,answer,0.24208691716194153
+S422,T111,spk_1,0:35:07,2107,There are no separation among the various,There are no separation among the various,1,7,False,False,opinion,0.24826881289482117
+S423,T112,spk_2,0:35:21,2121,okay so there is no uh specific departments for IT And finance and so on.,okay so there is no specific departments for IT And finance and so on.,0,14,False,False,opinion,0.19490107893943787
+S424,T112,spk_2,0:35:21,2121,There is nothing like this.,There is nothing like this.,1,5,False,False,clarification,0.27700063586235046
+S425,T113,spk_1,0:35:27,2127,you're right there's only within the administration is only one role.,you're right there's only within the administration is only one role.,0,11,False,False,clarification,0.2856830954551697
+S426,T114,spk_0,0:35:33,2133,Okay.,Okay.,0,1,True,False,clarification,0.31422725319862366
+S427,T114,spk_0,0:35:33,2133,"So so if we if we have to list out the major stakeholders we will say that it's the it's the IFA admin the team uh team heads the players and the fans and the referees,","So if we if we have to list out the major stakeholders we will say that it's the it's the IFA admin the team team heads the players and the fans and the referees,",1,34,False,False,answer,0.2981877624988556
+S428,T115,spk_1,0:35:48,2148,Yeah.,Yeah.,0,1,True,False,clarification,0.27156585454940796
+S429,T115,spk_1,0:35:48,2148,And the players so we can manage.,And the players so we can manage.,1,7,False,False,agreement,0.2997221052646637
+S430,T115,spk_1,0:35:48,2148,Yeah.,Yeah.,2,1,True,False,clarification,0.2715660333633423
+S431,T115,spk_1,0:35:48,2148,Okay.,Okay.,3,1,True,False,clarification,0.3142276406288147
+S432,T116,spk_0,0:35:54,2154,All right.,All right.,0,2,True,False,clarification,0.3409101665019989
+S433,T116,spk_0,0:35:54,2154,Yeah.,Yeah.,1,1,True,False,clarification,0.2715659737586975
+S434,T117,spk_2,0:36:01,2161,Covered most of things yeah.,Covered most of things yeah.,0,5,False,False,agreement,0.49623316526412964
+S435,T117,spk_2,0:36:01,2161,Any other any other,Any other any other,1,4,False,False,question,0.3594484031200409
+S436,T118,spk_1,0:36:09,2169,what else?,what else?,0,2,True,False,question,0.6446613073348999
+S437,T118,spk_1,0:36:09,2169,So eventually should register to the system internet so we can be able to identification.,So eventually should register to the system internet so we can be able to identification.,1,15,False,False,feature request,0.16672801971435547
+S438,T118,spk_1,0:36:09,2169,Otherwise it would be just a guest.,Otherwise it would be just a guest.,2,7,False,False,correction,0.24678587913513184
+S439,T119,spk_0,0:36:25,2185,"Yeah, user profile for everyone.","Yeah, user profile for everyone.",0,5,False,False,clarification,0.250527560710907
+S440,T119,spk_0,0:36:25,2185,username.,username.,1,1,True,False,clarification,0.21539553999900818
+S441,T119,spk_0,0:36:25,2185,Okay.,Okay.,2,1,True,False,clarification,0.3142276406288147
+S442,T119,spk_0,0:36:25,2185,Mhm.,Mhm.,3,1,True,False,clarification,0.3443155884742737
+S443,T120,spk_1,0:36:30,2190,There was an issue out.,There was an issue out.,0,5,False,False,disagreement,0.5086360573768616
+S444,T120,spk_1,0:36:30,2190,How do I register a team?,How do I register a team?,1,6,False,False,question,0.510055422782898
+S445,T120,spk_1,0:36:30,2190,So processes that uh uh the team manager or the owner approached the IFA asked for uh opening a new team with status with a certain valid documents and then the IFA Approved its registration and point the registration.,So processes that the team manager or the owner approached the IFA asked for opening a new team with status with a certain valid documents and then the IFA Approved its registration and point the registration.,2,36,False,False,answer,0.22902795672416687
+S446,T120,spk_1,0:36:30,2190,"It can now manage a team with the players, the coaches, the stadium and other resources.","It can now manage a team with the players, the coaches, the stadium and other resources.",3,16,False,False,answer,0.23159217834472656
+S447,T121,spk_0,0:37:03,2223,Yeah.,Yeah.,0,1,True,False,clarification,0.27156585454940796
+S448,T121,spk_0,0:37:03,2223,"This is the body of another the base, I mean.","This is the body of another the base, .",1,9,False,False,answer,0.21032963693141937
+S449,T121,spk_0,0:37:03,2223,"Also, do you need scheduling archives like past season scheduling archives?","Also, do you need scheduling archives like past season scheduling archives?",2,11,False,False,question,0.31690365076065063
+S450,T122,spk_1,0:37:20,2240,Yeah.,Yeah.,0,1,True,False,clarification,0.27156585454940796
+S451,T122,spk_1,0:37:20,2240,All past archives should be kept.,All past archives should be kept.,1,6,False,False,agreement,0.29608044028282166
+S452,T122,spk_1,0:37:20,2240,The reason that it should be kept.,The reason that it should be kept.,2,7,False,False,answer,0.2714269757270813
+S453,T122,spk_1,0:37:20,2240,It's to allow some kind of recommendation reasoning maybe for the funds that are uh involved in gambling and reason about the future by okay.,It's to allow some kind of recommendation reasoning maybe for the funds that are involved in gambling and reason about the future by okay.,3,24,False,False,answer,0.3004613220691681
+S454,T122,spk_1,0:37:20,2240,Last event.,Last event.,4,2,True,False,clarification,0.1978687345981598
+S455,T122,spk_1,0:37:20,2240,So.,So.,5,1,True,False,clarification,0.37906336784362793
+S456,T122,spk_1,0:37:20,2240,Okay.,Okay.,6,1,True,False,clarification,0.3142276108264923
+S457,T122,spk_1,0:37:20,2240,Uh So we need to keep the data.,So we need to keep the data.,7,7,False,False,constraint,0.24142427742481232
+S458,T122,spk_1,0:37:20,2240,Um Yeah what else.,Yeah what else.,8,3,True,False,question,0.2759975492954254
+S459,T122,spk_1,0:37:20,2240,"Not sure but we we mentioned the I. F. A. should be able to define the league, define the season, appoint referee or register referees, setting the various policies for the budget for the game, policy scheduling for the referee scheduling.","Not sure but we mentioned the I. F. A. should be able to define the league, define the season, appoint referee or register referees, setting the various policies for the budget for the game, policy scheduling for the referee scheduling.",9,40,False,False,question,0.32474464178085327
+S460,T122,spk_1,0:37:20,2240,And then of course activate.,And then of course activate.,10,5,False,False,agreement,0.3093717396259308
+S461,T122,spk_1,0:37:20,2240,Is uh policy uncertain uh leagues.,Is policy uncertain leagues.,11,4,False,False,question,0.38862165808677673
+S462,T122,spk_1,0:37:20,2240,"Um Same, that's about it.","Same, that's about it.",12,4,False,False,answer,0.4407912790775299
+S463,T123,spk_2,0:38:32,2312,Okay.,Okay.,0,1,True,False,clarification,0.3142271339893341
+S464,T123,spk_2,0:38:32,2312,Uh Registering referees also called uh registering calls for registering the players themselves how they are handled there brought into the IFA Or out of the IFA.,Registering referees also called registering calls for registering the players themselves how they are handled there brought into the IFA Or out of the IFA.,1,25,False,False,answer,0.21937990188598633
+S465,T123,spk_2,0:38:32,2312,I mean if appear,if appear,2,2,True,False,answer,0.27924230694770813
+S466,T124,spk_1,0:38:46,2326,"so, referees are appointed by the IFA.","so, referees are appointed by the IFA.",0,7,False,False,clarification,0.24587224423885345
+S467,T124,spk_1,0:38:46,2326,Representative insert invites the referee to being part of the system for the players.,Representative insert invites the referee to being part of the system for the players.,1,14,False,False,feature request,0.25788185000419617
+S468,T124,spk_1,0:38:46,2326,The team entered the details into the system.,The team entered the details into the system.,2,8,False,False,priority,0.20303180813789368
+S469,T125,spk_2,0:39:00,2340,Okay?,Okay?,0,1,True,False,question,0.30675673484802246
+S470,T125,spk_2,0:39:00,2340,And the FAA.,And the FAA.,1,3,True,False,clarification,0.17221702635288239
+S471,T125,spk_2,0:39:00,2340,Has just audit the process.,Has just audit the process.,2,5,False,False,question,0.25993382930755615
+S472,T125,spk_2,0:39:00,2340,Doesn't have anything any input in it.,Doesn't have anything any input in it.,3,7,False,False,opinion,0.4329492449760437
+S473,T126,spk_1,0:39:07,2347,Right.,Right.,0,1,True,False,clarification,0.2969786524772644
+S474,T126,spk_1,0:39:07,2347,"For the players, for the referee, for the players on the team managed its players.","For the players, for the referee, for the players on the team managed its players.",1,15,False,False,agreement,0.2592640817165375
+S475,T127,spk_2,0:39:16,2356,Okay.,Okay.,0,1,True,False,clarification,0.31422728300094604
+S476,T127,spk_2,0:39:16,2356,Uh There there is no more requirements on your side.,There is no more requirements on your side.,1,8,False,False,agreement,0.32292473316192627
+S477,T127,spk_2,0:39:16,2356,I think we've covered every question here.,I think we've covered every question here.,2,7,False,False,agreement,0.3348322808742523
+S478,T128,spk_1,0:39:24,2364,"Right at any rate if your traditional questions please do email me, I'll try to uh answer as soon as possible.","Right at any rate if your traditional questions please do email me, I'll try to answer as soon as possible.",0,20,False,False,question,0.3162432014942169
+S479,T128,spk_1,0:39:24,2364,Thank you.,Thank you.,1,2,True,False,answer,0.3071700632572174
+S480,T128,spk_1,0:39:24,2364,Thank,Thank,2,1,True,False,answer,0.2871713638305664
+S481,T129,spk_2,0:39:34,2374,you.,you.,0,1,True,False,clarification,0.18454356491565704
+S482,T129,spk_2,0:39:34,2374,Thank you.,Thank you.,1,2,True,False,answer,0.3071701228618622
+S483,T129,spk_2,0:39:34,2374,Thank you.,Thank you.,2,2,True,False,answer,0.3071701228618622
+S484,T130,spk_0,0:39:36,2376,Yeah.,Yeah.,0,1,True,False,clarification,0.2715659737586975
+S485,T131,spk_1,0:39:37,2377,"So like with your assignment again in case you have some problems, just send me an email.","So like with your assignment again in case you have some problems, just send me an email.",0,17,False,False,clarification,0.2661328911781311
+S486,T132,spk_0,0:39:45,2385,Thank you.,Thank you.,0,2,True,False,answer,0.30716976523399353
+S487,T133,spk_1,0:39:49,2389,See you.,See you.,0,2,True,False,answer,0.2157660275697708
+S488,T133,spk_1,0:39:49,2389,Bye like.,Bye like.,1,2,True,False,agreement,0.3461132347583771
+S489,T133,spk_1,0:39:49,2389,Yes.,Yes.,2,1,True,False,answer,0.3374432921409607
+S490,T133,spk_1,0:39:49,2389,Mhm.,Mhm.,3,1,True,False,clarification,0.3443155288696289
+S491,T133,spk_1,0:39:49,2389,What,What,4,1,True,False,question,0.40458425879478455
